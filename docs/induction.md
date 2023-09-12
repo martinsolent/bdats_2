@@ -30,7 +30,7 @@ Directions:
 
 [Campus Map](https://github.com/martinsolent/solent_store/raw/main/docs/east-park-terrace-campus-map.pdf){: .btn .btn-purple }
 
-[Download Induction Slides 2023-24](info/BDATS_INDUCTION_2023-24.pptx)
+[Download Induction Slides 2023-24](info/BDATS_INDUCTION_2023-24.pptx){: .btn .btn-purple }
 
 <!---
 your comment goes here
