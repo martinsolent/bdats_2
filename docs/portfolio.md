@@ -8,6 +8,9 @@ nav_order: 13
 
 # Portfolio
 
+Throughtout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, before Gateway you will need to select 6 discrete pieces of evidence for EPA assessment element 2 (AE2)
+
+<!---
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=286b4a1e-12e0-4e84-84c4-ae3e00f52d9f&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=true&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 
 
@@ -50,3 +53,4 @@ Gateway EPA take place in the EPA period following on from the completion of all
 1. A signed off EPA Ready Form - signed by the apprentice, their manager & Solent University
 1. Manager/Employer Feedback - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
 1. All documents are available above. Once completed please ZIP them up and submit them on the Portfolio upload link.
+--->

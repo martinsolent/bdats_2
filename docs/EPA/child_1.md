@@ -11,6 +11,31 @@ nav_order: 2
 
 Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Assessor Organisation (EPAO) ID: EPA0325](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1023443/Register_List_Of_Organisations_Oct_2021.xlsx)**
 
+Portfolio - Throught the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, before Gateway you will need to select 6 discrete pieces of evidence for EPA assessment element 2 (AE2)
+
+Project (AE1)- A project involves the apprentice completing a significant and defined piece of work that has a real business application and benefit. 
+
+ **The project may be undertaken pre-gateway, however, the Project Report must be completed after the apprentice has gone through the gateway.**
+
+The apprentice will scope out and provide a summary of what the project will cover and will submit this at the gateway. This should demonstrate that the work-based project report will provide sufficient opportunity for the apprentice to meet the KSBs mapped to this method. The summary is not formally assessed and will typically be no longer than 500 words.
+
+The project proposal needs to include a summary of the project plan, research requirements, an overview of how the project will be planned to include timeframes and the date the work-based project report must be submitted to the independent assessor
+
+##### AE1 - Project with report
+
+You will complete a project and write a report. You will be asked to complete a project. The title and scope must be agreed with the EPAO at the gateway. The report should be a maximum of 6000 words (with a 10% tolerance).
+
+You will have 12 weeks (EPA period) to complete the project and submit the report.
+
+You need to prepare and give a presentation to an independent assessor. Your presentation slides and any supporting materials should be submitted at the same time as the project output. The presentation with questions will last at least 60 minutes. The independent assessor will ask at least 4 questions about the project and presentation.
+
+##### AE2  - Professional discussion underpinned by a portfolio of evidence
+
+You will have a professional discussion with an independent assessor. It will last 60 minutes. They will ask you at least 4 questions. The questions will be about certain aspects of your occupation. You need to compile a portfolio of evidence before the EPA gateway. You can use it to help answer the questions.
+
+
+<!---
+
 **You will work on your work based Synoptic Project in the final on programme module COM625 before moving into Gateway EPA in the final three months of the apprenticeship, in this time you will prepare for your presentation to the independent assessor and upload your completed annotated portfolio that will map to knowledge skills and behaviours of the [standard.](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)**
 
 **You need to be employed as an apprentice to do the EPA assessment[](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)**Following information has been derived from the [assessment plan](https://www.instituteforapprenticeships.org/media/1073/digital_and_technology_solutions_professional.pdf)

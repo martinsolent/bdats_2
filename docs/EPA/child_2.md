@@ -7,8 +7,18 @@ nav_order: 3
 
 {: .no_toc }
 
-# Synoptic Project
+# EPA Work Based Project
 
+
+Project (AE1)- A project involves the apprentice completing a significant and defined piece of work that has a real business application and benefit. 
+
+ **The project may be undertaken pre-gateway, however, the Project Report must be completed after the apprentice has gone through the gateway.**
+
+The apprentice will scope out and provide a summary of what the project will cover and will submit this at the gateway. This should demonstrate that the work-based project report will provide sufficient opportunity for the apprentice to meet the KSBs mapped to this method. The summary is not formally assessed and will typically be no longer than 500 words.
+
+The project proposal needs to include a summary of the project plan, research requirements, an overview of how the project will be planned to include timeframes and the date the work-based project report must be submitted to the independent assessor
+
+<!---
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=48e43cd0-f642-478c-b269-ae5f015486fd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
