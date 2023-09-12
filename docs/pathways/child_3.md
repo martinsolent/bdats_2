@@ -12,32 +12,27 @@ nav_order: 4
 ![Network Engineer](../images/trello_course_structure_images_2020_0009_network.png)
 
 
-The primary role of a network engineer is to design, install, maintain and support communication networks within an organisation or between organisations. They need to maintain high levels of network performance and availability for users. They must also understand network configuration, cloud, network administration, and monitoring tools, and be able to give technical advice and guidance. Network engineers must be proficient in technology solutions to be able to analyse system requirements to ensure the network and its services operate to desired levels. Network engineers also understand data traffic and transmission across the network and have a major role to play in ensuring network security.
+The primary role of a network engineer is to lead in the planning, design , installation, maintenance and support of communication networks within an organisation or between organisations. They take a proactive and agile approach to maintain high levels of network performance and availability for their users, such as staff, clients, customers and suppliers. They understand network configuration, cloud, network administration and monitoring tools , and give technical advice and guidance to their users . As part of their role they analyse system requirements to ensure the network and its services operate to desired levels with security at the heart of everything they do . They understand data traffic and transmission across the network and have a major role to play in ensuring network security and resilience . They are the key problem solver when networks fail and respond with resilience under pressure.
 
-### Skills 
+**Duty** 52 Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.
 
-**Be able to:**
+**Duty** 53 Design operational networks and apply appropriate security products and processes in line with organisational requirements.
 
-* Plan, design, build and test a simple network to a requirement specification that includes hubs, switches, routers and wireless user devices, applying appropriate security products and processes.
-* Identify the key characteristics of a new network service and develop estimates of the expected traffic intensity and traffic load that the network must support.
-* Determine the minimum network capacity of planned networks to meet network requirements.
-* Design, build, test, configure and optimise a distributed network (more than 1 sub- net), including switches, routers and firewalls to meet given requirements.
-* Analyse network performance and troubleshoot typical problems in networks.
-* Identify and evaluate network security risks and incorporate appropriate security products and processes into network designs to increase security, resilience and dependability.
+**Duty** 54 Plan system upgrades to a network or hardware or software or operating systems.
 
-### Technical Knowledge
+**Duty** 55 Produce relevant network information or documentation to meet user needs.
 
-* Knows and understands:
+**Duty** 56 Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required.
 
-* The  fundamental    building   blocks   (e.g.   routers, switches, hubs, storage, transmission) and typical architectures (e.g. server/client, hub/spoke) of computers, networks and the Internet.
-* The main  features  of  routing  and  Internet  network protocols in use, their purpose and relationship to each other, including the physical and data link layer  (e.g. https, HTTP, SMTP, SNMP, TCP, IP, etc.).
-* The main factors that affect network performance (e.g. the relationship between bandwidth, number of users, nature of traffic, contention).
-* Failure modes in protocols (e.g. why a protocol may ‘hang’ and the effect of data communication errors).
-* The ways to improve performance (e.g. application of traffic shaping, changes to architecture to avoid bottlenecks, network policy that prohibit streaming protocols).
-* The issues that may arise in the day to day operation of networks and how to resolve them.
+**Duty** 57 Interpret requirements and technical specifications in relation to network systems.
 
+**Duty** 58 Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.
+
+**Duty** 59 Problem solve to address technical performance issues in network systems.
+
+<!---
 ![](../info/DATS_NET_ENG-1.png)
-
+-->
 ## Course Delivery - Network Engineer
 
 

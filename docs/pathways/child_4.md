@@ -11,32 +11,27 @@ nav_order: 5
 
 ![Software Engineer](../images/trello_course_structure_images_2020_0010_se.png)
 
-A Software Engineer needs to be able to design, develop, build and test high-quality software solutions. This role requires apprentices to apply engineering principles at all levels of the software development process. This includes requirement gathering, analysis and design, development and data requirements, while ensuring security robustness is built in. Software engineers typically work as part of a larger collaborative team and will have responsibility for significant elements of software projects.
+The primary role of the Software Engineer is to undertake all requirements during the solution development life-cycle from gathering requirements to analysis, design, code, build, test, implementation and support. They may also be required to supervise the work of junior software developers and others who may be working on elements of the solution and work with product managers and UX designers in implementing solutions. They will apply software engineering principles to all stages of the solution life-cycle, from gathering requirements, undertaking analysis and design, development of code and data requirements whilst also ensuring security feature are addressed. As well as creating new code, they can support existing code by troubleshooting, reverse engineering and conducting root cause analysis. They typically work as part of a large collaborative team and will have responsibility for significant elements of software solutions.
 
-### Skills 
+**Duty 16** Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
 
-**Be able to:**
+**Duty 17**  Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate).
 
-* Create effective and secure software solutions using contemporary software development languages to deliver the full range of functional and non-functional requirements using relevant development methodologies.
-* Undertake analysis and design to create artefacts, such as use cases to produce robust software designs.
-* Produce high quality code with sound syntax in at least one language following best practices and standards.
-* Perform code reviews, debugging and refactoring to improve code quality and efficiency.
-* Test code to ensure that the functional and non-functional requirements have been met.
-* Deliver software solutions using industry standard build processes, and tools for configuration management, version control and software build, release and deployment into enterprise environments.
+**Duty 18** Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
 
-### Technical Knowledge
+**Duty 19** Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).
 
-**Knows and understands:**
+**Duty 20** Supervise the work of more junior team members undertaking work in the software solution life-cycle
 
-* How to operate at all stages of the software development lifecycle.
-* How teams work effectively to develop software solutions embracing agile and other development approaches.
-* How to apply software analysis and design approaches.
-* How to interpret and implement a design, compliant with functional, non-functional and security requirements.
-* How to perform functional and unit testing.
-* How to use and apply the range of software tools used in Software engineering.
+**Duty 21** Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required
 
+**Duty 22** Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.
+
+**Duty 23** Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).
+
+<!--
 ![](../info/DATS_SOFT_ENG.png)
-
+-->
 ## Course Delivery - Software Engineer
 
 ### Level 4 - 1st Year

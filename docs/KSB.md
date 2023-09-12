@@ -32,11 +32,11 @@ Knowledge, Skills and behaviours of the learning outcomes the apprenticeship sta
 
 **Duty 9** devise and engage in continuous professional development
 
-Duty 10 conduct and present effective research using engaging, well-structured approaches
+**Duty 10** conduct and present effective research using engaging, well-structured approaches
 
-Duty 11 design, build and test high-quality software solutions.
+**Duty 11** design, build and test high-quality software solutions.
 
-Duty 12 apply engineering principles to all stages of the software development process, from requirements, analysis and design, development and data requirements
+**Duty 12** apply engineering principles to all stages of the software development process, from requirements, analysis and design, development and data requirements
 
 **Duty 13** Apply skills and knowledge of systems development, cyber security, data, AI and infrastructure in the creation of digital solutions.
 

@@ -9,33 +9,23 @@ nav_order: 2
 
 #  BDATS - Cybersecurity Specialist
 
-![Cyber Security Specialist](../images/trello_course_structure_images_2020_0011_cyber.png)
+![Cyber Security Analyst](../images/trello_course_structure_images_2020_0011_cyber.png)
 
-A cyber security analyst is responsible for the implementation, maintenance and support of the security controls that protect an organisation’s systems and data assets from threats and hazards. They ensure that security technologies and practices are operating in accordance with the organisation’s policies and standards to provide continued protection. They require a broad understanding of network infrastructure, software and data to identify where threat and hazard can occur. They are responsible for performing periodic vulnerability assessments to evaluate the organisation’s ongoing security posture and will provide visibility to management of the main risks and control status on an ongoing basis. They respond to security incidents and implement resolution activities across the organisation.
+A Cyber Security Analyst leads in the work to define, implement and maintain security products and systems within an organisation’s policies and service level agreements . They will need to analyse and understand the points of vulnerability within IT systems and a proactive and agile approach to maintain high levels of systems and organisational security. They will monitor security performance using tools, statistical reporting and analysis, using the output of monitoring to problem solve, propose improvements and implement changes to meet service level requirements. A Cyber Security Analyst leads technical implementation of security infrastructures and technical designs, including producing cost and timescale estimates and identifying risks. After implementation they take ownership for obtaining the information required to diagnose and resolve more complex problems and escalations such as security incidents and business recovery. They engage with third parties to jointly resolve in-depth product issues where necessary and completing cyber risk assessments .
 
-### Skills
+**Duty 41** Analyse and evaluate security threats to technology solutions and implement technical and process solutions to mitigate these threats.
 
-**Be able to:**
+**Duty 42**  Perform security risk assessments within wider IT development teams, ensuring cyber security is embedded within the deliverables of the team.
 
-* Analyse and evaluate security threats and vulnerabilities to planned and installed information systems or services and identify how these can be mitigated against.
-* Perform security risk assessments for a range of information systems and propose solutions.
-* Develop a security case against recognised security threats, and recommend mitigation, security controls and appropriate processes.
-* Define and justify a user access policy for an information system given knowledge of the system architecture, security requirements and threat/risk environment. This should be in terms of what they can do, resources they can access, and operations they are allowed to perform.
-* Perform a business impact analysis in response to a security incident and follow a disaster recovery plan to meet elements of a given business continuity policy.
-* Conduct a range of cyber security audit activities to demonstrate security control effectiveness
+**Duty 43**  Lead a range of cyber security audit activities to demonstrate security control effectiveness.
 
-### Technical Knowledge
+**Duty 44** Apply advanced problem solving techniques to address cyber security issues.
 
-**Knows and understands:**
+**Duty 45**  Plan and perform a business impact analysis in response to a security incident and implement a recovery plan.
 
-* The types of security (confidentiality, authentication; non-repudiation; service integrity) and security big picture (network security; host OS security; physical security).
-* The main types of common attack techniques, including phishing, social engineering, malware, network interception, blended techniques, denial of service and theft.
-* How to recognise and assess risk including performing a risk assessment.
-* How to apply penetration testing effectively and how it contributes to assurance.
-* The different approaches to risk treatment and management in practice.
-* What the ‘cyber security culture’ in an organisation is, and how it may contribute to security risk.
+**Duty 46** Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs).
 
-
+<!--
 ![](../info/DATS_CYBER.png)
 
 
@@ -51,7 +41,7 @@ A cyber security analyst is responsible for the implementation, maintenance and 
 |**Summer - May - Sept (8 Weeks of Teaching)**|
 |COM423 - Systems Analysis & Design Work Based Project|
 |COM414* Routing & Switching|
-
+-->
 ### Level 5 - 2nd Year
 
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
