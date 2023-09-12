@@ -44,7 +44,7 @@ Duty 12 apply engineering principles to all stages of the software development p
 
 **Duty 15** Mentor others in the development and implementation of digital and technical solutions.
 
-### software engineering professional
+### Software Engineering Professional
 **Duty 16** Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
 
 **Duty 17**  Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate).
@@ -75,6 +75,8 @@ Duty 12 apply engineering principles to all stages of the software development p
 
 **Duty 46** Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs).
 
+### Data analyst professional
+
 **Duty 47** Analytic support for colleagues
 
 **Duty 48**  Support the analytics strategy and measurement for specific teams across the business
@@ -85,6 +87,8 @@ Duty 12 apply engineering principles to all stages of the software development p
 
 **Duty 51** Keep up to date with the latest developments within the field of data analytics
 
+
+### Network Engineering Professional
 **Duty** 52 Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.
 
 **Duty** 53 Design operational networks and apply appropriate security products and processes in line with organisational requirements.

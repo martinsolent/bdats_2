@@ -39,7 +39,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 
 ## Course Delivery - Software Engineer
 
-### Level 4 - 1st Year - September Start 
+### Level 4 - 1st Year
 
 | **Winter - Sept - Jan (12 Weeks of Teaching)** |
 |:--------------------------------------------|
@@ -52,7 +52,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |COM423 - Systems Analysis & Design|
 |COM421 - Data Structures, Algorithms & Maths|
 
-### Level 5 - 2nd Year - September Start
+### Level 5 - 2nd Year
 
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
 |:--------------------------------------------|
@@ -65,7 +65,7 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |COM532 - Work Based IT Project Management|
 |COM530 - Work Based Business Organisation |
 
-### Level 6 - 3rd Year - September Start
+### Level 6 - 3rd Year
 
 |**Winter - Sept - Jan (12 Weeks of Teaching)**|
 |:---------|
@@ -74,8 +74,10 @@ A Software Engineer needs to be able to design, develop, build and test high-qua
 |**Spring - Jan - May (12 Weeks of Teaching)**|
 |COM618 - Data Science|
 |COM617 - Industrial Consulting Project|
-|**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM625 - Synoptic Work Based IT Project|
+|**Summer - May - Sept**|
+|Gateway Support|
+|**Winter - Oct - Jan**|
+|COM625 - EPA|
 
 ### *Modules with embedded CISCO Training
 
