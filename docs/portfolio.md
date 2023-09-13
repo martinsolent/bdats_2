@@ -8,7 +8,7 @@ nav_order: 13
 
 # Portfolio
 
-Throughtout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, before Gateway you will need to select 6 discrete pieces of evidence for EPA assessment element 2 (AE2)
+Throughout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, before Gateway you will need to select 6 discrete pieces of evidence for EPA assessment element 2 (AE2)
 
 <!---
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=286b4a1e-12e0-4e84-84c4-ae3e00f52d9f&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=true&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
