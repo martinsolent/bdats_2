@@ -15,64 +15,78 @@ The primary role of the Software Engineer is to undertake all requirements durin
 
 **Duty 16** Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
 
+K21 K22 K23 K28
+S16 S23
+
 **Duty 17**  Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate).
+
+K21 K22 K23 K24 K28
+S19 S20
 
 **Duty 18** Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
 
+K24 K26 K27 K28
+S17 S18 S19
+
 **Duty 19** Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).
+
+K21 K22 K23 K24 K25 K26 K27 K28
+S18 S19 S20 S21
 
 **Duty 20** Supervise the work of more junior team members undertaking work in the software solution life-cycle
 
+K21 K28
+S16 S17 S22
+
 **Duty 21** Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required
+
+K25 K26 K28
+S16 S18 S21 S22 S23
 
 **Duty 22** Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.
 
+K21 K28
+S17 S22
+
 **Duty 23** Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).
 
-<!--
-![](../info/DATS_SOFT_ENG.png)
--->
+K21 K28
+S22 S23
+
 ## Course Delivery - Software Engineer
-
-### Level 4 - 1st Year
-
-| **Winter - Sept - Jan (12 Weeks of Teaching)** |
-|:--------------------------------------------|
-| COM411 - Problem Solving through Programming |
-| COM412 - Introduction to Networks & Security* | 
-| **Spring - Jan - May (12 Weeks of Teaching)**|
-| COM422 - Software Testing & Reliability Engineering |
-| COM417 - Introduction to Databases                  | 
-|**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM423 - Systems Analysis & Design|
-|COM421 - Data Structures, Algorithms & Maths|
-
-### Level 5 - 2nd Year
-
-|**Winter - Sept - Jan (12 Weeks of Teaching)**|
-|:--------------------------------------------|
-|COM528 - Object Oriented Design & Development|
-|COM519 - Advanced Database Systems
-|**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM527 - Mobile Application Development| 
-|COM526 - Introduction to AI|
-|**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM532 - Work Based IT Project Management|
-|COM530 - Work Based Business Organisation |
-
-### Level 6 - 3rd Year
-
-|**Winter - Sept - Jan (12 Weeks of Teaching)**|
-|:---------|
-|COM624 - Machine Learning|
-|COM619 - DevOps|
-|**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM618 - Data Science|
-|COM617 - Industrial Consulting Project|
-|**Summer - May - Sept**|
-|Gateway Support|
-|**Winter - Oct - Jan**|
-|COM625 - EPA|
+| **BDATS** | Software Engineering|
+| --- | --- |
+| **Level 4** | |
+| **SEM 1** | **Sept - Jan** |
+| COM411 | Problem Solving Through Programming |
+| COM412 | Intro to Networks and Security |
+| **SEM 2** | **Jan - May** |
+| COM417 | Introduction to Databases |
+| COM422 | Software Testing and Reliability Engineering |
+| **SEM 3** | **May - Sept** |
+| COM423 | Systems Analysis & Design  |
+| COM421 | Data Structures, Algorithms & Maths |
+| **Level 5** |  |
+| **SEM 1** | **Sept - Jan** |
+| COM519 | Advanced Database Systems |
+| COM528 | Object Oriented Development |
+| **SEM 2** | **Jan - May** |
+| COM526 | Introduction to AI |
+| COM527 | Mobile Application Development |
+| **SEM 3** | **May - Sept** |
+| COM532 | Work Based IT Project Management |
+| COM530 | Work Based Business Organisation |
+| **Level 6** | |
+| **SEM 1** | Sept - Jan |
+| COM624 | Machine Learning |
+| COM619 | DevOps |
+| **SEM 2** | **Jan - May** |
+| COM617 | Industrial Consulting Project |
+| COM618 | Data Science |
+| **SEM 3** | **May - Sept** |
+| COM628 | Gateway (Zero Credit Module EPA Prep) |
+| **EPA** | **Oct- Jan** |
+| COM627 | End Point Assessment (40 Credits) |
 
 ### *Modules with embedded CISCO Training
 

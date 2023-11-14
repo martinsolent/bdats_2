@@ -7,7 +7,7 @@ nav_order: 2
 
 {: .no_toc }
 
-#  BDATS - Cybersecurity Specialist
+#  BDATS - Cybersecurity Analyst
 
 ![Cyber Security Analyst](../images/trello_course_structure_images_2020_0011_cyber.png)
 
@@ -15,60 +15,69 @@ A Cyber Security Analyst leads in the work to define, implement and maintain sec
 
 **Duty 41** Analyse and evaluate security threats to technology solutions and implement technical and process solutions to mitigate these threats.
 
+K45 K46 K47 K49 K51
+S40 S41 S43 S46
+
 **Duty 42**  Perform security risk assessments within wider IT development teams, ensuring cyber security is embedded within the deliverables of the team.
+
+K46 K47
+S41
 
 **Duty 43**  Lead a range of cyber security audit activities to demonstrate security control effectiveness.
 
+K47 K48 K50
+S42 S46
+
 **Duty 44** Apply advanced problem solving techniques to address cyber security issues.
+
+K45 K48 K49 K50 K52
+S40 S44 S46 S47
 
 **Duty 45**  Plan and perform a business impact analysis in response to a security incident and implement a recovery plan.
 
+K49 K51 K52
+S40 S43 S44
+
 **Duty 46** Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs).
 
-<!--
-![](../info/DATS_CYBER.png)
+K46 K48 K49 K50 K51 K52
+S43 S45 S46 S47
 
 
-### Level 4 - 1st Year
 
-| **Winter - Sept - Jan (12 Weeks of Teaching)** |
-|:--------------------------------------------|
-| COM411 - Problem Solving through Programming |
-| COM412* - Introduction to Networks & Security | 
-| **Spring - Jan - May (12 Weeks of Teaching)** |
-| COM415 Cyber Security Essentials |
-| COM417 - Introduction to Databases| 
-|**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM423 - Systems Analysis & Design Work Based Project|
-|COM414* Routing & Switching|
--->
-### Level 5 - 2nd Year
-
-|**Winter - Sept - Jan (12 Weeks of Teaching)**|
-|:--------------------------------------------|
-|COM521 Ethical Hacking & Pen Testing |
-|COM511 Network Systems Automation |
-|**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM512 Network Security* | 
-|COM522 Threat Intelligence Analysis|
-|**Summer - May - Sept (8 Weeks of Teaching)**|
-|COM532 - Work Based IT Project Management|
-|COM530 - Work Based Business Organisation |
-
-### Level 6 - 3rd Year
-
-|**Winter - Sept - Jan(12 Weeks of Teaching)**|
-|:--------------------------------------------|
-|COM613 CyberOps* |
-|COM615 Network Management |
-|**Spring - Jan - May (12 Weeks of Teaching)**|
-|COM614 Cloud Computing | 
-|COM617 - Industrial Consulting Project|
-|**Summer - May - Sept**|
-|Gateway Support|
-|**Winter - Oct - Jan**|
-|COM625 - EPA|
-
+| **BDATS** |  **Cybersecurity Analyst** |
+| --- | --- |
+| **Level 4** | |
+| **SEM 1** | **Sept - Jan** |
+| COM411 | Problem Solving Through Programming |
+| COM412 | Intro to Networks and Security* |
+| **SEM 2** | **Jan - May** |
+| COM417 | Introduction to Databases |
+| COM415 | Cyber Security Essentials  |
+| **SEM 3** | **May - Sept** |
+| COM423 | Systems Analysis & Design  |
+| COM414 | Routing and Switching* |
+| **Level 5** |  |
+| **SEM 1** | **Sept - Jan** |
+| COM521 | Ethical Hacking & Pen Testing |
+| COM511 | Network Systems Automation |
+| **SEM 2** | **Jan - May** |
+| COM512 | Network Security* |
+| COM522 | Threat Intelligence Analysis |
+| **SEM 3** | **May - Sept** |
+| COM532 | Work Based IT Project Management |
+| COM530 | Work Based Business Organisation |
+| **Level 6** | |
+| **SEM 1** | **Sept - Jan** |
+| COM613 | CyberOps* |
+| COM615 | Network Management |
+| **SEM 2** | **Jan - May** |
+| COM617 | Industrial Consulting Project |
+| COM614 | Cloud Computing |
+| **SEM 3** | **May - Sept** |
+| COM628 | Gateway (Zero Credit Module EPA Prep) |
+| **EPA** | **Oct- Jan** |
+| COM627 | End Point Assessment (40 Credits) |
 
 ### *Modules with embedded CISCO Training
 
