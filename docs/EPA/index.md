@@ -17,6 +17,9 @@ Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Ass
 
 A degree-apprenticeship awards a degree with the achievement of the apprenticeship. The degree learning outcomes must be aligned with the knowledge, skills and behaviours (KSBs) in the apprenticeship. The degree must be completed, passed and awarded alongside the digital and technology solutions professional degree-apprenticeship.
 
+{: .note }
+To pass the BSc (Hons) degree you must pass the Apprenticeship (EPA) and vice versa
+
 The apprentice must complete their training and meet the gateway requirements before starting their EPA. The EPA will assess occupational competence.
 
 **To move into the EPA period you need to have completed and submitted the off-the-job tracker, Portfolio, EPA ready form & Employer feedback reference - these will need to be checked before the final EPA assessments can be booked.**  
@@ -26,7 +29,7 @@ We will encourage apprentices and their employers to think about suitable projec
 Support for the EPA **(COM627)** takes place in the final **Digital and Technology Solutions Gateway COM628** module which will also prepare you for gateway EPA in completing your portfolio, gathering all required documents, and creating a "dry run" presentation. 
 
 {: .note }
-This is an archive ofOnce you have gone through Gateway sucessfully and are in EPA Solent University is unable to offer you support of feedback on your work you prestent to the independay assessor/s
+Once you have gone through Gateway sucessfully and are in EPA Solent University is unable to offer you support of feedback on your work you prestent to the independay assessor/s
 
 
 **The EPA will be completed within a period lasting typically 3 months.**

@@ -18,7 +18,7 @@ Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the S
 
 [BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/?view=standard){: .btn .btn-purple } 
 
-### Core Duties
+### Core Duties (All Pathways)
 **Duty 1** Critically analyse a business domain to identify opportunities for improvement
 
 K1 K2 K3 K5 K7 K8 K10 K11 K12 K13 K14 K15 K16 K19 K20
