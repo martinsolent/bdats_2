@@ -8,12 +8,15 @@ nav_order: 12
 
 # BDATS Knowledge, Skills & Behaviours
 
+![](./images/know.jpg)
 
-[BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/?view=standard){: .btn .btn-purple } 
+
 
 **Knowledge, Skills and behaviours (KSBs)** are the learning outcomes the apprenticeship standards have been built on. 
 
 Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the Specialism (Pathway)
+
+[BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/?view=standard){: .btn .btn-purple } 
 
 ### Core Duties
 **Duty 1** Critically analyse a business domain to identify opportunities for improvement
