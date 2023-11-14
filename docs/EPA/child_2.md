@@ -9,6 +9,8 @@ nav_order: 3
 
 # BDATS - EPA Work Based Project
 
+![](../images/ej-yao-D46mXLsQRJw-unsplash.jpg)
+
 Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Assessor Organisation (EPAO) ID: EPA0325](https://find-epao.apprenticeships.education.gov.uk/courses/25/assessment-organisations/epa0325)**
 
 **Project (AE1)** - A project involves the apprentice completing a significant and defined piece of work that has a real business application and benefit. 

@@ -10,7 +10,8 @@ nav_order: 13
 
 ![](./images/alexander-grey-tn57JI3CewI-unsplash.jpg)
 
-**Submit a Portfolio of evidence for the professional discussion underpinned by a portfolio.**
+Throughout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, in Gateway, the final on-progreamme module in 3rd (Level 6), you will submit a Portfolio of **select a final 6 discrete pieces for the Professional Discussion** underpinned by a portfolio assessment element 2 (AE2)
+
 
 * apprentices must compile a portfolio of evidence during the on-programme period of the apprenticeship.
 * it must contain evidence related to the KSBs that will be assessed by the professional discussion.

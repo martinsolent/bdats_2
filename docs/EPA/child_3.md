@@ -9,7 +9,9 @@ nav_order: 4
 
 # Professional Discussion underpinned by a Portfolio.
 
-Throughout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, before Gateway you will need to **select 6 discrete pieces of evidence** for EPA assessment element 2 (AE2)
+![](../images/christina-wocintechchat-com-eF7HN40WbAQ-unsplash.jpg)
+
+Throughout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, before Gateway at the enmd of the apprenticeship you will need to **select 6 discrete pieces of evidence** for EPA assessment element 2 (AE2)
 
 #### Overview
 In the professional discussion, an independent assessor and apprentice have a formal two-way conversation. It gives the apprentice the opportunity to demonstrate the KSBs mapped to this assessment method.
@@ -56,4 +58,18 @@ The professional discussion must take place in a suitable venue selected by the 
 The professional discussion can be conducted by video conferencing. The EPAO must have processes in place to verify the identity of the apprentice and ensure the apprentice is not being aided.
 
 The professional discussion should take place in a quiet room, free from distractions and influence.
+
+#### Re-sits and re-takes
+If the apprentice fails one or more assessment methods, they can take a re-sit or a re-take at their employer’s discretion. The apprentice’s employer needs to agree that a re-sit or re-take is appropriate. A re-sit does not need further learning, whereas a re-take does.
+
+The apprentice should have a supportive action plan to prepare for a re-sit or a re-take.
+
+The employer and EPAO (Solent University) agree the timescale for a re-sit or re-take. A re-sit is typically taken within 3 months of the EPA outcome notification. The timescale for a re-take is dependent on how much re-training is required and is typically taken within 6 months of the EPA outcome notification.
+
+If the apprentice fails the project assessment method, they must amend the project output in line with the independent assessor’s feedback. The apprentice will be given 4 weeks to rework and submit the amended report.
+
+Failed assessment methods must be re-sat or re-taken within a 6-month period from the EPA outcome notification, otherwise the entire EPA will need to be re-sat or re-taken in full.
+
+Re-sits and re-takes are not offered to an apprentice wishing to move from pass to a higher grade.
+
 

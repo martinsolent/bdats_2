@@ -19,8 +19,17 @@ A degree-apprenticeship awards a degree with the achievement of the apprenticesh
 
 The apprentice must complete their training and meet the gateway requirements before starting their EPA. The EPA will assess occupational competence.
 
+**To move into the EPA period you need to have completed and submitted the off-the-job tracker, Portfolio, EPA ready form & Employer feedback reference - these will need to be checked before the final EPA assessments can be booked.**  
+  
+We will encourage apprentices and their employers to think about suitable project areas for the Work Based Project end of the 2nd year (Level 5) and the beginning of the 3rd year (Level 6).
 
-The EPA will be completed within a period lasting typically 3 months.
+Support for the EPA **(COM627)** takes place in the final **Digital and Technology Solutions Gateway COM628** module which will also prepare you for gateway EPA in completing your portfolio, gathering all required documents, and creating a "dry run" presentation. 
+
+{: .note }
+This is an archive ofOnce you have gone through Gateway sucessfully and are in EPA Solent University is unable to offer you support of feedback on your work you prestent to the independay assessor/s
+
+
+**The EPA will be completed within a period lasting typically 3 months.**
 
 Occupational competence is outlined by the EPA grade descriptors and determined, when assessed in line with this EPA plan, by an independent assessor who is an occupational expert and confirms the overall EPA grade.
 

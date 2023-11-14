@@ -9,6 +9,8 @@ nav_order: 2
 
 #  BDATS 1.2 - End Point Assessment (EPA)
 
+![](../images/bernd-klutsch-nE2HV5AUXFo-unsplash.jpg)
+
 Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Assessor Organisation (EPAO) ID: EPA0325](https://find-epao.apprenticeships.education.gov.uk/courses/25/assessment-organisations/epa0325)**
 
 ### AE1 - Project with report
