@@ -29,10 +29,10 @@ An independent assessor must conduct and assess the professional discussion.
 
 The purpose of the independent assessor's questions will be to explore the following topics and themes:
 
-**Theme A**: Underlying Principles
-**Theme B:** Technical Solutions
-**Theme C:** Innovation & Response
-**Theme D:** Legal, Ethics & Landscape
+* **Theme A**: Underlying Principles
+* **Theme B:** Technical Solutions
+* **Theme C:** Innovation & Response
+* **Theme D:** Legal, Ethics & Landscape
 
 The EPAO (Solent University) must give an apprentice **14 days notice** of the professional discussion.
 
