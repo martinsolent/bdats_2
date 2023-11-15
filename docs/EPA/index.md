@@ -29,7 +29,7 @@ We will encourage apprentices and their employers to think about suitable projec
 Support for the EPA **(COM627)** takes place in the final **Digital and Technology Solutions Gateway COM628** module which will also prepare you for gateway EPA in completing your portfolio, gathering all required documents, and creating a "dry run" presentation. 
 
 {: .note }
-Once you have gone through Gateway sucessfully and are in EPA Solent University is unable to offer you support of feedback on your work you prestent to the independent assessor/s. Don't worry we will git you are the support and preparation in the Gateway module COM628. 
+Once you have gone through Gateway sucessfully and are in EPA Solent University is unable to offer you support of feedback on your work you prestent to the independent assessor/s. Don't worry we will give you support and preparation advice in the Gateway module COM628. 
 
 
 **The EPA will be completed within a period lasting typically 3 months.**
