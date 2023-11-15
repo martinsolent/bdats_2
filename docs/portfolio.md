@@ -27,7 +27,7 @@ Throughout the apprenticeship you will need to keep a portfolio of work mapped t
 
 **This is not a definitive list; other evidence sources are possible.**
 
-* Although it is expected that apprentices at degree level will be reflective in their practice, it should be noted that the EPA assesses individuals on evidence of output against the KSBs, not reflective accounts, or any methods of self-assessment.
+* **Although it is expected that apprentices at degree level will be reflective in their practice, it should be noted that the EPA assesses individuals on evidence of output against the KSBs, not reflective accounts, or any methods of self-assessment.**
 * any employer contributions should focus on direct observation of performance (for example witness statements) rather than opinions.
 * the evidence provided must be valid and attributable to the apprentice; the portfolio of evidence must contain a statement from the employer and apprentice confirming this.
 * the portfolio of evidence must be submitted to the EPAO at the gateway.
