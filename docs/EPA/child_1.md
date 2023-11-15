@@ -19,8 +19,8 @@ You will complete a project and write a report. The title and scope must be agre
 
 You will have **12 weeks (EPA period)** to complete the project and submit the report.
 
-You need to prepare and give a presentation to an independent assessor. Your presentation slides and any supporting materials should be submitted at the same time as the project output. **The presentation with questions will last at least 60 minutes.** The independent assessor will a**sk at least 4 questions** about the project and presentation.
+You need to prepare and give a presentation to an independent assessor. Your presentation slides and any supporting materials should be submitted at the same time as the project output. **The presentation with questions will last at least 60 minutes.** The independent assessor will **ask at least 4 questions** about the project and presentation.
 
 ### AE2  - Professional discussion underpinned by a portfolio of evidence
 
-You will have a **professional discussion** with an independent assessor.** It will last 60 minutes.** **They will ask you at least 4 questions.** The questions will be about certain aspects of your occupation. **You need to compile a portfolio of evidence before the EPA gateway.** You can use it to help answer the questions.
+You will have a **professional discussion** with an independent assessor.**It will last 60 minutes.** **They will ask you at least 4 questions.** The questions will be about certain aspects of your occupation. **You need to compile a portfolio of evidence before the EPA gateway.** You can use it to help answer the questions.
