@@ -411,7 +411,7 @@ S49: Apply different types of Data Analysis, as appropriate, to drive improvemen
 
 **S52:** Apply a range of techniques for analysing quantitative data such as data mining, time series forecasting, algorithms, statistics and modelling techniques to identify and predict trends and patterns in data.
 
-S53: Apply exploratory or confirmatory approaches to analysing data. Validate and and test stability of the results.
+**S53:** Apply exploratory or confirmatory approaches to analysing data. Validate and and test stability of the results.
 
 **S54:** Extract data from a range of sources. For example, databases, web services, open data.
 
@@ -430,7 +430,7 @@ S53: Apply exploratory or confirmatory approaches to analysing data. Validate an
 **S61:** Secure network systems by establishing and enforcing policies, and defining and monitoring access. Support and administer firewall environments in line with IT security policy.
 S62: Research and evaluate emerging network technologies and assess relevance to current network requirements. Provide an objective opinion on how new features and technologies may be incorporated as required by the organisation.#
 
-S63: Investigate security concerns or attacks. For example, Distributed Denial of Service (DDOS), port scanning, assessing key metrics and indicators, evidencing the chosen steps to mitigate.
+**S63:** Investigate security concerns or attacks. For example, Distributed Denial of Service (DDOS), port scanning, assessing key metrics and indicators, evidencing the chosen steps to mitigate.
 
 
 **Behaviours**
