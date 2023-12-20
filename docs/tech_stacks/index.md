@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech & Content Delivery
-nav_order: 50
+nav_order: 22
 has_children: true
 ---
 

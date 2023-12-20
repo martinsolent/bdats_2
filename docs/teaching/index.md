@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching & Learning
-nav_order: 25
+nav_order: 21
 has_children: true
 ---
 
