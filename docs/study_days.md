@@ -84,7 +84,7 @@ Tutor: martin.reid@solent.ac.uk 15:00-17:00 - Room JM412 & ONLINE
 **Cyber & Networking Pathways:**
 
 COM617 - Industrial Consulting Project
-Tutor: craig.gallon@solent.ac.uk 9:00-11:00 - Room JM404
+Tutor: craig.gallen2@solent.ac.uk 9:00-11:00 - Room JM404
 
 COM614 Cloud Computing 
-Tutor: craig.gallon@solent.ac.uk 10:00-13:00 - Room JM404
+Tutor: craig.gallen2@solent.ac.uk 10:00-13:00 - Room JM404
