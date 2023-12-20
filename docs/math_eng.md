@@ -55,3 +55,15 @@ Here's how each of them is involved:
 |          COM624   Machine Learning           | Linear  Algebra<br /><br />Linear  and Polynomial Regressions<br /><br />Descriptive  Statistics  2D and 3D  geometric analysis and visualisation<br /><br />Statistical  modelling<br /><br />Matrix  operations such as convolutions |
 
 ### English Module Mapping
+
+We deliver an introduction to writing clearly and concisely at Level 4 for all our apprentices in COM423. Most of the coursework modules involve writing either academic or supporting documentation for a digital product/s which they will be supported and assessed on the quality and presentation of the writing. We recap in the support sessions for Synoptic Project (old standard 1.1) and EPA Support COM628 (New standard 1.2)
+
+ 
+
+|                            Module                            | Level 4 - First Year                                         |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+| COM423   Systems Analysis & Design<br /><br />Also COM625 & new standard BDATS 1.2 COM628 | This module offers apprentices a foundation in  writing with clarity to produce clear and concise pieces of work, these  skills will be used throughout the apprenticeship building up expertise for  what Work Based report for EPA<br /><br />This module covers academic, referencing/citation  technical writing including Topic sentences, Academic paragraphs, and  signposting language to make sure report writing is clear and flows well. |
+|                          **Module**                          | **All Course Work Modules Levels**                                      |
+| Levels 4-6| **BDATS Duty 40:** *Produce written  documentation to support work, report findings, and present to stakeholders.*      <br /><br />**BDATS S25:** *Effectively communicate value add to the client  through a variety of media. For example, presentations, written reports,  Storytelling in a professional setting through performing socio-technical  process improvements in a range of environments.* |
+
+ 
