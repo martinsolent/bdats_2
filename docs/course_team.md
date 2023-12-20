@@ -96,9 +96,9 @@ raza.hasan@solent.ac.uk
 taiwo.ayodele@solent.ac.uk
 
 
-#### [Vacant Post](https://www.solent.ac.uk/staff/academic) **- Lecturer in Software Development (Web)**
+#### [Dr Daniel Olabanji](https://www.linkedin.com/in/daniel-olabanji-4b200411/) **- Lecturer in Software Development (Web)**
 
-@solent.ac.uk
+daniel.olabanji@solent.ac.uk
 
 #### Kenton Wheeler **- Associate Lecturer in Computing**
 
@@ -122,6 +122,11 @@ warren.earle@solent.ac.uk
 #### [Dr. Jarutas Andritsch](https://www.solent.ac.uk/staff-profiles/jarutas-andritsch) **- Lecturer in Computing**
 
 jarutas.andritsch@solent.ac.uk
+
+
+#### Dr Pengfei Xue **- Associate Lecturer in Computing**
+
+pengfei.xue@solent.ac.uk
 
 ------
 
