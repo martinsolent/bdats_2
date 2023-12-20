@@ -1,6 +1,6 @@
 ---
 layout: default
-title:English & Maths
+title: English & Maths
 nav_order: 29
 ---
 
