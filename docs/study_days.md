@@ -14,11 +14,13 @@ The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1
 
 [Solent University Academic calendar for 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf)
 
-What will be my university study day 2023-24?
+[Solent University Academic calendar for 2024-25](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2024-25.pdf)
 
-As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
+**What will be my university study day 2023-24?**
 
-### Semester 2 - Jan 2024 - May 2024
+As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, **but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.**
+
+### Semester 3 - May 2024 - Sept 2024
 
 | Study Day | Year (Level)  |           Pathway           |
 | --------- | :-----------: | :-------------------------: |
@@ -26,65 +28,34 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | Wednesday | 2nd Yr (L5)   |             ALL             |
 | Thursday  | 3rd Yr (L6)   |             ALL             |
 
-#### 1st Year (Level 4) Teaching Starts:Tuesday 23rd January 2024
 
-**Software Engineering Pathway:**
 
-COM422 - Software, Testing and Reliability Engineering.
-There is a Directed Learing Activity that need to be done before class - you have time to go through this 9:00-10:00 (SOL - ONLINE)
-Tutor: darren.cunningham@solent.ac.uk 10:00-12:00 - Room JM405
+## Summer 2024
 
-COM417 - Introduction to Databases
-Tutor: kenton.wheeler@solent.ac.uk 14:00-17:00 - Room JM312
+#### Software Engineering Pathway:
 
-**Cyber & Networking Pathways:**
+**1st Year (Level 4) Teaching Starts: Tuesday 4th June 2024**
 
-COM415 - Cyber Security Essential
-Tutor: neville.palmer@solent.ac.uk 9:00-12:00 - Room JM312
+Systems Analysis and Design Work Based Project COM423
+Tuesday 10:00 - 12:00
+Room: JM405 Audio Lab (and Hybrid Delivery)
+Tutor Martin Reid
 
-COM417 - Introduction to Databases
-Tutor: kenton.wheeler@solent.ac.uk 14:00-17:00 - Room JM312
+Data Structures, Algorithms and Mathematics COM421
+Tuesdays 14:00 - 16:00
+Room: JM406 CISCO Networking Lab (and Hybrid Delivery)
+Tutor: Aremen Petrosyan
 
-#### 2nd Year (Level 5) Teaching Starts: Wednesday 23rd January 2024
 
-**Software Engineering Pathway:**
+#### Cyber & Networking Pathways:
 
-COM527 - Mobile application development
-Tutor: nick.whitelegg@solent.ac.uk 11:00-14:00 - Room JM311
+Systems Analysis and Design Work Based Project COM423
+Tuesday 10:00 - 12:00
+Room: JM405 Audio Lab
+Tutor Martin Reid
 
-COM526 - Introduction to Artificial Intelligence
-Tutor: pengfei.xue@solent.ac.uk 15:00-17:00 - Room HC208
+Routing and Switching COM414
+Room: Tuesday 13:00 to 15:00
+JM404 Networking Lab
+Tutor: Bode Amangele
 
-**Cyber & Networking Pathways:**
-
-COM513 - Network Engineering
-Tutor: warren.earle@solent.ac.uk 9:00-13:00 - Room JM404
-
-COM512 - Network Security
-Tutor: neville.palmer@solent.ac.uk 15:00-17:00 - Room JM404
-
-**Data Analyst Pathway:**
-
-COM529 - Economic and Financial Analysis
-Tutor: ajab.khan@solent.ac.uk Tuesdays arrange with tutor
-
-COM526 - Introduction to Artificial Intelligence
-Tutor: pengfei.xue@solent.ac.uk 15:00-17:00 - Room HC208
-
-#### 3rd Year (Level 6) Teaching Starts: Thursday 24th January 2024
-
-**Software Engineering, Data & IT Consultant Pathways:**
-
-COM618 - Data Science
-Tutor: pengfei.xue@solent.ac.uk 12:00-14:00 - ONLINE Teams
-
-COM617 - Industrial Consulting Project
-Tutor: martin.reid@solent.ac.uk 15:00-17:00 - Room JM412 & ONLINE
-
-**Cyber & Networking Pathways:**
-
-COM617 - Industrial Consulting Project
-Tutor: craig.gallen2@solent.ac.uk 9:00-11:00 - Room JM404
-
-COM614 Cloud Computing 
-Tutor: craig.gallen2@solent.ac.uk 10:00-13:00 - Room JM404
