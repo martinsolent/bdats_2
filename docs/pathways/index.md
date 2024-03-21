@@ -9,19 +9,14 @@ has_children: true
 
 #  BDATS Pathways
 
-![BDATS Map](../images/BDATS_NEW_1.2_2023.png)
+![BDATS Map](../images/new_BDATS_SE_2024.png)
 
-The Solent University BDATS Apprenticeship offers four pathways depending on your job role **NO FIRST YEAR intake for DATA ANALYST for Sept 2024.**
-
-Option 1: **Software Engineer**
-Option 4: **Cyber Security Analyst**
-Option 5: **Data Analyst**
-Option 6: **Network Engineer**
+The Solent University BDATS Apprenticeship currently offers the **Software Engineer** pathway.
 
 **Reference:** ST0119
 **Version:** 1.2
 **Level:** 6
-**Degree:** integrated degree
+**Degree:** Integrated degree
 
 [BDATS Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/){: .btn .btn-purple } 
 
