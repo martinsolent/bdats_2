@@ -3,9 +3,8 @@ layout: default
 title: Software Engineer
 parent: Pathways
 nav_order: 2
----
 
-{: .no_toc }
+---
 
 #  BDATS - Software Engineer
 
