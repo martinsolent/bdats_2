@@ -134,7 +134,7 @@ nav_order: 12
 | **K45:** | Principles of cyber security tools and techniques. |
 | **K46:** | Principles of quantitative and qualitative risk management theory including the role of risk stakeholders. |
 | **K47:** | Concepts and approaches to cyber security assurance. |
-| **K48:** | Key legislative frameworks and the regulatory landscape for cyber security including Data Protection Act 2018 , Network Information System Directive 2018, Regulation of Investigatory Powers Act 2000, ISO 27001. |
+| **K48:** | Key legislative frameworks and the regulatory landscape for cyber security including [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted), [Network Information System Directive 2018](https://ico.org.uk/for-organisations/the-guide-to-nis/key-concepts-and-definitions/), [Regulation of Investigatory Powers Act 2000](https://www.legislation.gov.uk/ukpga/2000/23/contents), [ISO 27001](https://www.iso.org/standard/27001) |
 | **K49:** | Approaches to incident response and management including escalation and investigation of cyber security breaches and their root cause. |
 | **K50:** | Ethical principles and codes of good practice of at least one significant cyber security professional body and the ethical responsibilities of a cyber security professional. |
 | **K51:** | Principles of common security architectures and methodologies. |
