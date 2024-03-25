@@ -10,7 +10,7 @@ nav_order: 13
 
 ![](./images/alexander-grey-tn57JI3CewI-unsplash.jpg)
 
-Throughout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, in Gateway, the final on-progreamme module in 3rd (Level 6), you will submit a Portfolio of **select a final 6 discrete pieces for the Professional Discussion** underpinned by a portfolio assessment element 2 (AE2)
+Throughout the apprenticeship you will need to keep a portfolio of work mapped to the standard KSBs, in Gateway COM628 module, the final on-programme module in 3rd (Level 6), you will submit a Portfolio of select a final 6 discrete pieces for the Professional Discussion underpinned by a portfolio assessment element 2 (AE2)
 
 
 * apprentices must compile a portfolio of evidence during the on-programme period of the apprenticeship.
@@ -33,3 +33,12 @@ Throughout the apprenticeship you will need to keep a portfolio of work mapped t
 * the portfolio of evidence must be submitted to the EPAO at the gateway.
 
 The portfolio of evidence is not directly assessed. It underpins the professional discussion and therefore should not be marked by the EPAO (Solent University). Solent will review the portfolio of evidence in preparation for the professional discussion but are not required to provide feedback after this review of the portfolio.
+
+
+#### Download Portfolio Template
+Download the portfolio template for your pathway and start to add and map your learning both on and off the job throughout your apprenticeship. Work based projects will help you get good coverage of the KSB's especially the behaviours. When you go to EPA you will need 6 good pieces of portfolio evidence, so the expectations are that you will have more than 6 and then select the best ones to submit for the EPA assessment.
+
+
+**SOL Log-in required:**
+
+[Download Portfolio Template](https://learn.solent.ac.uk/course/view.php?id=42080&section=25)

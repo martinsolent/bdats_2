@@ -13,11 +13,14 @@ nav_order: 100
 
 ### Core Duties (All Pathways)
 
-**Duty 1** Critically analyse a business domain to identify opportunities for improvement
 
+
+**Duty 1** Critically analyse a business domain to identify opportunities for improvement
 K1 K2 K3 K5 K7 K8 K10 K11 K12 K13 K14 K15 K16 K19 K20
 S1 S2 S5 S9 S11 S12 S13 S14 S15
 B1 B2 B3 B4 B6
+
+
 
 **Duty 2** Analyse business and technical requirements to select and specify appropriate technology solutions.
 
