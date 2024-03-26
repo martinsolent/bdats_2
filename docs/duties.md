@@ -73,22 +73,21 @@ nav_order: 100
 
 ### Software Engineering Professional
 
-| **Duty 16**     | **Duty 17**    |
-| ---------------- | ---------------- |
+| **Duty 16**       | **Duty 17**       |
+| :---------------- | :---------------- |
 | Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size. | Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate). |
 
+|  **Duty 18**      |  **Duty 19**      |
+| :---------------- | :---------------- |
+| Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.| Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).|
 
-**Duty 18** Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
+|  **Duty 20**      | **Duty 21**       |
+| :---------------- | :---------------- |
+ Supervise the work of more junior team members undertaking work in the software solution life-cycle | Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required |
 
-**Duty 19** Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).
-
-**Duty 20** Supervise the work of more junior team members undertaking work in the software solution life-cycle
-
-**Duty 21** Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required
-
-**Duty 22** Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.
-
-**Duty 23** Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).
+| **Duty 22**  | **Duty 23** |
+ | :---------------- | :---------------- |
+ | Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.| Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).|
 
 ### Cyber Security Professional
 
