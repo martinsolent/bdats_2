@@ -81,4 +81,4 @@ Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the S
 |**Duty 56** |**Duty 57** |
 Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required. S56 S57 S58 S59 S61 S63 |Interpret requirements and technical specifications in relation to network systems. K61 K63 K64 K66 K67 K68 S57 S60 S61 S62|
 |**Duty 58** |**Duty 59**|
-| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.| K61 K64 K65 K66 S58 S59 S60 S61 S63 | Problem solve to address technical performance issues in network systems.K61 K64 K65 K66 S59 S60 S61 S62 S63 |
+| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area. K61 K64 K65 K66 S58 S59 S60 S61 S63|Problem solve to address technical performance issues in network systems. K61 K64 K65 K66 S59 S60 S61 S62 S63|
