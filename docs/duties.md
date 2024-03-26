@@ -43,19 +43,32 @@ nav_order: 100
 
 |**Duty 8**| communicate effectively with a range of stakeholders both technical and non-technical at all levels of influence and responsibility.|
 |Core|**K1 K3 K5 K11 K12 K14 K15 K16 K19 K20 S1 S2 B1 B2 B3 B4 B5 B6 B7 B8**|
-|**Duty 9**| devise and engage in continuous professional development|	
+
+|**Duty 9**| devise and engage in continuous professional development|
+|:-------|:------|	
 |Core|**K2 K3 K5 K8 K9 K10 K12 K14 K15 K16 K17 S1 S2 S12 B1 B2 B3 B5 B6 B7 B8**|
-|**Duty 10**| conduct and present effective research using engaging, well-structured approaches|	
+
+|**Duty 10**| conduct and present effective research using engaging, well-structured approaches|
+|:-------|:------|	
 |Core|**K6 K17 K18 S7 S10 B1 B2 B3 B6**|
+
 |**Duty 11**| design, build and test high-quality software solutions.|	
 |Core|**K3 K4 K6 K7 K10 K12 S2 S4 S5 S9 B1 B2 B3 B4 B6**|
+
 |**Duty 12**| apply engineering principles to all stages of the software development process, from requirements, analysis and design, development and data requirements |
+|:-------|:------|
 |Core | **K4 K8 K14 K15 K16 K19 K20 B5 B7 B8**|
+
 |**Duty 13**| Apply skills and knowledge of systems development, cyber security, data, AI and infrastructure in the creation of digital solutions.|
+|:-------|:------|
 |Core|**K1 K4 K5 K6 K7 K12 K14 K15 K16 K17 K18 K19 K20 S1 S2 S5 S9 S11 S14 B1 B2 B3 B4 B6 B7 B8**|
+
 |**Duty 14**| Analyse ethical and legal implications of digital and technology solutions and make recommendations as a result of this analysis. For example, with regard to artificial intelligence or the use of personal data.|
+|:-------|:------|
 |Core | **K1 K6 K14 K15 K16 K17 K18 K20 S1 S2 S5 S10 S11 S15 B1 B2 B3 B6** |
+
 |**Duty 15**| Mentor others in the development and implementation of digital and technical solutions.|
+|:-------|:------|
 |Core | **K2 K3 K4 K5 K10 K11 K12 B4 B5 B6 B7 B8** |
 
 ### Software Engineering Professional
