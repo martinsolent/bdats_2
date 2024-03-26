@@ -54,32 +54,31 @@ Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the S
 
 | **Duty 16**       | **Duty 17**       |
 | :---------------- | :---------------- |
-| Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size. | Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate). |
+| Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size. K21 K22 K23 K28 S16 S23 | Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate).K21 K22 K23 K24 K28 S19 S20 |
 |  **Duty 18**      |  **Duty 19**      |
-| Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.| Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).|
+| Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.K24 K26 K27 K28 S17 S18 S19| Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).K21 K22 K23 K24 K25 K26 K27 K28 S18 S19 S20 S21|
 |  **Duty 20**      | **Duty 21**       |
- Supervise the work of more junior team members undertaking work in the software solution life-cycle | Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required |
+ Supervise the work of more junior team members undertaking work in the software solution life-cycle K21 K28 S16 S17 S22 | Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required K25 K26 K28 S16 S18 S21 S22 S23 |
 | **Duty 22**  | **Duty 23** |
- | Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.| Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).|
+ | Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used. K21 K28 S17 S22| Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).K21 K28 S22 S23|
 
 ### Cyber Security Professional
 
 |**Duty 41**|**Duty 42**|
 | :---------------- | :---------------- |
-|Analyse and evaluate security threats to technology solutions and implement technical and process solutions to mitigate these threats.| Perform security risk assessments within wider IT development teams, ensuring cyber security is embedded within the deliverables of the team.|
+|Analyse and evaluate security threats to technology solutions and implement technical and process solutions to mitigate these threats.K45 K46 K47 K49 K51 S40 S41 S43 S46| Perform security risk assessments within wider IT development teams, ensuring cyber security is embedded within the deliverables of the team.K46 K47 S41|
 |**Duty 43**  |**Duty 44**|
-|Lead a range of cyber security audit activities to demonstrate security control effectiveness.|Apply advanced problem solving techniques to address cyber security issues.|
+|Lead a range of cyber security audit activities to demonstrate security control effectiveness.K47 K48 K50 S42 S46|Apply advanced problem solving techniques to address cyber security issues.K45 K48 K49 K50 K52 S40 S44 S46 S47|
 |**Duty 45**  |**Duty 46**|
-|Plan and perform a business impact analysis in response to a security incident and implement a recovery plan.|Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs).|
-
+|Plan and perform a business impact analysis in response to a security incident and implement a recovery plan.K49 K51 K52 S40 S43 S44|Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs). K46 K48 K49 K50 K51 K52 S43 S45 S46 S47|
 
 ### Network Engineering Professional
 
 |**Duty 52** |**Duty 53**|
-|Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.|  Design operational networks and apply appropriate security products and processes in line with organisational requirements.
+|Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.SK62 K64 K66 S56 S59 S60|  Design operational networks and apply appropriate security products and processes in line with organisational requirements.K61 K63 K64 K66 K67 S56 S62|
 |**Duty 54** | **Duty 55**|
-| Plan system upgrades to a network or hardware or software or operating systems.| Produce relevant network information or documentation to meet user needs.|
+| Plan system upgrades to a network or hardware or software or operating systems.K61 K63 K64 K65 K66 K67 K68 S57 S58 S59 S60 S61 S62 S63| Produce relevant network information or documentation to meet user needs.K64 K66 S57 S58 S61 S62 S63|
 |**Duty 56** |**Duty 57** |
-Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required. |Interpret requirements and technical specifications in relation to network systems.|
+Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required. S56 S57 S58 S59 S61 S63 |Interpret requirements and technical specifications in relation to network systems. K61 K63 K64 K66 K67 K68 S57 S60 S61 S62|
 |**Duty 58** |**Duty 59**|
-| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.| Problem solve to address technical performance issues in network systems.|
+| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.| K61 K64 K65 K66 S58 S59 S60 S61 S63 | Problem solve to address technical performance issues in network systems.K61 K64 K65 K66 S59 S60 S61 S62 S63|
