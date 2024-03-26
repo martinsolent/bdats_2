@@ -28,7 +28,7 @@ Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the S
 | **Duty 4** | Undertake a security risk assessment for a simple IT system to identify, analyse and evaluate security threats and hazards to planned and installed information systems or services (e.g. Cloud services) and provide recommendations.|
 | | K1 K2 K3 K4 K6 K9 K11 K12 K13 K14 K15 K16 K17 K19 K20 S1 S2 S3 S5 S6 S9 S12 S13 S15 B1 B2 B3 B5 B6 B8 |
 | **Duty 5**| apply organisational theory, change management, marketing, strategic practice, human resource management and IT service management to technology solutions development.|
-| Core| K4 K7 K8 K12 K14 K15 S2 S8 S9 S10 B1 B2 B3 B5 B6 B7 B8|
+| | K4 K7 K8 K12 K14 K15 S2 S8 S9 S10 B1 B2 B3 B5 B6 B7 B8|
 |**Duty 6**| follow a systematic methodology for initiating, planning, executing, controlling, and closing technology solutions projects using industry standard processes, methods, techniques and tools to execute and manage projects.|
 | | K1 K2 K3 K4 K8 K9 K10 K14 K15 K16 K19 K20 S1 S2 S3 B1 B2 B3 B4  |
 |**Duty 7**| plan, design and manage computer networks with an overall focus on the services and capabilities that network infrastructure solutions enable in an organisational context. Identifies network security risks and their resolution.|
@@ -82,5 +82,4 @@ Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the S
 |**Duty 56** |**Duty 57** |
 Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required. |Interpret requirements and technical specifications in relation to network systems.|
 |**Duty 58** |**Duty 59**|
-| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.
-| Problem solve to address technical performance issues in network systems.|
+| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.| Problem solve to address technical performance issues in network systems.|
