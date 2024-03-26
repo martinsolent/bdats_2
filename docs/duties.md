@@ -13,6 +13,10 @@ nav_order: 100
 
 ### Core Duties (All Pathways)
 
+**Knowledge, Skills and behaviours (KSBs)** are the learning outcomes the apprenticeship standards have been built on. 
+
+Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the Specialism (Pathway)
+
 |**Duty** | Description |
 |:-------|:------|
 | **Duty 1** |Critically analyse a business domain to identify opportunities for improvement |
@@ -28,7 +32,7 @@ nav_order: 100
 |**Duty 6**| follow a systematic methodology for initiating, planning, executing, controlling, and closing technology solutions projects using industry standard processes, methods, techniques and tools to execute and manage projects.|
 | | K1 K2 K3 K4 K8 K9 K10 K14 K15 K16 K19 K20 S1 S2 S3 B1 B2 B3 B4  |
 |**Duty 7**| plan, design and manage computer networks with an overall focus on the services and capabilities that network infrastructure solutions enable in an organisational context. Identifies network security risks and their resolution.|
-|Core |K1 K2 K3 K4 K5 K7 K8 K10 K11 K12 K13 K14 K15 K16 K19 K20 S12 S13 S14 S15 B1 B2 B3 B4 B6 B7 B8|
+| |K1 K2 K3 K4 K5 K7 K8 K10 K11 K12 K13 K14 K15 K16 K19 K20 S12 S13 S14 S15 B1 B2 B3 B4 B6 B7 B8|
 |**Duty 8**| communicate effectively with a range of stakeholders both technical and non-technical at all levels of influence and responsibility.|
 | |K1 K3 K5 K11 K12 K14 K15 K16 K19 K20 S1 S2 B1 B2 B3 B4 B5 B6 B7 B8|
 |**Duty 9**| devise and engage in continuous professional development|
@@ -59,37 +63,24 @@ nav_order: 100
  | Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.| Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).|
 
 ### Cyber Security Professional
+
 |**Duty 41**|**Duty 42**|
 | :---------------- | :---------------- |
 |Analyse and evaluate security threats to technology solutions and implement technical and process solutions to mitigate these threats.| Perform security risk assessments within wider IT development teams, ensuring cyber security is embedded within the deliverables of the team.|
-
 |**Duty 43**  |**Duty 44**|
-| :---------------- | :---------------- |
 |Lead a range of cyber security audit activities to demonstrate security control effectiveness.|Apply advanced problem solving techniques to address cyber security issues.|
-
 |**Duty 45**  |**Duty 46**|
-| :---------------- | :---------------- |
 |Plan and perform a business impact analysis in response to a security incident and implement a recovery plan.|Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs).|
 
 
 ### Network Engineering Professional
 
-**Duty 52** Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.
-
-**Duty 53** Design operational networks and apply appropriate security products and processes in line with organisational requirements.
-
-**Duty 54** Plan system upgrades to a network or hardware or software or operating systems.
-
-**Duty 55** Produce relevant network information or documentation to meet user needs.
-
-**Duty 56** Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required.
-
-**Duty 57** Interpret requirements and technical specifications in relation to network systems.
-
-**Duty 58** Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.
-
-**Duty 59** Problem solve to address technical performance issues in network systems.
-
-**Knowledge, Skills and behaviours (KSBs)** are the learning outcomes the apprenticeship standards have been built on. 
-
-Core Duties and KSBs apply to **ALL Pathways** plus the ones that apply to the Specialism (Pathway)
+|**Duty 52** |**Duty 53**|
+|Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.|  Design operational networks and apply appropriate security products and processes in line with organisational requirements.
+|**Duty 54** | **Duty 55**|
+| Plan system upgrades to a network or hardware or software or operating systems.| Produce relevant network information or documentation to meet user needs.|
+|**Duty 56** |**Duty 57** |
+Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required. |Interpret requirements and technical specifications in relation to network systems.|
+|**Duty 58** |**Duty 59**|
+| Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.
+| Problem solve to address technical performance issues in network systems.|
