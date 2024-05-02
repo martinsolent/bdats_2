@@ -38,12 +38,12 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 Systems Analysis and Design Work Based Project COM423
 Tuesday 10:00 - 12:00
-Room: JM405 Audio Lab (and Hybrid Delivery)
+Room: HC210 (and Hybrid Delivery)
 Tutor Martin Reid
 
 Data Structures, Algorithms and Mathematics COM421
 Tuesdays 14:00 - 16:00
-Room: JM406 CISCO Networking Lab (and Hybrid Delivery)
+Room:  (and Hybrid Delivery)
 Tutor: Aremen Petrosyan
 
 
@@ -51,7 +51,7 @@ Tutor: Aremen Petrosyan
 
 Systems Analysis and Design Work Based Project COM423
 Tuesday 10:00 - 12:00
-Room: JM405 Audio Lab
+Room: HC210
 Tutor Martin Reid
 
 Routing and Switching COM414
