@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Off the Job Hours
-nav_order: 100
+nav_order: 20
 has_children: true
 ---
 
