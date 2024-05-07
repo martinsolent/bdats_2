@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calculating off-the-job
-parent: otjh
+parent: Off the Job Hours
 nav_order: 2
 ---
 

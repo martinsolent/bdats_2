@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Off-the-job: myth busters
-parent: otjh
+parent: Off the Job Hours
 nav_order: 3
 ---
 
