@@ -22,7 +22,7 @@ Therefore, for a full-time apprentice following a 12-month apprenticeship, off-t
 
 **Below is an overview of the of the delivery for Solent University Digital Apprentices.**
 
-Apprentices should be doing **46.4 weeks** of learning per year or **46.4 Off-the-job Study Days** so there is flexibility in assessment weeks and holiday breaks to self-manage your learning outside of the formal teaching delivery to take your holiday.  
+Apprentices should be doing **46.4 weeks** of learning per year or **46.4 Off-the-job Study Days** so there is flexibility in assessment weeks and holiday breaks to self-manage your learning outside of the formal teaching delivery to take your holidays.  
 
 |**Trimester 1 - (Sept – Jan)**                                                 |
 |:------------------------------------------------------------------------------|
