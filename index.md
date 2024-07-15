@@ -12,11 +12,11 @@ permalink: /
 {: .note } 
 > This site contains information for BSc (Hons) Digital and Technology Solutions degree apprentices at Solent University NEW STARTERS Sept 2023 on the new ST0119 standard Version 1.2
 
-As a Digital Technology Solutions degree apprentice, you will be guided by a curriculum that has been developed in association with BT, HP, IBM and GSM to develop the skills relevant to your specific job role. Depending on which route you and your employer choose, you will have the opportunity to learn valuable industry knowledge which will prepare you for accreditations from CISCO and the EC-Council.
+As a Digital Technology Solutions degree apprentice, you will be guided by a curriculum developed in association with BT, HP, IBM and GSM to develop the skills relevant to your specific job role. Depending on which route you and your employer choose, you will have the opportunity to learn valuable industry knowledge which will prepare you for accreditations from CISCO and the EC-Council.
 
 Throughout the apprenticeship, you'll gain core technical knowledge that encompasses project management, business strategy, developing and delivering technology and software solutions, computer networking, and data management.
 
-**New intakes every September** 36 months on programme plus 3 months EPA, 39-40 months in total. Course delivered one day a week over 3 semester per year (level) studying 2 modules each Semester
+**New intakes every September** 36 months on programme plus 3 months EPA, 39-40 months in total. Course delivered one day a week over 3 semesters per year (level) studying 2 modules each Semester
 
 
 [(BSc (Hons) Digital and Technology Solutions (Apprenticeship)](https://www.solent.ac.uk/courses/apprenticeship/digital-technology-solutions-bsc)
