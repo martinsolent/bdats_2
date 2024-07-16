@@ -20,15 +20,13 @@ nav_order: 5
 - [Project Report with presentation, questions and answers](#project-report-with-presentation-questions-and-answers)
 - [Professional Discussion underpinned by a portfolio](#professional-discussion-underpinned-by-a-portfolio)
 - [Grading](#grading)
-- [Overall EPA grading](#)
-- [Re-sits and re-takes](#)
-- [Roles and responsibilities](#)
-- [Reasonable adjustments](#)
-- [Internal quality assurance](#)
-- [Value for money](#)
-- [Professional recognition](#)
-- [KSB mapping table](#)
-- [Mapping of KSBs to grade themes](#Mapping-of-KSBs-to-grade-themes)
+- [Overall EPA grading](#overall-epa-grading)
+- [Re-sits and re-takes](#re-sits-and-re-takes)
+- [Roles and responsibilities](#roles-and-responsibilities)
+- [KSB mapping table](#ksb-mapping-table)
+- [Mapping of KSBs to grade themes](#mapping-of-ksbs-to-grade-themes)
+
+https://martinsolent.github.io/bdats_2/docs/EPA/child_4.html#mapping-of-ksbs-to-grade-themes
 
 ### Introduction and overview
 
@@ -518,7 +516,7 @@ Affordability of the EPA will be aided by using at least some of the following:
 * conducting assessment methods on the same day
 
 
-KSB mapping table
+### KSB Mapping Table
 
 | KNOWLEDGE                                                    | ASSESSMENT METHODS                                      |
 | :----------------------------------------------------------- | :------------------------------------------------------ |
