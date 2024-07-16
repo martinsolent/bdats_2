@@ -17,7 +17,7 @@ nav_order: 5
 - [Introduction and overview](#introduction-and-overview)
 - [EPA summary](#epa-summary)
 - [EPA gateway](#epa-gateway)
-- [Project Report with presentation, questions and answers](#project-report-with-presentation,-questions-and-answers)
+- [Project Report with presentation, questions and answers](#project-report-with-presentation-questions-and-answers)
 - [Professional Discussion underpinned by a portfolio](#professional-discussion-underpinned-by-a-portfolio)
 - [Grading](#grading)
 - [Overall EPA grading](#)
@@ -136,7 +136,7 @@ The EPA is taken in the EPA period. The EPA period starts when the EPAO confirms
 
 The EPAO should confirm the gateway requirements have been met and the EPA should start as quickly as possible.
 
-**EPA gateway**
+### EPA Gateway
 
 The apprentice’s employer must be content that the apprentice has attained sufficient KSBs to complete the degree-apprenticeship. The employer may take advice from the apprentice's training provider, but the employer must make the decision. The apprentice will then enter the gateway.
 
