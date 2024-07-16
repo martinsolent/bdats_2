@@ -26,8 +26,6 @@ nav_order: 5
 - [KSB mapping table](#ksb-mapping-table)
 - [Mapping of KSBs to grade themes](#mapping-of-ksbs-to-grade-themes)
 
-https://martinsolent.github.io/bdats_2/docs/EPA/child_4.html#mapping-of-ksbs-to-grade-themes
-
 ### Introduction and overview
 
 This page explains the requirements for end-point assessment (EPA) for the digital and technology solutions professional degree-apprenticeship. End-point assessment organisations (EPAOs) must follow this when designing and delivering the EPA.
