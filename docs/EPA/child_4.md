@@ -16,7 +16,7 @@ nav_order: 5
 
 - [Introduction and overview](#introduction-and-overview)
 - [EPA summary](#epa-summary)
-- [Duration of end-point assessment period](#duration-of-end-point-assessment period)
+- [Duration of end-point assessment period](#duration-of-end-point-assessment-period)
 - [EPA gateway](#epa-gateway)
 - [Order of assessment methods](#order-of-assessment-methods)
 - [Project Report with presentation, questions and answers](#project-report-with-presentation,-questions-and-answers)
