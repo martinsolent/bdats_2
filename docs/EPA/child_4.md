@@ -14,8 +14,8 @@ nav_order: 5
 [EPA Plan ST0119 version: 1.2](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/?view=standard)
 
 
-- [Introduction and overview](#introduction-and-overview)()
-- [EPA summary]()
+- [Introduction and overview](#introduction-and-overview)
+- [EPA summary](epa-summary)
 - [Duration of end-point assessment period]()
 - [EPA gateway]()
 - [Order of assessment methods]()
