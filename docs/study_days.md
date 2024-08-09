@@ -12,13 +12,12 @@ nav_order: 10
 
 The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 module per semester 
 
-[Solent University Academic calendar for 2024-25](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2024-25.pdf)
+[Solent University Academic calendar for 2024-25](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2024-25.pdf){: .btn .btn-purple }
 
-**What will be my university study day 2023-24?**
+**What will be my university study day?**
 
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, **but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.**
 
-### Semester 3 - May 2024 - Sept 2024
 
 | Study Day | Year (Level)  |           Pathway           |
 | --------- | :-----------: | :-------------------------: |
@@ -28,32 +27,15 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 
 
-## Summer 2024
+## Autumn 2024
 
-#### Software Engineering Pathway:
+{: .note } 
+> This list has been compiled on 6/8/2024
 
-**1st Year (Level 4) Teaching Starts: Tuesday 4th June 2024**
+##### SOFTWARE ENGINEERING PATHWAY:
+1st Year (Level 4) Teaching Starts: Tuesday 24th September 2024
 
-Systems Analysis and Design Work Based Project COM423
-Tuesday 10:00 - 12:00
-Room: HC210 (and Hybrid Delivery)
-Tutor Martin Reid
-
-Data Structures, Algorithms and Mathematics COM421
-Tuesdays 14:00 - 16:00
-Room:  (and Hybrid Delivery)
-Tutor: Aremen Petrosyan
-
-
-#### Cyber & Networking Pathways:
-
-Systems Analysis and Design Work Based Project COM423
-Tuesday 10:00 - 12:00
-Room: HC210
-Tutor Martin Reid
-
-Routing and Switching COM414
-Room: Tuesday 13:00 to 15:00
-JM404 Networking Lab
-Tutor: Bode Amangele
-
+| Module                                         | Study Day |  Time        | Room    |
+| ---------------------------------------------- | :-------: | :----------: | :------:|
+| COM412 - Introduction to Networks & Security   | Tuesday   | 9:00 - 12:00 | JM404   |
+| COM411 - Problem Solving through Programming   | Tuesday   | 13:00-16:00  | RM701   |
