@@ -8,14 +8,39 @@ nav_order: 5
 
 # Computing and Digital Induction
 
-**Apprenticeship induction takes place on campus** two weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
+**Apprenticeship induction takes place on campus** a weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
-**Wednesday 13th September 2023 Times 14:30-16:00**
-This session follows on from the main induction delivered by the apprentice team.
+**Monday 16th September 2024 Times 9:00-16:00**
 
-We will bw in JM412 Usability Lab - Acoustics Classroom 14:30-16:30
+9.00 Registration with Admissions (TS111)
 
-Directions:
+10.00 – 10.30 Apprenticeship team
+
+* What is an Apprenticeship?
+
+* Why are you special?
+
+* Off the job trackers
+
+* Progress reviews
+
+* End Point Assessment
+
+10.30 - 10.45 Library Services
+
+11.00 - 11.15 Access Solent
+
+11.15 – 11.30 Solent Futures
+
+11.30 – 11.45 Therapy and Mental Health
+
+11.45 – 12.00 Safeguarding
+
+12.00 - 13.00 Bystander Training with Yellow door
+
+14.00 - 16:00 Course Lead Induction JM412 Usability Lab
+
+Directions JM412:
 
 1. Take lift outside the Deli and Student Union Office to 4th Floor Sir John Everett Millais building (JM) Building.
 1. Turn left out of the lift.
@@ -28,13 +53,16 @@ Directions:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.8322225061675!2d-1.402574148061115!3d50.908320479440754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487476b1943c33e9%3A0x7b3d2a7c433db059!2sSolent%20University!5e0!3m2!1sen!2suk!4v1658263361358!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+
 [Campus Map](https://github.com/martinsolent/solent_store/raw/main/docs/east-park-terrace-campus-map.pdf){: .btn .btn-purple }
 
-[Download Induction Slides 2023-24](info/BDATS_INDUCTION_2023-24.pptx){: .btn .btn-purple }
+
 
 <!---
 your comment goes here
 and here
+
+[Download Induction Slides 2023-24](info/BDATS_INDUCTION_2023-24.pptx){: .btn .btn-purple }
 
 1. Arrival in TS412 - 10:00-10.20
 2. Introduction - 10:20-10:30
