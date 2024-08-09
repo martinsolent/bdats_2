@@ -6,7 +6,9 @@ nav_order: 5
 
 {: .no_toc } 
 
-# Computing and Digital Induction
+# Computing and Digital Apprentice Induction
+
+![Solent Spark Building](./images/spark-gallery-1.xe359e3c0.jpg)
 
 **Apprenticeship induction takes place on campus** a weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
@@ -17,13 +19,9 @@ nav_order: 5
 10.00 – 10.30 Apprenticeship team
 
 * What is an Apprenticeship?
-
 * Why are you special?
-
 * Off the job trackers
-
 * Progress reviews
-
 * End Point Assessment
 
 10.30 - 10.45 Library Services
