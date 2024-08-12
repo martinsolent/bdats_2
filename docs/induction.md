@@ -14,7 +14,9 @@ nav_order: 5
 
 **Monday 16th September 2024 Times 9:00-16:00**
 
-9.00 Registration with Admissions (TS111)
+[Spark Build Plan] (https://github.com/martinsolent/solent_store/the-spark-room-guide-and-map.pdf)
+
+9.00 Registration with Admissions (Spark Building TS111)
 
 10.00 – 10.30 Apprenticeship team
 
@@ -35,6 +37,10 @@ nav_order: 5
 11.45 – 12.00 Safeguarding
 
 12.00 - 13.00 Bystander Training with Yellow door
+
+**BREAK**
+
+**Computing Course Team Induction**
 
 14.00 - 16:00 Course Lead Induction JM412 Usability Lab
 
