@@ -14,7 +14,7 @@ nav_order: 5
 
 **Monday 16th September 2024 Times 9:00-16:00**
 
-[Spark Build Plan](https://github.com/martinsolent/solent_store/the-spark-room-guide-and-map.pdf)
+[Spark Build Plan](https://github.com/martinsolent/solent_store/blob/main/the-spark-room-guide-and-map.pdf)
 
 9.00 Registration with Admissions (Spark Building TS111)
 
