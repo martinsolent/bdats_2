@@ -12,6 +12,8 @@ Maths and English play crucial roles in the tech and digital industries and they
 
 ### Mathematics:
 
+![](./images/maths_BDATS_24.jpg)
+
 1. **Algorithm Analysis and Design:** Mathematical concepts are fundamental to analysing algorithms for efficiency and designing optimal solutions. Big O notation and other mathematical tools help in evaluating the time and space complexity of algorithms.
 
 2. **Data Structures:** Mathematics, particularly set theory, is used in the design and analysis of data structures. Understanding mathematical concepts helps engineers choose the most efficient data structures for specific tasks.
