@@ -10,8 +10,6 @@ nav_order: 13
  
 Maths and English play crucial roles in the tech and digital industries and they are embedded in various aspects of the field. Maths provides the logical and analytical foundation for solving complex problems in software engineering, while English and communication skills are vital for expressing ideas, documenting processes, and collaborating effectively with team members and stakeholders. Both are integral to the success of digital projects. 
 
-Here's how each of them is involved:
-
 ### Mathematics:
 
 1. **Algorithm Analysis and Design:** Mathematical concepts are fundamental to analysing algorithms for efficiency and designing optimal solutions. Big O notation and other mathematical tools help in evaluating the time and space complexity of algorithms.
