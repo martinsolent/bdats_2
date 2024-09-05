@@ -15,11 +15,11 @@ nav_order: 5
 **Monday 16th September 2024 Times 9:00-16:00**
 
 
-### Room HC006
+## Room HC006
 
 ![HC Map](./images/HC_Map.png)
 
-#### Agenda
+## Agenda
 
 9.00 Registration with Admissions
 
