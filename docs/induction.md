@@ -14,10 +14,14 @@ nav_order: 5
 
 **Monday 16th September 2024 Times 9:00-16:00**
 
-[Spark Building Plan](https://github.com/martinsolent/solent_store/raw/main/the-spark-room-guide-and-map.pdf){: .btn .btn-purple }
 
+### Room HC006
 
-9.00 Registration with Admissions (Spark Building TS111)
+![HC Map](./images/HC_Map.png)
+
+#### Agenda
+
+9.00 Registration with Admissions
 
 10.00 – 10.30 Apprenticeship team
 
@@ -70,7 +74,7 @@ and here
 [Download Induction Slides 2023-24](info/BDATS_INDUCTION_2023-24.pptx){: .btn .btn-purple }
 
 1. Arrival in TS412 - 10:00-10.20
-2. Introduction - 10:20-10:30
+2. Introduction - 10:20-10:30 
 3. Course Presentation - 10:30-11:30
 4. Q&A - 11:30-11:50
 5. Registration in Spark - 12:00-12:30
