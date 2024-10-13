@@ -63,8 +63,8 @@ Your apprentice may also need to study for maths and English qualifications as p
 You must allow your apprentice time to study for this within their normal working hours.
 Studying English and maths is not counted as part of the 20% minimum off-the-job training requirement.
 
-### Apprenticeship Commitment Statement
-You must also sign an apprenticeship commitment statement with your apprentice and the training provider.
+### Apprenticeship Training Plan
+**Previously called a commitment statement**, the training plan sets out the training to be delivered and the commitment of all three parties (provider, employer and apprentice) to the programme. It can also be used to record key details such as the employer’s agreement to release the apprentice for their off-the-job training. The apprenticeship funding rules detail what information is needed in the training plan and all parties must keep a current signed and dated version.
 
 **This must include:**
 
@@ -92,12 +92,3 @@ You can agree on a suitable training schedule to suit the needs of your business
 Your apprentice may also need to study for maths and English qualifications as part of their apprenticeship.
 You must allow your apprentice time to study for this within their normal working hours.
 Studying English and maths is not counted as part of the 20% minimum off-the-job training requirement.
-
-### Apprenticeship Commitment Statement
-You must also sign an apprenticeship commitment statement with your apprentice and the training provider.
-
-**This must include:**
-
-* the planned content and schedule for training
-* what is expected and offered by the employer, the training organisation and the apprentice
-* how to resolve queries or complaints
