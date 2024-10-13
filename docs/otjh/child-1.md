@@ -18,6 +18,14 @@ Employees who work a 5-day week receive **28 days paid statutory leave** (20 day
 
 Therefore, for a full-time apprentice following a 12-month apprenticeship, off-the-job training is delivered over **46.4 weeks** (52 weeks minus 5.6  weeks of statutory leave). 
 
+An o**ff-the-job learning activity** must occur every calendar month during the practical period of an apprenticeship. This training can take different forms, such as:
+
+* Face-to-face classroom learning
+* Independent directed learning, which may include working on assessments or coursework
+* Any other form of off-the-job activity that contributes to the apprentice's learning and development outlined in the Training Place
+
+This is to ensure that apprentices remain engaged and continue progressing towards completing their apprenticeship.
+
 **DEPARTMENT FOR EDUCATION, 2023.** Apprenticeship off- the-job training Policy background and examples to support the 2023 / 2024 apprenticeship funding rules [viewed 2 May 2024]. Available from: [https://assets.publishing.service.gov.uk/](https://assets.publishing.service.gov.uk/media/6530efdb92895c000ddcba2b/2023_10_OTJT_Guide_v5_-_23_24_Rules_v1.0.pdf)
 
 **Below is an overview of the of the delivery for Solent University Digital Apprentices.**
