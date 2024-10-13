@@ -72,23 +72,3 @@ Studying English and maths is not counted as part of the 20% minimum off-the-job
 * what is expected and offered by the employer, the training organisation and the apprentice
 * how to resolve queries or complaints
 
-**For example, training could take place:**
-
-* online
-* at the apprentice’s place of work
-* at a college or university or with a training provider
-* Or it could be a combination of these options.
-
-**The frequency can vary, for example:**
-
-* 1 day a week
-* part of a working day
-* blocks of time
-* For instance, some apprenticeships begin with a block of training to get the apprentice work-ready.
-
-You can agree on a suitable training schedule to suit the needs of your business with your training provider.
-
-### English and maths
-Your apprentice may also need to study for maths and English qualifications as part of their apprenticeship.
-You must allow your apprentice time to study for this within their normal working hours.
-Studying English and maths is not counted as part of the 20% minimum off-the-job training requirement.
