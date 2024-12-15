@@ -26,10 +26,10 @@ The apprentice must complete their training and meet the gateway requirements be
   
 We will encourage apprentices and their employers to think about suitable project areas for the Work Based Project end of the 2nd year (Level 5) and the beginning of the 3rd year (Level 6).
 
-Support for the EPA **(COM627)** takes place in the final **Digital and Technology Solutions Gateway COM628** module which will also prepare you for gateway EPA in completing your portfolio, gathering all required documents, and creating a "dry run" presentation. 
+Support for the EPA **(COM627)** takes place in the final **Digital and Technology Solutions Gateway COM628** module which will also prepare you for Gateway EPA in completing your portfolio, gathering all required documents, getting ready to write-up the Work-based Project report and creating a "dry run" EPA presentation. 
 
 {: .note }
-Once you have gone through Gateway sucessfully and are in EPA period, Solent University is unable to offer you support of feedback on your work you present to the independent assessor/s. **Don't worry we will give you support and preparation advice in the Gateway module COM628.** 
+We will continue to give you support post Gateway in and preparation for the EPA assessments on the EPA module COM628.** 
 
 
 **The EPA will be completed within a period lasting typically 3 months.**
