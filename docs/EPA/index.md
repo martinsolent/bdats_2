@@ -29,7 +29,7 @@ We will encourage apprentices and their employers to think about suitable projec
 Support for the EPA **(COM627)** takes place in the final **Digital and Technology Solutions Gateway COM628** module which will also prepare you for Gateway EPA in completing your portfolio, gathering all required documents, getting ready to write-up the Work-based Project report and creating a "dry run" EPA presentation. 
 
 {: .note }
-We will continue to give you support post Gateway in and preparation for the EPA assessments on the EPA module COM628.** 
+We will continue to give you support post Gateway in preparation for the EPA assessments in the final **EPA module COM628.** 
 
 
 **The EPA will be completed within a period lasting typically 3 months.**
