@@ -25,14 +25,6 @@ nav_order: 17
 
 For more details contact the apprentice office: apprenticeships@solent.ac.uk
 
-Please use the appropriate form below, the apprentice and their employer needs to fill in the appropriate fields and send on to the Course Leader martin.reid@solent.ac.uk to sign off and process.
-
-[Download Withdrawal Form](https://github.com/martinsolent/solent_store/raw/main/docs/Apprenticed_withdrawal.docx){: .btn .btn-purple } 
-
-[Download Break in Learning Form](https://github.com/martinsolent/solent_store/raw/main/docs/BiL.docx){: .btn .btn-purple } 
-
-
-[Download Return to Studies From](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20RETURN%20FROM%20BREAK%20IN%20LEARNING.docx){: .btn .btn-purple } 
 
 ![](./images/Withdrawal.png)
 
