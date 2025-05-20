@@ -12,7 +12,7 @@ nav_order: 10
 
 The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 module per semester 
 
-[Solent University Academic calendar for 2024-25](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2024-25.pdf){: .btn .btn-purple }
+[Solent University Academic calendar for 2025-26](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2025-26.pdf){: .btn .btn-purple }
 
 **What will be my university study day?**
 
@@ -27,15 +27,15 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 
 
-## Autumn 2024
+## Autumn 2025
 
 {: .note } 
-> This list has been compiled on 6/8/2024
+> This list has been compiled on TBC
 
 ##### SOFTWARE ENGINEERING PATHWAY:
 1st Year (Level 4) Teaching Starts: Tuesday 24th September 2024
 
 | Module                                         | Study Day |  Time        | Room    |
 | ---------------------------------------------- | :-------: | :----------: | :------:|
-| COM412 - Introduction to Networks & Security   | Tuesday   | 9:00 - 12:00 | JM404   |
-| COM411 - Problem Solving through Programming   | Tuesday   | 13:00-16:00  | RM701   |
+| COM412 - Introduction to Networks & Security   | Tuesday   | TBC | TBC   |
+| COM411 - Problem Solving through Programming   | Tuesday   | TBC  | TBC |
