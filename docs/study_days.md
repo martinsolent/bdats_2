@@ -33,9 +33,16 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 > This list has been compiled on TBC
 
 ##### SOFTWARE ENGINEERING PATHWAY:
-1st Year (Level 4) Teaching Starts: Tuesday 24th September 2024
+1st Year (Level 4) Teaching Starts: Tuesday 23rd September 2025
 
 | Module                                         | Study Day |  Time        | Room    |
 | ---------------------------------------------- | :-------: | :----------: | :------:|
-| COM412 - Introduction to Networks & Security   | Tuesday   | TBC | TBC   |
-| COM411 - Problem Solving through Programming   | Tuesday   | TBC  | TBC |
+| COM412 - Introduction to Networks & Security   | Tuesday   | TBC          | TBC     |
+| COM411 - Problem Solving through Programming   | Tuesday   | TBC          | TBC     |
+
+Direct (RPL) Entry to 2nd Year (Level 5) Teaching Starts: Wednesday 24th September 2025
+
+| Module                                         | Study Day |  Time        | Room    |
+| ---------------------------------------------- | :-------: | :----------: | :------:|
+| COM534 - Oriented Design & Dev                 | Wednesday   | TBC          | TBC     |
+| COM519 - Advance Database Systems              | Wednesday   | TBC          | TBC     |
