@@ -21,8 +21,6 @@ Photo by <a href="https://unsplash.com/@jakobnoahrosen?utm_source=unsplash&utm_m
 
 Prior to your interview apprenticeship applicants will need to complete a self assessment form this document is required to enable Solent University to undertake an assessment of the applicant’s prior experience, knowledge and skills as required by the Education and Skills Funding Agency (ESFA) Apprenticeship Funding and Performance-Management rules. This form will be reviewed in conjunction with the details of the declared prior qualifications in the main application form. Where the application is successful, in accordance with ESFA requirements this document will be held as part of the Evidence Pack for the apprenticeship
 
-[Download Self-Assesment Form](info/Self-Assessment 22-L6_DATS_template.docx){: .btn .btn-purple }
-
 **The self-assessment form will need to be completed before interview and uploaded with the rest of your evidence**
 
 
@@ -41,4 +39,4 @@ Overview and details of the learning outcomes and delivery for level four module
 
 Download the form below which is pre-populated with the common modules applicants use to apply for RPL - please delete the module information that is not applicable and then add your evidence.
 
-[RPL Template Download](https://github.com/martinsolent/solent_store/raw/main/docs/Template%20RPL%20Unit%20Learning%20Outcome%20Grid.docx){: .btn .btn-purple }
+[RPL Template Download](info/BDATS_RPL form.docx){: .btn .btn-purple }
