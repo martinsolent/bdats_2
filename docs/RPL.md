@@ -31,7 +31,7 @@ If the applicant  has a good case to prove that they already have the that will 
 
 Once an apprentice has completed the form and created appendices of evidence this will be checked by the admissions tutor before being passed on to Student Registry where it will go to a panel who will review the evidence and the documentation offered before making their decision
 
-[Solent RPL Policy](../info/2h-recognition-of-prior-learning-and-credit-transfer.pdf)
+[Solent RPL Policy](https://students.solent.ac.uk/official-documents/quality-management/academic-handbook/2h-recognition-of-prior-learning-and-credit-transfer.pdf)
 
 Overview and details of the learning outcomes and delivery for level four modules can be found [here](https://martinsolent.github.io/bdats/docs/L4_modules/) make sure they all the modules that are included within your [chosen pathway](https://martinsolent.github.io/bdats/docs/pathways/) or [L4 Data Analysis delivery](https://martinsolent.github.io/data_level_4/docs/delivery/)
 
