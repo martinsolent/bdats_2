@@ -39,4 +39,4 @@ Overview and details of the learning outcomes and delivery for level four module
 
 Download the form below which is pre-populated with the common modules applicants use to apply for RPL - please delete the module information that is not applicable and then add your evidence.
 
-[RPL Template Download](info/BDATS_RPL form.docx){: .btn .btn-purple }
+[RPL Template Download](info/BDATS_RPL form_v2.docx){: .btn .btn-purple }
