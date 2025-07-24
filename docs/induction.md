@@ -17,14 +17,8 @@ nav_order: 5
 
 <!--
 
-## Room HC006
-
 ![HC Map](./images/HC_Map.png)
 
-
-
-your comment goes here
-and here
 ## Agenda
 
 9.00 Registration with Admissions
