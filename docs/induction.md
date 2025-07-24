@@ -12,13 +12,17 @@ nav_order: 5
 
 **Apprenticeship induction takes place on campus** a weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
-**Monday 16th September 2024 Times 9:00-16:00**
-
+**Wednesday 17th September 2025 Times TBC**
+<!--
 
 ## Room HC006
 
 ![HC Map](./images/HC_Map.png)
 
+
+
+your comment goes here
+and here
 ## Agenda
 
 9.00 Registration with Admissions
@@ -67,9 +71,7 @@ Directions JM412:
 
 
 
-<!---
-your comment goes here
-and here
+
 
 [Download Induction Slides 2023-24](info/BDATS_INDUCTION_2023-24.pptx){: .btn .btn-purple }
 
@@ -96,13 +98,9 @@ and here
 
 [Spark Building Plan](https://github.com/martinsolent/solent_store/raw/main/the-spark-room-guide-and-map.pdf){: .btn .btn-purple }
 
-
-<!---
 ### Induction Presentation
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
-
 
 
 -->
