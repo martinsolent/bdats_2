@@ -13,6 +13,8 @@ nav_order: 5
 **Apprenticeship induction takes place on campus** a weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
 **Wednesday 17th September 2025 Times TBC**
+
+
 <!--
 
 ## Room HC006
