@@ -161,7 +161,7 @@ The assessor will guide the session and ensure the apprentice can achieve the hi
 
 ### KSBs Assessed via Professional Discussion 
 
-These are KSB learning outcomes that will need to be mapped to in this assessment for full details on KSB Professional Discussion assessment (Appendix A)
+These are KSB learning outcomes that will need to be mapped to in this assessment for full details on KSB Professional Discussion assessment: [Appendix A](#appendix-a)
 
 | Category | Type | KSBs |
 |----|----|----|
@@ -178,7 +178,7 @@ S16 (SES1), S17 (SES2), K18 (SES3), K19 (SES4), K20 (SES5), K21 (SES6), K22 (SES
 
 ### Grading Professional Discussion EPA Assessment (AE2)
 
-This is the second of two EPA assessment elements, and it has its own grading rubric (Appendix B). You’ll receive a grade of Distinction, Pass or Fail for each element, which will contribute to your overall result as shown in the column on the right. A numeric score will also be given for both assessments, and these will be used to calculate your overall degree average and classification in line with university guidelines.
+This is the second of two EPA assessment elements, and it has its own grading rubric - [Appendix B](#appendix-b). You’ll receive a grade of Distinction, Pass or Fail for each element, which will contribute to your overall result as shown in the column on the right. A numeric score will also be given for both assessments, and these will be used to calculate your overall degree average and classification in line with university guidelines.
 
 | **Project Report   with presentation, questions and answers** | **Professional   Discussion underpinned by a portfolio** | **Overall Grading** |
 | :------------------------------------------------------------ | :-------------------------------------------------------- | :------------------- |
@@ -204,7 +204,7 @@ Throughout your apprenticeship, you will be continuously mapping your learning f
 
 As you approach the End-Point Assessment (EPA), you will need to select **six of your strongest portfolio items.** For each item, you will create a narrative documentation that clearly links the work to the relevant KSBs for the **Professional Discussion (AE2).**
 
-You will be given a template to support this process. Below is an example of one of the sections (or "blocks") included in the template. These blocks (Appendix C) are designed to help you:
+You will be given a template to support this process. Below is an example of one of the sections (or "blocks") included in the template. These blocks - [Appendix C](#appendix-c) are designed to help you:
 
 * Map your work to the appropriate KSBs
 * Apply the correct assessment criteria
@@ -216,7 +216,8 @@ This structured approach will help you demonstrate your competence and readiness
 The portfolio template includes blocks outlining the assessment criteria and the Core and Pathway (Specialism) KSBs for each of the four required themes.
 These blocks should be copied and pasted at the end of the narrative for each of your six portfolio items.
 
-![Theme D](*)
+![Theme D](../images/SE_PORTFOLIO/D_3_BLOCK.png)
+
 Image: Example of Theme (KSB) block
 
 **Apprenticeship Statement of Authenticity**
@@ -326,11 +327,65 @@ This experience reinforced the importance of understanding the organisational co
 
 **<EXAMPLE FOR THEME-A PORTFOLIO ITEM - END>**
 
-### Software Engineering - KSB mapping to EPA Assessment Methods (Knowledge) - Appendix A
+### Appendix A
 
-KSB TABLE
+**Software Engineering - KSB mapping to EPA Assessment Methods (Knowledge)**
 
-### Grading - Professional Discussion underpinned by a portfolio – Appendix B
+| **KSB #**                     | **Knowledge**                                                | **Assessment methods**                              |
+| ----------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| **K6**  Core                 | The approaches and techniques used throughout the  digital and technology solution lifecycle and their applicability to an  organisation’s standards and pre-existing tools. | Professional  Discussion underpinned by a portfolio |
+| **K7**  Core                 | The roles, functions and activities within  digital technology solutions within an organisation. | Professional  Discussion underpinned by a portfolio |
+| **K8**  Core                 | How teams work effectively to produce digital and  technology solutions. | Professional  Discussion underpinned by a portfolio |
+| **K9**  Core                 | The concepts and principles of leadership.                   | Professional  Discussion underpinned by a portfolio |
+| **K10**  Core                | Management techniques and theories. For example,  effective decision making, delegation and planning methods, time management  and change management. | Professional  Discussion underpinned by a portfolio |
+| **K11**  Core                | The nature and scope of common vulnerabilities in  digital and technology solutions. For example, the risks of unsecure coding  and unprotected networks. | Professional  Discussion underpinned by a portfolio |
+| **K12**  Core                | The role of data management systems within  Digital and Technology Solutions. | Professional  Discussion underpinned by a portfolio |
+| **K13**  Core.               | Principles of data analysis for digital and  technology solutions. | Professional  Discussion underpinned by a portfolio |
+| **K14**  Core.               | A range of quantitative and qualitative data  gathering methods and how to appraise and select the appropriate method. | Professional  Discussion underpinned by a portfolio |
+| **K16**  Core.               | Fundamental computer networking concepts in  relation to digital and technology solutions. For example, structure, cloud  architecture, components, quality of service. | Professional  Discussion underpinned by a portfolio |
+| **K19**  Core                | Relevant legal, ethical, social and professional  standards to a digital and technology solution. For example, Diversity,  Accessibility, Intellectual Property, Data Protection Acts, Codes of  Practice, Regulatory and Compliance frameworks. | Professional  Discussion underpinned by a portfolio |
+| **K20**  Core                | Sustainable development approaches as applied to  digital and technology solutions such as green computing. | Professional  Discussion underpinned by a portfolio |
+| **K21**: software engineering | How to operate at all stages of the software  development life cycle and how each stage is applied in a range of contexts.  For example, requirements analysis, design, development, testing,  implementation. | Professional  Discussion underpinned by a portfolio |
+| **K22**: software engineering | Principles of a range of development techniques,  for each stage of the software development cycle that produce artefacts and  the contexts in which they can be applied. For example, UML, unit testing,  programming, debugging, frameworks, architectures. | Professional  Discussion underpinned by a portfolio |
+| **K23**: software engineering | Principles of a range of development methods and  approaches and the contexts in which they can be applied. For example, Scrum,  Extreme Programming, Waterfall, Prince2, TDD. | Professional  Discussion underpinned by a portfolio |
+| **K24**: software engineering | How to interpret and implement a design,  compliant with functional, non-functional and security requirements including  principles and approaches to addressing legacy software development issues  from a technical and socio-technical perspective. For example, architectures,  languages, operating systems, hardware, business change. | Professional  Discussion underpinned by a portfolio |
+| **K28**: software engineering | Approaches to effective teamwork and the range of  software development tools supporting effective teamwork. For example,  configuration management, version control and release management. | Professional  Discussion underpinned by a portfolio |
+
+ 
+
+**Software Engineering - KSB mapping to EPA Assessment Methods (Skills)**
+
+| **KSB #**                       | **Skill**                                                    | **Assessment methods**                              |
+| ------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| **S4**  Core                    | Initiate, design, code, test and debug a software  component for a digital and technology solution. | Professional Discussion  underpinned by a portfolio |
+| **S7**  Core                   | Work effectively within teams, leading on  appropriate digital technology solution activities. | Professional Discussion  underpinned by a portfolio |
+| **S8**  Core                    | Apply relevant organisational theories. For  example, change management principles, marketing approaches, strategic  practice, and IT service management to a digital and technology solutions  project. | Professional Discussion  underpinned by a portfolio |
+| **S9**  Core                    | Apply relevant security and resilience techniques  to a digital and technology solution. For example, risk assessments,  mitigation strategies. | Professional Discussion  underpinned by a portfolio |
+| **S10**  Core                   | Initiate, design, implement and debug a data  product for a digital and technology solution. | Professional Discussion  underpinned by a portfolio |
+| **S11**  Core                   | Determine and use appropriate data analysis  techniques. For example, Text, Statistical, Diagnostic or Predictive Analysis  to assess a digital and technology solutions. | Professional Discussion  underpinned by a portfolio |
+| **S12**  Core                  | Plan, design and manage simple computer networks  with an overall focus on the services and capabilities that network  infrastructure solutions enable in an organisational context. | Professional Discussion  underpinned by a portfolio |
+| **S15**  Core                  | Apply relevant legal, ethical, social and  professional standards to a digital and technology solution. | Professional Discussion  underpinned by a portfolio |
+| **S20**  software  engineering | Respond to changing priorities and problems  arising within software engineering projects by making revised  recommendations, and adapting plans as necessary, to fit the scenario being  investigated. | Professional Discussion  underpinned by a portfolio |
+| **S21**  software  engineering | Determine, refine, adapt and use appropriate  software engineering methods, approaches and techniques to evaluate software  engineering project outcomes. | Professional Discussion  underpinned by a portfolio |
+| **S23** software engineering    | Extend and update software development knowledge  with evidence from professional and academic sources by undertaking  appropriate research to inform best practice and lead improvements in the  organisation. | Professional Discussion  underpinned by a portfolio |
+
+
+ **Software Engineering - KSB mapping to EPA Assessment Methods (Behaviours)**
+
+| **KSB #**     | **Behaviour**                                                | **Assessment methods**                              |
+| ------------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| **B1**  Core | Has a strong work ethic and commitment to meet  the standards required. | Professional Discussion  underpinned by a portfolio |
+| **B2**  Core | Reliable, objective and capable of both  independent and team working. | Professional Discussion  underpinned by a portfolio |
+| **B4**  Core | Commits to continuous professional development;  maintaining their knowledge and skills in relation to developments in digital  and technology solutions that influence their work. | Professional Discussion  underpinned by a portfolio |
+| **B6**  Core | Participates in and shares best practice in their  organisation, and the wider community for aspects relevant to digital and  technology solutions. | Professional Discussion  underpinned by a portfolio |
+| **B7**  Core  | Maintains awareness of trends and innovations in  the subject area, utilising a range of academic literature, online sources,  community interaction, conference attendance and other methods which can  deliver business value. | Professional Discussion  underpinned by a portfolio |
+| **B8**  Core | Champions diversity and inclusion in their work  ensuring that digital technology solutions are accessible. | Professional Discussion  underpinned by a portfolio |
+
+ 
+
+### Appendix B
+
+**Grading - Professional Discussion underpinned by a portfolio**
 
 This grading rubric applies to the Professional Discussion assessment, which is based on your six-item portfolio. Each item in your portfolio must clearly map to the relevant Knowledge, Skills, and Behaviours (KSBs) required for this assessment element.
 
@@ -352,14 +407,18 @@ Your portfolio will be submitted at the Gateway stage as you enter the End Point
 | Software Engineer - <br/> Legal, Ethics and Landscape<br/> **(Theme D)** <br/> S23 | Describes how they extend and update software development knowledge with evidence from professional and academic sources by undertaking appropriate research to inform best practice and lead improvements in the organisation. (S23/SES8) | N/A                                                          |
 
 
-### KSB Professional Discussion underpinned by a portfolio Mapping Block – Appendix C
+### Appendix C
+
+**KSB Professional Discussion underpinned by a portfolio Mapping Block**
 
 KSB mapping blocks are tools used to align portfolio evidence with the specific Knowledge, Skills, and Behaviours (KSBs) required by the assessment criteria. These blocks play a crucial role in ensuring that each item in the portfolio clearly demonstrates how it meets the relevant standards.
 
 Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. These will be used in the portfolio assessment template to show how each piece of evidence supports the associated KSBs within each theme. The following examples illustrate how to use these blocks effectively throughout the assessment process.
 
 
-![](../images/SE_PORTFOLIO/A_A_BLOCK.png)
+![](../images/SE_PORTFOLIO/A_C_BLOCK.png)
 
 ![](../images/SE_PORTFOLIO/B_C_BLOCK.png)
+
+![](../images/SE_PORTFOLIO/D_BLOCK.png)
 
