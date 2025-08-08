@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Portfolio
-nav_order: 13
+title: EPA Portfolio
+parent: Portfolio
+nav_order: 2
 ---
 
 {: .no_toc }
 
-# Portfolio
+#   Portfolio
 
 ![](./images/alexander-grey-tn57JI3CewI-unsplash.jpg)
 
