@@ -28,8 +28,8 @@ The guidance includes:
 
 **Links to Pathways:**
 
-* Software Engineering
-* Network Engineer
-* Cyber
+* [Software Engineer](https://martinsolent.github.io/bdats_2/docs/portfolio/software_portfolio.html)
+* [Network Engineer](https://martinsolent.github.io/bdats_2/docs/portfolio/network_portfolio.html)
+* [Cyber](https://martinsolent.github.io/bdats_2/docs/portfolio/cyber_portfolio.html)
 
 
