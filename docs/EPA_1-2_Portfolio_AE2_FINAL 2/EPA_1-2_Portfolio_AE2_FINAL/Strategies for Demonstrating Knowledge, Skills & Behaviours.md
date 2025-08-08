@@ -1,21 +1,3 @@
-![A red circle with white text AI-generated content may be incorrect.](media/image1.png)
-
-> **Professional Discussion  
-> underpinned by a Portfolio AE2**
->
-> Overview
->
-> **BSc Digital and Technology Solutions Professional**  
-> Apprenticeship Standard: [ST0119 v1.2 (2023)](https://skillsengland.education.gov.uk/apprenticeship-standards/st0119-v1-2)  
-> Specialism (Pathway): **Software Engineer**
->
-> Overview Document (Version: 1 - July 2025)  
-> Created by martin.reid@solent.ac.uk  
-> **  
-> **Southampton Solent University - SO14 0YN  
-> [**End Point Assessor Organisation (EPAO) ID: EPA0325**](https://find-epao.apprenticeships.education.gov.uk/courses/25/assessment-organisations/epa0325)  
-> **  
-> **
 
 **Summary**
 

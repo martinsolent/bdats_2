@@ -9,6 +9,8 @@ has_children: true
 
 # Portfolio & KSB Mapping
 
+gshwgshwghwg
+
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
 
 #### Portfolio Mapping Template
