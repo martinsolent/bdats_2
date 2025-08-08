@@ -193,13 +193,12 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 
 ### EPA Portfolio Template
 
-<center>
+
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7dc14fc1-49db-4070-9b22-b33200919336&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS EPA 1.2 - Portfolio Template Walk-through" ></iframe>
 
 
 [Download EPA Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/Template_AE2_NEW_5-8-25_v1.docx)
 
-</center>
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
 
