@@ -116,7 +116,9 @@ Examples: **“I volunteered to…”, “I conducted research that informed the
 | Practice & feedback | Use mock discussions and review videos |
 | STAR format\* | Structure responses clearly: Situation, Task, Action, Result |
 
-\* The **STAR format** is a structured method for answering behavioural interview questions or presenting professional experiences, often used in performance reviews or assessments. It stands for: **Situation – Task – Action – Result. Note:** There is no obligation to use this method, only consider it if you find it helpful. It is included here because it often appears in searches for best practices in presenting apprenticeship portfolios and conducting professional discussion assessments at all levels.  
+\* The **STAR format** is a structured method for answering behavioural interview questions or presenting professional experiences, often used in performance reviews or assessments. It stands for: **Situation – Task – Action – Result.** 
+
+**Note:** There is no obligation to use this method, only consider it if you find it helpful. It is included here because it often appears in searches for best practices in presenting apprenticeship portfolios and conducting professional discussion assessments at all levels.  
 
 [AMAZON, 2025. Interview Loop - The STAR method](https://amazon.jobs/content/en/how-we-hire/interview-loop)
 
@@ -244,7 +246,7 @@ I began by attending stakeholder meetings to understand the business drivers beh
 > Insert Diagram 2: Team Roles and Responsibilities Map
 A visual showing stakeholder roles and how they interact across the SDLC.
 
-**Supporting Evidence (embedded or links to): **
+**Supporting Evidence (embedded or links to):**
 * Stakeholder Meeting Notes (PDF) 
 * Organisational Role Analysis Document (PDF)
 
@@ -316,15 +318,26 @@ This experience reinforced the importance of understanding the organisational co
 KSB TABLE
 
 ### Grading - Professional Discussion underpinned by a portfolio – Appendix B
+
 This grading rubric applies to the Professional Discussion assessment, which is based on your six-item portfolio. Each item in your portfolio must clearly map to the relevant Knowledge, Skills, and Behaviours (KSBs) required for this assessment element.
 
 Your portfolio will be submitted at the Gateway stage as you enter the End Point Assessment (EPA) period. It is essential that:
 * Your portfolio aligns directly with the specified KSBs.
 * You are prepared to expand on and clarify how your work demonstrates these KSBs during the discussion.
-* This ensures that assessors can confidently evaluate your competence against both Pass and Distinction criteria
+* This ensures that assessors can confidently evaluate your competence against both Pass and Distinction criteria›
 
 
-GRADE RUBRIC AE2
+| THEME KSBS                                                   | PASS APPRENTICES MUST DEMONSTRATE ALL THE PASS DESCRIPTORS   | DISTINCTION APPRENTICES MUST DEMONSTRATE ALL THE PASS DESCRIPTORS AND ALL OF THE DISTINCTION DESCRIPTORS |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Core - The Organisational  Context (**A: Underlying Principles)** <br />K7 | Reviews the roles, functions and activities relevant to technology solutions within an organisation. (K7) | N/A                                                          |
+| Core - Leading and Working Together<br/> (**A: Underlying Principles)**<br/> K8 K9 K10 <br/> S7 S8 <br/> B4 B6 B7 | Explains how teams work effectively to produce a digital and technology solution applying relevant organisational theories using up to date awareness of trends and innovations. (K8, S7, B4, B6, B7)  <br /><br />Describes the concepts and principles of leadership and management as they relate to their role and how they apply them. (K9, K10, S8) | N/A                                                          |
+| Core – Technical<br />Concepts **(Theme B)**  K6 K11 K12 K14 K16 | Critically evaluates the nature and scope of common vulnerabilities in digital and technology solutions (K11)<br /><br />Explains core technical concepts for digital and technology solutions, including:<br /><br />· The approaches and techniques used throughout the digital and technology solution lifecycle and their applicability to an organisation’s standards and pre-existing tools. (K6)<br /><br />Computer networking concepts. (K16) | N/A                                                          |
+| Core - Applied Technical Solutions <br/> **(Theme B)**<br/> K13 <br/> S4 S9 S10 S11 S12 | Demonstrates the use of core technical concepts for digital and technology solutions, including:<br /><br />Initiate, design, code, test and debug a software component for a digital and technology solution. (S4)<br /><br />Security and resilience techniques. (S9)<br /><br />Initiates, designs, implements and debugs a data product for a digital and technology solution. (S10)<br /><br />Plans, designs and manages simple computer networks. (S12)<br /><br />Applies the principles of data analysis for digital and technology solutions. <br/> (K13, S11) | N/A                                                          |
+| Software Engineer -<br/> Technical Solutions <br/> **(Theme B)**<br/> K24 K28 | Describes. how to interpret and implement a design, compliant with functional, non-functional and security requirements. (K24/SEK4)<br /><br />Describes how tools that support teamwork can be used effectively. (K28/SEK8) | N/A                                                          |
+| Software Engineer - <br/> Innovation and Response<br/> **(Theme C)**<br/> S20 S21 | Describes how they respond to changing priorities and problems arising within software engineering projects by making revised recommendations, and adapting plans as necessary, to fit the scenario being investigated. (S20/SES5)<br /><br />Explains how they determine, refine, adapt and use appropriate software engineering methods, approaches and techniques to evaluate software engineering project outcomes. (S21/SES6) | Demonstrates how their actions have influenced the creation of appropriate plans within teams and contributed to project outcomes. (S20/SES5)<br /><br />Compares and contrasts how they respond to changing priorities and problems arising within software engineering projects by making revised recommendations, and adapting plans as necessary, to fit the scenario being investigated. (S20/SES5) |
+| Core - Social Infrastructure<br/> \- Legal, Ethical and Sustainability<br/> **(Theme D)** <br/> K19 K20 <br/> S15 <br/> B1 B2 B8 | Applies relevant legal, ethical, social and professional standards to digital and technology solutions considering both technical and non-technical audiences and in line with organisational guidelines. (K19, S15, B1, B2, B5)<br /><br />Explains sustainable development approaches within digital technologies as they relate to their role including diversity and inclusion. (K20, B8) | Justifies the application of relevant legal, ethical, social and professional standards to digital and technology solutions. (K19, S15)<br /><br />Evaluates the impact of sustainable digital technology practices of their organisation. (K20) |
+| Software Engineer - <br/> Legal, Ethics and Landscape<br/> **(Theme D)** <br/> S23 | Describes how they extend and update software development knowledge with evidence from professional and academic sources by undertaking appropriate research to inform best practice and lead improvements in the organisation. (S23/SES8) | N/A                                                          |
+
 
 ### KSB Professional Discussion underpinned by a portfolio Mapping Block – Appendix C
 
