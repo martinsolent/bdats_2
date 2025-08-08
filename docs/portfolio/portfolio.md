@@ -9,30 +9,27 @@ nav_order: 2
 
 #   Portfolio
 
-![](./images/alexander-grey-tn57JI3CewI-unsplash.jpg)
-
-Throughout the apprenticeship you will need to mappkeep a portfolio of work mapped to the standard KSBs, in Gateway COM628 module, the final on-programme module in 3rd (Level 6), you will submit a Portfolio of select a final 6 discrete pieces for the Professional Discussion underpinned by a portfolio assessment element 2 (AE2)
+![](../images/alexander-grey-tn57JI3CewI-unsplash.jpg)
 
 
-* apprentices must compile a portfolio of evidence during the on-programme period of the apprenticeship.
-* it must contain evidence related to the KSBs that will be assessed by the professional discussion.
-* the portfolio of evidence will typically contain 6 discrete pieces of evidence.
-* evidence must be mapped against the KSBs.
-* evidence may be used to demonstrate more than one KSB; a qualitative as opposed to quantitative approach is suggested.
-* evidence sources may include:
-* workplace documentation/records, for example workplace policies/procedures, records
-* witness statements
-* assignments
-* annotated photographs
-* video clips (maximum total duration 10 minutes); the apprentice must be in view and identifiable.
 
-**This is not a definitive list; other evidence sources are possible.**
+This section provides comprehensive guidance for apprentices undertaking the BSc Digital and Technology Solutions Professional under the ST0119 v1.2 (2023) apprenticeship standard. It outlines the expectations and structure of the Professional Discussion underpinned by a Portfolio (Assessment Element 2).
 
-* **Although it is expected that apprentices at degree level will be reflective in their practice, it should be noted that the EPA assesses individuals on evidence of output against the KSBs, not reflective accounts, or any methods of self-assessment.**
-* any employer contributions should focus on direct observation of performance (for example witness statements) rather than opinions.
-* the evidence provided must be valid and attributable to the apprentice; the portfolio of evidence must contain a statement from the employer and apprentice confirming this.
-* the portfolio of evidence must be submitted to the EPAO at the gateway.
+Apprentices are required to compile a portfolio of six distinct, work-based evidence items, each mapped to specific Knowledge, Skills, and Behaviours (KSBs). The document details how to select, structure, and present these items using reflective writing and real-world examples, supported by visual artefacts and anonymised data.
 
-The portfolio of evidence is not directly assessed. It underpins the professional discussion and will not be marked by the EPAO (Solent University).  Solent will review the portfolio of evidence in preparation for the professional discussion but is not required to provide feedback after this portfolio review.
+The guidance includes:
+
+* Thematic breakdown of portfolio evidence (Underlying Principles, Technical Solutions, Innovation & Response, Legal & Ethics).
+
+* Strategies for demonstrating competency, including use of first-person narrative, and alignment with assessment criteria.
+
+* Detailed KSB mapping tables and grading rubrics to support preparation for the professional discussion.
+
+
+**Links to Pathways:**
+
+* Software Engineering
+* Network Engineer
+* Cyber
 
 
