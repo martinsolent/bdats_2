@@ -220,6 +220,7 @@ Any organisational clearance or rights to publishing must be discussed with the 
 
 **<EXAMPLE FOR THEME-A PORTFOLIO ITEM - START>**
 
+{: .important }
 > This is a suggested layout; you may adopt a different structure, provided it is applied consistently across all six portfolio items. Please note yellow highlights indicate where diagrams and links to supporting evidence will appear in the final portfolio and KSB theme blocks have been appended to the end of the narrative description.
 
 Item 1	Applying the Software Development Lifecycle in an Agile Environment
@@ -228,6 +229,7 @@ My Role in Delivering a Digital Solution Using the Software Development Lifecycl
 **Overview:**
 In this portfolio item, I demonstrate my understanding of the Software Development Lifecycle (SDLC) and how I applied it within a cross-functional Agile team to deliver a digital solution that automated a manual reporting process. This example aligns with **Theme A: Underlying Principles**, specifically focusing on **[K7, K8, K9, K10, S7, S8, B4, B6, B7].**
 
+{: .highlight }
 > Insert Diagram 1: Software Development Lifecycle Overview
 A visual showing each SDLC phase with annotations of my contributions
 
@@ -243,6 +245,7 @@ My responsibility was to contribute across the SDLC phases—from requirements g
 
 I began by attending stakeholder meetings to understand the business drivers behind the project. I documented the roles and responsibilities of key stakeholders, including the Product Owner, QA Lead, and DevOps Engineer. I analysed how each role contributed to the delivery of the solution and how organisational goals shaped our technical decisions.
 
+{: .highlight }
 > Insert Diagram 2: Team Roles and Responsibilities Map
 A visual showing stakeholder roles and how they interact across the SDLC.
 
@@ -256,6 +259,7 @@ A visual showing stakeholder roles and how they interact across the SDLC.
 
 I actively participated in Agile activities such as sprint planning, daily stand-ups, and retrospectives. I used Jira to manage my tasks and Confluence to document technical decisions and share knowledge with the team.
 
+{: .highlight }
 > Insert Diagram 3: Jira Sprint Board Snapshot
 Annotated screenshot showing my tasks and progress.
 
@@ -265,10 +269,11 @@ Annotated screenshot showing my tasks and progress.
 
 I adapted my communication style to suit different team members and took initiative to support others when blockers arose. I consistently showed respect for diverse perspectives and encouraged open dialogue during retrospectives.
 
+{: .highlight }
 >Insert Diagram 4: Retrospective Summary Chart
 A visual summary of feedback received, and actions taken.
 
-**Supporting Evidence (embedded or links to):  **
+**Supporting Evidence (embedded or links to):**
 •	Retrospective Notes (PDF) 
 •	Team Feedback Summary
 
@@ -278,6 +283,7 @@ A visual summary of feedback received, and actions taken.
 
 I took ownership of a feature module and coordinated with Quality Assurance (QA) and DevOps to ensure smooth integration and testing. I prioritised tasks using MoSCoW analysis and managed my time to meet sprint goals.
 
+{: .highlight }
 > Insert Diagram 5: MoSCoW Prioritisation Matrix
 A table showing how I prioritised features and why.
 
