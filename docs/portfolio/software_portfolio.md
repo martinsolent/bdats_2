@@ -37,14 +37,7 @@ This section provides a structured list of example portfolio evidence items, gro
 
 Each theme reflects a key area of competence: The portfolio items listed under each theme are examples only and should be adapted to reflect the apprentice’s actual work and context. They are intended to guide the development of a strong, well-evidenced portfolio that supports a successful EPA. The apprenticeship standard outlines both core and pathway duties, each comprising a set of Knowledge, Skills, and Behaviours (KSBs) aligned to specific criteria or activities. These may also be helpful when selecting appropriate portfolio items for documentation.
 
-| **Theme A: Underlying Principles**                           | **Theme  B: Technical Solutions**                            |
-| :------------------------------------------------------------ | :------------------------------------------------------------ |
-| *Demonstrates foundational understanding of  software engineering concepts, methodologies, and team dynamics* | *Focuses  on the practical application of software development, testing, and  implementation.* |
-| Software  Development Lifecycle Overview<br />Agile  Methodology Application<br />Requirements  Gathering and Analysis<br />Software  Design Documentation<br />Estimation  and Planning Techniques<br />Risk  and Opportunity Assessment <br />Team  Collaboration Reflection <br />Leadership  and Management Techniques | Software Component Build and  Test<br />Code Review and Quality  Assurance<br />Version Control and Release  Management<br />Network Design and  Implementation<br />Data Product Development<br />Security Implementation in  Software<br />Use of Development Frameworks  and Tools<br />Debugging and Troubleshooting  Logs |
-| **Theme C: Innovation & Response**                           | **Theme  D: Legal, Ethics & Landscape**                      |
-| *Highlights adaptability, continuous improvement,  and the use of emerging technologies.* | *Covers  compliance, ethical practice, and awareness of the broader professional  environment.* |
-| Sprint Retrospective and  Adaptation<br /> Research on Emerging  Technologies <br />Lessons Learned and Continuous  Improvement   Response to Changing  Requirements<br />Evaluation of New Tools or  Methods <br /> Innovation in Software  Architecture<br />Problem Solving and Critical  Thinking | Security Risk Assessment  Report<br />Compliance with Data  Protection Regulations<br />Ethical Considerations in  Software Development<br />Accessibility and Inclusion Review<br />Legal Standards Mapping to  Project Work<br />Professional Conduct and  Integrity Reflection |
-
+![](../images/SE_PORTFOLIO/Theme_blocks_colours.png)
 
 Throughout the apprenticeship you will need to collate a portfolio of work mapped to the Standard’s KSBs, in Gateway COM628 module, the final on-programme module in 3rd (Level 6), you will submit a Portfolio of select a final 6 discrete pieces for the Professional Discussion underpinned by a portfolio assessment element 2 (AE2)
 
@@ -314,10 +307,10 @@ This experience reinforced the importance of understanding the organisational co
 * I applied leadership and management principles in my role. **[K9, K10, S8]**
 * I demonstrated professional behaviours including adaptability, collaboration, and continuous improvement. **[B4, B6, B7]**
 
-![A theme blocks](*)
+![](../images/SE_PORTFOLIO/A_A_BLOCK.png)
 
 
-<EXAMPLE FOR THEME-A PORTFOLIO ITEM - END>
+**<EXAMPLE FOR THEME-A PORTFOLIO ITEM - END>**
 
 ### Software Engineering - KSB mapping to EPA Assessment Methods (Knowledge) - Appendix A
 
@@ -350,4 +343,9 @@ Your portfolio will be submitted at the Gateway stage as you enter the End Point
 KSB mapping blocks are tools used to align portfolio evidence with the specific Knowledge, Skills, and Behaviours (KSBs) required by the assessment criteria. These blocks play a crucial role in ensuring that each item in the portfolio clearly demonstrates how it meets the relevant standards.
 
 Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. These will be used in the portfolio assessment template to show how each piece of evidence supports the associated KSBs within each theme. The following examples illustrate how to use these blocks effectively throughout the assessment process.
+
+
+![](../images/SE_PORTFOLIO/A_A_BLOCK.png)
+
+![](../images/SE_PORTFOLIO/B_C_BLOCK.png)
 
