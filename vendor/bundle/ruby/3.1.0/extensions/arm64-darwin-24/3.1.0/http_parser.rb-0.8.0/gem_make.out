@@ -1,0 +1,21 @@
+current directory: /Users/martinreid/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/bdats_2/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/martinreid/.rbenv/versions/3.1.4/bin/ruby -I /Users/martinreid/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/martinreid/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/bdats_2/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250808-5991-ntaeyd sitelibdir\=./.gem.20250808-5991-ntaeyd clean
+
+current directory: /Users/martinreid/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/bdats_2/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250808-5991-ntaeyd sitelibdir\=./.gem.20250808-5991-ntaeyd
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+  365 |     if (nparsed < len)
+      |         ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/martinreid/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/bdats_2/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250808-5991-ntaeyd sitelibdir\=./.gem.20250808-5991-ntaeyd install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20250808-5991-ntaeyd
