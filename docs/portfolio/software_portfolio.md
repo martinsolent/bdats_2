@@ -9,11 +9,10 @@ nav_order: 3
 
 #   Software Engineer Portfolio
 
-<center>
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1ec8febb-9df5-4dc6-87f7-b3320093e2ba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS_1-2_EPA_AE2_v3" ></iframe>
 
 [Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_1-2_EPA-Portfolio_Support_2025_v1.pdf)
-</center>
+
 
 
 *The primary role of the Software Engineer is to undertake all requirements during the solution development life cycle from gathering requirements to analysis, design, code, build, test, implementation and support. They may also be required to supervise the work of junior software developers and others who may be working on elements of the solution and work with product managers and UX designers in implementing solutions. They will apply software engineering principles to all stages of the solution life cycle, from gathering requirements, undertaking analysis and design, development of code and data requirements whilst also ensuring security feature are addressed. As well as creating new code, they can support existing code by troubleshooting, reverse engineering and conducting root cause analysis. They typically work as part of a large collaborative team and will have responsibility for significant elements of software solutions.* [Software Engineer Apprenticeship (ST0119 v1.2) 2023](https://skillsengland.education.gov.uk/apprenticeship-standards/st0119-v1-2)
