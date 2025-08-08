@@ -124,7 +124,7 @@ Examples: **“I volunteered to…”, “I conducted research that informed the
 
 ### What to Expect in the Portfolio Professional Discussion EPA Assessment (AE2)
 
-![Professional Discussion Photo](*)
+![Professional Discussion Photo](../images/interview_picts/linkedin-sales-solutions-1A8yP_5msac-unsplash_Fotor.jpg)
 
 **Professional Discussion – Overview**
 The professional discussion is a formal, two-way conversation between the apprentice and an independent assessor. It allows the apprentice to demonstrate the knowledge, skills and behaviours (KSBs) mapped to this assessment method, using examples from their portfolio of evidence. While the portfolio supports the discussion, it is not directly assessed.
