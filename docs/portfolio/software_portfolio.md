@@ -7,15 +7,43 @@ nav_order: 3
 
 {: .no_toc }
 
-#   Software Engineer Portfolio
+# Software Engineer Portfolio
+*The primary role of the Software Engineer is to undertake all requirements during the solution development life cycle from gathering requirements to analysis, design, code, build, test, implementation and support. They may also be required to supervise the work of junior software developers and others who may be working on elements of the solution and work with product managers and UX designers in implementing solutions. They will apply software engineering principles to all stages of the solution life cycle, from gathering requirements, undertaking analysis and design, development of code and data requirements whilst also ensuring security feature are addressed. As well as creating new code, they can support existing code by troubleshooting, reverse engineering and conducting root cause analysis. They typically work as part of a large collaborative team and will have responsibility for significant elements of software solutions.* [Software Engineer Apprenticeship (ST0119 v1.2) 2023](https://skillsengland.education.gov.uk/apprenticeship-standards/st0119-v1-2)
+
+## EPA Portfolio Assessment (Software) AI Podcast
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=59324dc6-aafd-4276-8090-b3340136d1f5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Portfolio NotebookLM Podcast SE" ></iframe>
+
+This Google NotebookLM AI generated podcast explains how software engineering apprentices can prepare their portfolio and professional discussion for the second assessment element of the End-Point Assessment (EPA) in the Digital and Technology Solutions apprenticeship.
+
+It covers:
+
+* Purpose of the portfolio – a curated set of six real-world evidence items demonstrating knowledge, skills, and behaviours (KSBs), mapped to the apprenticeship standard.
+
+* Key themes – software engineering & development, ethical/legal compliance, organisational/business teamwork, and responding to change/innovation.
+
+* Best practices – use first-person accounts, be explicit about your contribution, include visual evidence with captions, anonymise sensitive data, and explain both what you did and why.
+
+* Common mistakes – being too generic, omitting the “why,” including irrelevant or unprofessional content.
+
+* Role of the portfolio – it’s not graded directly but is the foundation for the professional discussion.
+
+* Professional discussion format – 60 minutes, four main themes, assessor-led but apprentice-driven, using the portfolio to evidence competencies.
+
+* Distinction tips – show reflection, measurable results, lessons learned, and growth from challenges.
+
+* Example case – developing a web-based reporting tool in an agile environment, evidencing KSBs through active participation, leadership, and measurable impact.
+
+The episode emphasises framing the portfolio as a strategic story to support confident, evidence-backed discussion with the assessor.
+
+
+## Software Engineer Portfolio Overview and Support
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1ec8febb-9df5-4dc6-87f7-b3320093e2ba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS_1-2_EPA_AE2_v3" ></iframe>
 
 [Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_1-2_EPA-Portfolio_Support_2025_v1.pdf)
 
 
-
-*The primary role of the Software Engineer is to undertake all requirements during the solution development life cycle from gathering requirements to analysis, design, code, build, test, implementation and support. They may also be required to supervise the work of junior software developers and others who may be working on elements of the solution and work with product managers and UX designers in implementing solutions. They will apply software engineering principles to all stages of the solution life cycle, from gathering requirements, undertaking analysis and design, development of code and data requirements whilst also ensuring security feature are addressed. As well as creating new code, they can support existing code by troubleshooting, reverse engineering and conducting root cause analysis. They typically work as part of a large collaborative team and will have responsibility for significant elements of software solutions.* [Software Engineer Apprenticeship (ST0119 v1.2) 2023](https://skillsengland.education.gov.uk/apprenticeship-standards/st0119-v1-2)
 
 Your portfolio should evidence your competence against the KSBs listed in the standard.
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
