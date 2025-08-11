@@ -407,14 +407,14 @@ Your portfolio will be submitted at the Gateway stage as you enter the End Point
 
 ### Appendix C
 
-**KSB Professional Discussion underpinned by a portfolio Mapping Block**
+**KSB Professional Discussion underpinned by a portfolio Mapping Blocks**
 
 KSB mapping blocks are tools used to align portfolio evidence with the specific Knowledge, Skills, and Behaviours (KSBs) required by the assessment criteria. These blocks play a crucial role in ensuring that each item in the portfolio clearly demonstrates how it meets the relevant standards.
 
 Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. These will be used in the portfolio assessment template to show how each piece of evidence supports the associated KSBs within each theme. The following examples illustrate how to use these blocks effectively throughout the assessment process.
 
 {: .warning }
- > There is no **Innovation and Response Theme** on Cyber Pathway for this EPA Assessment AE2
+ > There is no **Innovation and Response Theme (C)** on Cyber Pathway for this EPA Assessment AE2
 
 
 ![](../images/CYBER_PORTFOLIO/Cyber_1.png)

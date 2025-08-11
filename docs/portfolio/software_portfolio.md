@@ -437,7 +437,7 @@ Your portfolio will be submitted at the Gateway stage as you enter the End Point
 
 ### Appendix C
 
-**KSB Professional Discussion underpinned by a portfolio Mapping Block**
+**KSB Professional Discussion underpinned by a portfolio Mapping Blocks**
 
 KSB mapping blocks are tools used to align portfolio evidence with the specific Knowledge, Skills, and Behaviours (KSBs) required by the assessment criteria. These blocks play a crucial role in ensuring that each item in the portfolio clearly demonstrates how it meets the relevant standards.
 
