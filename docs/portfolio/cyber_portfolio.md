@@ -416,6 +416,6 @@ Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. Th
 
 ![](../images/CYBER_PORTFOLIO/Cyber_1.png)
 
-![](../images/CYBER_PORTFOLIO/Cyber_2.png)
+![](../images/CYBER_PORTFOLIO/CYBER_2.png)
 
-![](../images/CYBER_PORTFOLIO/Cyber_3.png)
+![](../images/CYBER_PORTFOLIO/CYBER_3.png)
