@@ -100,8 +100,8 @@ evidence may be used to demonstrate more than one KSB; a qualitative as opposed 
 
 1.	**Use real-world, work-based examples** only no academic tasks, hobby projects, or generic online learning examples.
 
-2.	**Speak and Write in First Person** - Always focus on **your individual contributions** use **“I”** not “we” to clearly show your personal contribution. Even in team projects, emphasise your role and decisions.
-Examples: **“I volunteered to…”, “I conducted research that informed the decision…” **
+2.	**Speak and Write in First Person** - Always focus on **your individual contributions** use **“I”** not **“we"** to clearly show your personal contribution. Even in team projects, emphasise your role and decisions.
+Examples: **“I volunteered to…”, “I conducted research that informed the decision…”**
 
 3.	**Be Explicit for the Assessor** - Don’t assume they know your workplace or role. Spell out exactly what you did to meet the KSBs. Anything left unsaid won’t be assessed. 
 
@@ -109,7 +109,7 @@ Examples: **“I volunteered to…”, “I conducted research that informed the
 
 5.	**Reflect on the What and the Why** - For each example, clearly explain what you did and why you did it. Generic statements are insufficient. 
 
-6.	**Use Key Phrases to Show Depth** - Clearly explain decisions, reasoning, and outcomes, not just the task done. Focus your language around **“what”** and **“why”**, such as “I analysed, I evaluated, I implemented... because...” to enhance clarity and impact. 
+6.	**Use Key Phrases to Show Depth** - Clearly explain decisions, reasoning, and outcomes, not just the task done. Focus your language around **“what”** and **“why”**, such as “**I analysed, I evaluated, I implemented... because...”** to enhance clarity and impact. 
 
 7.	**Add Depth for Distinction** - To achieve higher grades, go beyond what you did and reflect on outcomes, emphasise initiative, problem-solving, and measurable results, lessons learned, and how you would refine or improve further. Demonstrate insight into future application and organisational influence.
 
