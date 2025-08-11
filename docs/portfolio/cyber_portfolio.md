@@ -413,7 +413,7 @@ KSB mapping blocks are tools used to align portfolio evidence with the specific 
 
 Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. These will be used in the portfolio assessment template to show how each piece of evidence supports the associated KSBs within each theme. The following examples illustrate how to use these blocks effectively throughout the assessment process.
 
-{: .highlight }
+{: .warning }
  > Note this is no **Innovation and Response Theme** on Cyber Pathway fo this EPA Assessment AE2
 
 
