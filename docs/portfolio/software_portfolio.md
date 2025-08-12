@@ -263,7 +263,7 @@ Item 1	Applying the Software Development Lifecycle in an Agile Environment
 My Role in Delivering a Digital Solution Using the Software Development Lifecycle
 
 **Overview:**
-In this portfolio item, I demonstrate my understanding of the Software Development Lifecycle (SDLC) and how I applied it within a cross-functional Agile team to deliver a digital solution that automated a manual reporting process. This example aligns with **Theme A: Underlying Principles**, specifically focusing on **[K7, K8, K9, K10, S7, S8, B4, B6, B7].**
+In this portfolio item, I demonstrate my understanding of the Software Development Lifecycle (SDLC) and how I applied it within a cross-functional Agile team to deliver a digital solution that automated a manual reporting process. This example aligns with **Theme A: Underlying Principles**, specifically focusing on **[K7, K8, K9, K10, K21, K22, K23, S7, S8, B4, B6, B7].**
 
 {: .highlight }
 > Insert Diagram 1: Software Development Lifecycle Overview
@@ -332,6 +332,40 @@ I reflected on the leadership styles within the team and evaluated how they infl
 
 **“I applied leadership principles by taking ownership of a feature, managing priorities, and coordinating with other roles to ensure successful delivery.”**
 
+**Applying Development Lifecycle Principles [K21, K22, K23]**
+
+Throughout the project, I applied a range of development techniques and methods aligned with each stage of the Software Development Lifecycle (SDLC):
+
+* **Requirements Gathering (K21, K22):**
+I facilitated stakeholder interviews and used techniques such as user story mapping and MoSCoW prioritisation to capture functional and non-functional requirements. These artefacts helped ensure alignment with business goals and informed backlog grooming sessions.
+
+* **Design (K21, K22):**
+I contributed to the system architecture design using component diagrams and sequence diagrams to visualise interactions. We applied modular design principles to ensure scalability and maintainability.
+
+* **Development (K21, K23):**
+I followed Test-Driven Development (TDD) and pair programming practices to ensure code quality and shared knowledge. We used Git branching strategies (e.g., GitFlow) to manage feature development and integration.
+
+* **Testing (K21, K22):**
+I collaborated with QA to define acceptance criteria and implemented unit and integration tests using Jest and Cypress. These artefacts validated functionality and supported continuous integration.
+
+* **Deployment (K21, K23):**
+I worked with DevOps to configure CI/CD pipelines using GitHub Actions. We applied blue-green deployment strategies to minimise downtime and risk during release.
+
+* **Maintenance and Evaluation (K21):**
+post-deployment, I monitored performance metrics and user feedback to identify areas for improvement. I proposed enhancements based on usability testing and analytics data.
+
+Insert Diagram 6: SDLC Techniques and Methods Map
+
+{: .highlight }
+> A visual mapping of techniques/methods used at each SDLC stage.
+
+**Supporting Evidence (embedded or links to):**
+* Requirements Artefacts (PDF)
+* Architecture Diagrams (PDF)
+
+**“I demonstrated my understanding of development lifecycle principles by applying appropriate techniques and methods at each stage, producing artefacts that supported successful delivery and continuous improvement.”**
+
+
 **Results:**
 The reporting tool was successfully deployed and reduced manual effort by 60%. Stakeholders reported improved accuracy and faster turnaround times. I received positive feedback for my proactive communication and technical contributions.
 
@@ -349,8 +383,12 @@ This experience reinforced the importance of understanding the organisational co
 * I worked effectively in a team using Agile methodologies and collaboration tools. **[K8, S7]**
 * I applied leadership and management principles in my role. **[K9, K10, S8]**
 * I demonstrated professional behaviours including adaptability, collaboration, and continuous improvement. **[B4, B6, B7]**
+* 	I described scenarios across the SDLC, identifying techniques and methods used at each stage. **[K21]**
+•	I explained the principles of development techniques and artefacts used throughout the SDLC. **[K22]**
+•	I explained the principles of development methods and approaches and their application contexts. **[K23]**
 
-![](../images/SE_PORTFOLIO/A_A_BLOCK.png)
+
+![](../images/SE_PORTFOLIO/underline_SE_example.png)
 
 
 **<EXAMPLE FOR THEME-A PORTFOLIO ITEM - END>**
