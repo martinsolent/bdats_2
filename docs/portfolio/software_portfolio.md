@@ -39,7 +39,7 @@ The episode emphasises framing the portfolio as a strategic story to support con
 
 ## Software Engineer Portfolio Overview and Support
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1ec8febb-9df5-4dc6-87f7-b3320093e2ba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS_1-2_EPA_AE2_v3" ></iframe>
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e29c2866-805c-4588-be1e-b3370163f35d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Portfolio AE2 Overview" ></iframe>
 
 [Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_SOFTWARE_1-2_EPA-Portfolio_Support_2025_v2.pdf)
 
@@ -222,7 +222,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 ### EPA Portfolio Template
 
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7dc14fc1-49db-4070-9b22-b33200919336&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS EPA 1.2 - Portfolio Template Walk-through" ></iframe>
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d9022d94-a14b-4b09-b134-b3370165d9e0&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA AE2 Portfolio Template Walkthrough" ></iframe>
 
 
 [Download EPA Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/Template_SOFTWARE_AE2_NEW_25_v2.docx)
@@ -383,8 +383,8 @@ This experience reinforced the importance of understanding the organisational co
 * I applied leadership and management principles in my role. **[K9, K10, S8]**
 * I demonstrated professional behaviours including adaptability, collaboration, and continuous improvement. **[B4, B6, B7]**
 * 	I described scenarios across the SDLC, identifying techniques and methods used at each stage. **[K21]**
-•	I explained the principles of development techniques and artefacts used throughout the SDLC. **[K22]**
-•	I explained the principles of development methods and approaches and their application contexts. **[K23]**
+*	I explained the principles of development techniques and artefacts used throughout the SDLC. **[K22]***
+*	I explained the principles of development methods and approaches and their application contexts. **[K23]**
 
 
 ![](../images/SE_PORTFOLIO/underline_SE_example.png)
