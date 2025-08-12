@@ -41,7 +41,7 @@ The episode emphasises framing the portfolio as a strategic story to support con
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1ec8febb-9df5-4dc6-87f7-b3320093e2ba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS_1-2_EPA_AE2_v3" ></iframe>
 
-[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_1-2_EPA-Portfolio_Support_2025_v1.pdf)
+[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_SOFTWARE_1-2_EPA-Portfolio_Support_2025_v2.pdf)
 
 
 
@@ -225,7 +225,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7dc14fc1-49db-4070-9b22-b33200919336&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DATS EPA 1.2 - Portfolio Template Walk-through" ></iframe>
 
 
-[Download EPA Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/Template_AE2_NEW_5-8-25_v1.docx)
+[Download EPA Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/Template_SOFTWARE_AE2_NEW_25_v2.docx)
 
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
@@ -481,9 +481,9 @@ KSB mapping blocks are tools used to align portfolio evidence with the specific 
 Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. These will be used in the portfolio assessment template to show how each piece of evidence supports the associated KSBs within each theme. The following examples illustrate how to use these blocks effectively throughout the assessment process.
 
 
-![](../images/SE_PORTFOLIO/A_C_BLOCK.png)
+![](../images/SE_PORTFOLIO/SE-3x_A.png)
 
-![](../images/SE_PORTFOLIO/B_C_BLOCK.png)
+![](../images/SE_PORTFOLIO/SE-3_bs.png)
 
-![](../images/SE_PORTFOLIO/D_BLOCK.png)
+![](../images/SE_PORTFOLIO/SE-C-D.png)
 
