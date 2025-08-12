@@ -354,10 +354,9 @@ I worked with DevOps to configure CI/CD pipelines using GitHub Actions. We appli
 * **Maintenance and Evaluation (K21):**
 post-deployment, I monitored performance metrics and user feedback to identify areas for improvement. I proposed enhancements based on usability testing and analytics data.
 
-Insert Diagram 6: SDLC Techniques and Methods Map
-
 {: .highlight }
-> A visual mapping of techniques/methods used at each SDLC stage.
+> Insert Diagram 6: SDLC Techniques and Methods Map
+A visual mapping of techniques/methods used at each SDLC stage.
 
 **Supporting Evidence (embedded or links to):**
 * Requirements Artefacts (PDF)
