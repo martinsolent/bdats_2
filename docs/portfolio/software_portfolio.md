@@ -34,7 +34,7 @@ It covers:
 
 * Example case – developing a web-based reporting tool in an agile environment, evidencing KSBs through active participation, leadership, and measurable impact.
 
-The episode emphasises framing the portfolio as a strategic story to support confident, evidence-backed discussion with the assessor.
+The video emphasises framing the portfolio as a strategic story to support confident, evidence-backed discussion with the assessor.
 
 
 ## Software Engineer Portfolio Overview and Support
@@ -49,10 +49,11 @@ Your portfolio should evidence your competence against the KSBs listed in the st
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
 
 Choose projects that cover a range of activities, such as:
-•	Software Engineering/development
-•	Ethical and legal compliance
-•	Organisational, business and team collaboration
-•	Responding to change and innovation
+
+* Software Engineering/development
+* Ethical and legal compliance
+* Organisational, business and team collaboration
+* Responding to change and innovation
 
 Ensure all examples are authentic, anonymised if necessary and have organisation clearance to submit.
 

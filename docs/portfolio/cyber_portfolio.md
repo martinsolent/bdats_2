@@ -17,6 +17,32 @@ nav_order: 5
 
 This [Google NotebookLM](https://notebooklm.google/) AI generated podcast explains how software engineering apprentices can prepare their portfolio and professional discussion for the second assessment element of the End-Point Assessment (EPA) in the Digital and Technology Solutions apprenticeship.
 
+It covers:
+
+* Purpose of the portfolio – a curated set of six real-world evidence items demonstrating knowledge, skills, and behaviours (KSBs), mapped to the apprenticeship standard.
+
+* Key themes – cyber security & development, ethical/legal compliance, organisational/business teamwork, and responding to change/innovation.
+
+* Best practices – use first-person accounts, be explicit about your contribution, include visual evidence with captions, anonymise sensitive data, and explain both what you did and why.
+
+* Common mistakes – being too generic, omitting the “why,” including irrelevant or unprofessional content.
+
+* Role of the portfolio – it’s not graded directly but is the foundation for the professional discussion.
+
+* Professional discussion format – 60 minutes, four main themes, assessor-led but apprentice-driven, using the portfolio to evidence competencies.
+
+* Distinction tips – show reflection, measurable results, lessons learned, and growth from challenges.
+
+* Example case – developing a web-based reporting tool in an agile environment, evidencing KSBs through active participation, leadership, and measurable impact.
+
+The video emphasises framing the portfolio as a strategic story to support confident, evidence-backed discussion with the assessor.
+
+## Cyber Security Portfolio Overview and Support
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=691c166b-8f48-4c46-a06d-b34100e7d352&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Cyber Portfolio AE2 Overview" ></iframe>
+
+[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_CYBER_1-2_EPA-Portfolio_Support_2025_v2.pdf)
+
 Your portfolio should evidence your competence against the KSBs listed in the standard.
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
 
@@ -156,7 +182,7 @@ The professional discussion follows a semi-structured format. The assessor leads
 **Themes:** Questions will explore:
 * Underlying Principles
 * Technical Solutions
-* Innovation & Response
+* Innovation & Response - **This theme does not apply on Cyber Pathway on AE2** 
 * Legal, Ethics & Landscape
 
 **Closure:** Opportunity for final reflections or clarifications.
