@@ -11,6 +11,12 @@ nav_order: 5
 *A Cyber Security Analyst leads in the work to define, implement and maintain security products and systems within an organisation’s policies and service level agreements. They will need to analyse and understand the points of vulnerability within IT systems and a proactive and agile approach to maintain high levels of systems and organisational security. They will monitor security performance using tools, statistical reporting and analysis, using the output of monitoring to problem solve, propose improvements and implement changes to meet service level requirements. A Cyber Security Analyst leads technical implementation of security infrastructures and technical designs, including producing cost and timescale estimates and identifying risks. After implementation they take ownership for obtaining the information required to diagnose and resolve more complex problems and escalations such as security incidents and business recovery. They engage with third parties to jointly resolve in-depth product issues where necessary and completing cyber risk assessments.*
 [Cyber Security Analyst Apprenticeship ST0119 v1.2 2023](https://skillsengland.education.gov.uk/apprenticeship-standards/st0119-v1-2)
 
+## EPA Portfolio Assessment (Cuber) AI Podcast
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2de4ddc6-9e42-46b1-9982-b34100cbce48&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Portfolio NotebookLM Podcast Cyber" ></iframe>
+
+This [Google NotebookLM](https://notebooklm.google/) AI generated podcast explains how software engineering apprentices can prepare their portfolio and professional discussion for the second assessment element of the End-Point Assessment (EPA) in the Digital and Technology Solutions apprenticeship.
+
 Your portfolio should evidence your competence against the KSBs listed in the standard.
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
 
