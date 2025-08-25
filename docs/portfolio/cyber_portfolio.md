@@ -235,7 +235,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 CYBER VIDEO HERE
 
 
-[Download EPA Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/*)
+[Download EPA Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/DATS_CYBER_1-2_EPA-Portfolio_Support_2025_v1.pdf)
 
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
