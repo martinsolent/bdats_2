@@ -39,7 +39,7 @@ The video emphasises framing the portfolio as a strategic story to support confi
 
 ## Network Engineer Portfolio Overview and Support
 
-ADD Overview Video
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3c349cec-ffe3-4325-a00d-b345013447a9&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Network Portfolio AE2 Overview" ></iframe>
 
 [Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/*)
 
@@ -217,7 +217,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 
 ### EPA Portfolio Network Template
 
-ADD VIDEO
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=65fdeacb-58f7-401f-9081-b345013ae34c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Network AE2 Portfolio Template Walkthrough" ></iframe>
 
 [Download EPA Network Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/Template_SE_AE2_NEW_25_v3.docx)
 
