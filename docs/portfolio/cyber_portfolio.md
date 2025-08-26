@@ -64,7 +64,9 @@ Practice answering questions that ask you to expand, clarify, or compare your wo
  
 ## Portfolio Evidence Overview (6x items)
 
-This section provides a structured list of example portfolio evidence items, grouped under the four End-Point Assessment (EPA) themes defined in the ST0119 (version 1.2) apprenticeship standard. These examples are designed to support apprentices and employers in identifying suitable work-based projects and artefacts that demonstrate the required Knowledge, Skills, and Behaviours (KSBs).
+This section provides a structured list of example portfolio evidence items, grouped under the four End-Point Assessment (EPA) themes defined in the ST0119 (version 1.2) apprenticeship standard. These examples are designed to support apprentices and employers in identifying suitable work-based projects and artefacts that demonstrate the required **Knowledge, Skills, and Behaviours (KSBs).**
+
+#### Themes
 
 Each theme reflects a key area of competence: The portfolio items listed under each theme are examples only and should be adapted to reflect the apprentice’s actual work and context. They are intended to guide the development of a strong, well-evidenced portfolio that supports a successful EPA. The apprenticeship standard outlines both core and pathway duties, each comprising a set of Knowledge, Skills, and Behaviours (KSBs) aligned to specific criteria or activities. These may also be helpful when selecting appropriate portfolio items for documentation.
 
