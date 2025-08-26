@@ -260,8 +260,8 @@ Any organisational clearance or rights to publishing must be discussed with the 
 {: .important }
 > This is a suggested layout; you may adopt a different structure, provided it is applied consistently across all six portfolio items. Please note yellow highlights indicate where diagrams and links to supporting evidence will appear in the final portfolio and KSB theme blocks have been appended to the end of the narrative description.
 
-Item 1	Applying the Software Development Lifecycle in an Agile Environment
-My Role in Delivering a Digital Solution Using the Software Development Lifecycle
+**Item 1:	Applying the Software Development Lifecycle in an Agile Environment
+My Role in Delivering a Digital Solution Using the Software Development Lifecycle**
 
 **Overview:**
 In this portfolio item, I demonstrate my understanding of the Software Development Lifecycle (SDLC) and how I applied it within a cross-functional Agile team to deliver a digital solution that automated a manual reporting process. This example aligns with **Theme A: Underlying Principles**, specifically focusing on **[K7, K8, K9, K10, K21, K22, K23, S7, S8, B4, B6, B7].**
