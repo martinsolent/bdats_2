@@ -229,13 +229,11 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 
 
 
-### EPA Portfolio Template
+### EPA Portfolio Cyber Template
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=62e3c5bd-6475-4024-8695-b345009182e2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Cyber AE2 Portfolio Template Walkthrough" ></iframe>
 
-CYBER VIDEO HERE
-
-
-[Download EPA Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/DATS_CYBER_1-2_EPA-Portfolio_Support_2025_v1.pdf)
+[Download EPA Cyber Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/DATS_CYBER_1-2_EPA-Portfolio_Support_2025_v1.pdf)
 
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
