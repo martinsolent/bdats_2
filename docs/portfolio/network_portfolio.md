@@ -41,7 +41,7 @@ The video emphasises framing the portfolio as a strategic story to support confi
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3c349cec-ffe3-4325-a00d-b345013447a9&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Network Portfolio AE2 Overview" ></iframe>
 
-[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/*)
+[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/network_port/DATS_NETWORK_1-2_EPA-Portfolio_Support_2025_v1.pdf)
 
 Your portfolio should evidence your competence against the KSBs listed in the standard.
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
@@ -219,7 +219,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=65fdeacb-58f7-401f-9081-b345013ae34c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Network AE2 Portfolio Template Walkthrough" ></iframe>
 
-[Download EPA Network Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/Template_SE_AE2_NEW_25_v3.docx)
+[Download EPA Network Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/network_port/Template_NETWORK_AE2_NEW_8-25_v1.docx)
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
 

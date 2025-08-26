@@ -41,7 +41,7 @@ The video emphasises framing the portfolio as a strategic story to support confi
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=691c166b-8f48-4c46-a06d-b34100e7d352&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Cyber Portfolio AE2 Overview" ></iframe>
 
-[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_CYBER_1-2_EPA-Portfolio_Support_2025_v1.pdf)
+[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/cyber_port/DATS_CYBER_1-2_EPA-Portfolio_Support_2025_v1.pdf)
 
 Your portfolio should evidence your competence against the KSBs listed in the standard.
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
@@ -233,7 +233,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=62e3c5bd-6475-4024-8695-b345009182e2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Cyber AE2 Portfolio Template Walkthrough" ></iframe>
 
-[Download EPA Cyber Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/Template_CYBER_AE2_NEW_5-8-25_v1.docx)
+[Download EPA Cyber Portfolio 1.2 Template 2025-v1](../info/epa_1-2_doc_2025/cyber_port/Template_CYBER_AE2_NEW_8-25_v1.docx)
 
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.

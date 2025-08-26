@@ -41,7 +41,7 @@ The video emphasises framing the portfolio as a strategic story to support confi
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e29c2866-805c-4588-be1e-b3370163f35d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Portfolio AE2 Overview" ></iframe>
 
-[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/DATS_SOFTWARE_1-2_EPA-Portfolio_Support_2025_v2.pdf)
+[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/software_port/DATS_SOFTWARE_1-2_EPA-Portfolio_Support_2025_v2.pdf)
 
 
 
@@ -226,7 +226,7 @@ This is the second of two EPA assessment elements, and it has its own grading ru
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d9022d94-a14b-4b09-b134-b3370165d9e0&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA AE2 Portfolio Template Walkthrough" ></iframe>
 
 
-[Download EPA Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/Template_SE_AE2_NEW_25_v3.docx)
+[Download EPA Portfolio 1.2 Template 2025-v2](../info/epa_1-2_doc_2025/software_port/Template_SE_AE2_NEW_8_25_v1.docx)
 
 
 Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
