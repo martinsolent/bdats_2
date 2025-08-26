@@ -13,7 +13,7 @@ The primary role of a network engineer is to lead in the planning, design, insta
 
 ## EPA Portfolio Assessment (Network) AI Podcast
 
-ADD AI VIDEO
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=16d8d8ab-512a-49ea-984d-b34501496595&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="NoteBookLM_Neteork_AE2" ></iframe>
 
 This [Google NotebookLM](https://notebooklm.google/) AI generated podcast explains how software engineering apprentices can prepare their portfolio and professional discussion for the second assessment element of the End-Point Assessment (EPA) in the Digital and Technology Solutions apprenticeship.
 
