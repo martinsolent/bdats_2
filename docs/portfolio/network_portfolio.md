@@ -406,6 +406,7 @@ Your portfolio will be submitted at the Gateway stage as you enter the End Point
 | THEME KSBS                                                   | PASS APPRENTICES MUST DEMONSTRATE ALL THE PASS DESCRIPTORS   | DISTINCTION APPRENTICES MUST DEMONSTRATE ALL THE PASS DESCRIPTORS AND ALL OF THE DISTINCTION DESCRIPTORS |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Core - The Organisational  Context (**A: Underlying Principles)** <br />K7 | Reviews the roles, functions and activities relevant to technology solutions within an organisation. (K7) | N/A                                                          |
+| Network Engineer - **A: Underlying Principles** <br />K64 K65 | Describe key factors that affect network performance and provide some mitigation strategies to increase quality of service. (K64/NEK4)<br /><br />Explains the principles of failure modes in protocols and how they could be addressed. (K65/NEK5) | N/A                                                          |
 | Core - Leading and Working Together<br/> (**A: Underlying Principles)**<br/> K8 K9 K10 <br/> S7 S8 <br/> B4 B6 B7 | Explains how teams work effectively to produce a digital and technology solution applying relevant organisational theories using up to date awareness of trends and innovations. (K8, S7, B4, B6, B7)  <br /><br />Describes the concepts and principles of leadership and management as they relate to their role and how they apply them. (K9, K10, S8) | N/A                                                          |
 | Core – Technical<br />Concepts **(Theme B)**  K6 K11 K12 K14 K16 | Critically evaluates the nature and scope of common vulnerabilities in digital and technology solutions (K11)<br /><br />Explains core technical concepts for digital and technology solutions, including:<br /><br />· The approaches and techniques used throughout the digital and technology solution lifecycle and their applicability to an organisation’s standards and pre-existing tools. (K6)<br /><br />Computer networking concepts. (K16) | N/A                                                          |
 | Core - Applied Technical Solutions <br/> **(Theme B)**<br/> K13 <br/> S4 S9 S10 S11 S12 | Demonstrates the use of core technical concepts for digital and technology solutions, including:<br /><br />Initiate, design, code, test and debug a software component for a digital and technology solution. (S4)<br /><br />Security and resilience techniques. (S9)<br /><br />Initiates, designs, implements and debugs a data product for a digital and technology solution. (S10)<br /><br />Plans, designs and manages simple computer networks. (S12)<br /><br />Applies the principles of data analysis for digital and technology solutions. <br/> (K13, S11) | N/A                                                          |
@@ -422,9 +423,9 @@ KSB mapping blocks are tools used to align portfolio evidence with the specific 
 
 Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. These will be used in the portfolio assessment template to show how each piece of evidence supports the associated KSBs within each theme. The following examples illustrate how to use these blocks effectively throughout the assessment process.
 
-![](../images/network_AE2_Blocks/network_Blocks_1.png)
+![](../images/network_AE2_Blocks/Network_Block_NEW_AAAB.png)
 
-![](../images/network_AE2_Blocks/network_Blocks_2.png)
+![](../images/network_AE2_Blocks/Network_Block_NEW_BB.png)
 
 ![](../images/network_AE2_Blocks/network_Blocks_3.png)
 
