@@ -21,7 +21,7 @@ It covers:
 
 * Purpose of the portfolio – a curated set of six real-world evidence items demonstrating knowledge, skills, and behaviours (KSBs), mapped to the apprenticeship standard.
 
-* Key themes – cyber security & development, ethical/legal compliance, organisational/business teamwork, and responding to change/innovation.
+* Key themes – cyber security, ethical/legal compliance, organisational/business teamwork, and responding to change/innovation.
 
 * Best practices – use first-person accounts, be explicit about your contribution, include visual evidence with captions, anonymise sensitive data, and explain both what you did and why.
 
