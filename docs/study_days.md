@@ -40,9 +40,37 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | COM412 - Introduction to Networks & Security   | Tuesday   | TBC          | TBC     |
 | COM411 - Problem Solving through Programming   | Tuesday   | TBC          | TBC     |
 
-Direct (RPL) Entry to 2nd Year (Level 5) Teaching Starts: Wednesday 24th September 2025
+2nd Year (Level 5)  inc. Direct RPL Entry Teaching Starts: Wednesday 24th September 2025
 
 | Module                                         | Study Day |  Time        | Room    |
 | ---------------------------------------------- | :-------: | :----------: | :------:|
 | COM534 - Oriented Design & Dev                 | Wednesday   | TBC          | TBC     |
 | COM519 - Advance Database Systems              | Wednesday   | TBC          | TBC     |
+
+Software Engineering - 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
+
+| Module                    | Study Day | Time | Room |
+| ------------------------- | :-------: | :--: | :--: |
+| COM619 - DevOps           | Thursday  | TBC  | TBC  |
+| COM624 - Machine Learning | Thursday  | TBC  | TBC  |
+
+Data Analyst- 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
+
+| Module                                     | Study Day | Time | Room |
+| ------------------------------------------ | :-------: | :--: | :--: |
+| COM619 - UX Strategies (independent study) | Thursday  | n/a  | n/a  |
+| COM624 - Machine Learning                  | Thursday  | TBC  | TBC  |
+
+Cyber Security - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
+
+| Module                      | Study Day | Time | Room |
+| --------------------------- | :-------: | :--: | :--: |
+| COM613 - CyberOps           |  Tuesday  | TBC  | TBC  |
+| COM615 - Network Management |  Tuesday  | TBC  | TBC  |
+
+Network Engineer - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd  September 2025
+
+| Module                                        | Study Day | Time | Room |
+| --------------------------------------------- | :-------: | :--: | :--: |
+| COM611 - Computer Systems (independent study) |  Tuesday  | n/a  | n/a  |
+| COM615 - Network Management                   |  Tuesday  | TBC  | TBC  |
