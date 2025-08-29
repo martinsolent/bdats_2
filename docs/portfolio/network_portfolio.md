@@ -33,7 +33,7 @@ It covers:
 
 * Distinction tips – show reflection, measurable results, lessons learned, and growth from challenges.
 
-* Example case – developing a web-based reporting tool in an agile environment, evidencing KSBs through active participation, leadership, and measurable impact.
+* Example case – Requirements Analysis for Network Solutions Reflecting on Stakeholder Engagement and Requirements Gathering for Network Design
 
 The video emphasises framing the portfolio as a strategic story to support confident, evidence-backed discussion with the assessor.
 
