@@ -47,10 +47,10 @@ Your portfolio should evidence your competence against the KSBs listed in the st
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
 
 Choose projects that cover a range of activities, such as:
-•	Network Engineering
-•	Ethical and legal compliance
-•	Organisational, business and team collaboration
-•	Responding to change and innovation
+* Network Engineering
+* Ethical and legal compliance
+* Organisational, business and team collaboration
+* Responding to change and innovation
 
 Ensure all examples are authentic, anonymised if necessary and have organisation clearance to submit.
 
