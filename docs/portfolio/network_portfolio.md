@@ -120,14 +120,14 @@ Examples: **“I volunteered to…”, “I conducted research that informed the
 * **Normalise data** to show trends without revealing exact figures.
 
 9.	**Demonstrating Competency**
-•	Describe technical tasks in enough detail to be replicated.
-•	Justify your decisions: e.g., why a tool was chosen or why certain data was excluded.
-•	If results are not yet available, update portfolio pieces later — it’s a living document until submission.
+*	Describe technical tasks in enough detail to be replicated.
+*	Justify your decisions: e.g., why a tool was chosen or why certain data was excluded.
+*	If results are not yet available, update portfolio pieces later — it’s a living document until submission.
 
 10.	 **What NOT to Include**
-•	Names of others — use initials or job titles.
-•	Negative remarks or personal commentary.
-•	Content not directly relevant to demonstrating your professional competency.
+*	Names of others — use initials or job titles.
+*	Negative remarks or personal commentary.
+*	Content not directly relevant to demonstrating your professional competency.
 
 **Summary**
 
