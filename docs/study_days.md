@@ -19,7 +19,7 @@ The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, **but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.**
 
 {: .note } 
-> **Cyber and Network pathway 3rd year your study day will be Tuesday in Semester 1 (Sept-Jan)**
+> **Cyber and Network pathway 3rd years, your study day will be Tuesday in Semester 1 (Sept-Jan)**
 
 
 | Study Day | Year (Level) |                       Pathway                       |
@@ -46,7 +46,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 2nd Year (Level 5)  inc. Direct RPL Entry Teaching Starts: Wednesday 24th September 2025
 
 | Module                                         | Tutor                                   | Study Day |  Time        | Room    |
-| ---------------------------------------------- | :-------: | :----------: | :------:| ---------------------------------------------- |
+| ---------------------------------------------- | :-------: | :----------: | :------:| :--------------------------------------------: |
 | COM519 - Advance Database Systems | Armen Petrosyan | Wednesday | 9:00-11:00 | JM404 |
 | COM534 - Oriented Design & Dev                 | [Dr. Nick Whitelegg](https://pure.solent.ac.uk/en/persons/nick-whitelegg/network-persons/) | Wednesday   | 13:00-16:00 | HC216 |
 
