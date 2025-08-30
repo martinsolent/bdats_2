@@ -68,12 +68,12 @@ Cyber Security - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
 
 | Module                      |                            Tutor                             | Study Day |    Time     | Room  |
 | --------------------------- | :----------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM613 - CyberOps           | [Warren Earle](https://www.solent.ac.uk/staff-profiles/academic-profiles/warren-earle) |  Tuesday  | 14:00-17:00 | JM404 |
 | COM615 - Network Management | [Dr ](https://learn.solent.ac.uk/course/...)[Neville Palmer](https://www.solent.ac.uk/staff-profiles/academic-profiles/neville-palmer/neville-palmer) |  Tuesday  | 9:00-12:00  | JM406 |
+| COM613 - CyberOps           | [Warren Earle](https://www.solent.ac.uk/staff-profiles/academic-profiles/warren-earle) |  Tuesday  | 14:00-17:00 | JM404 |
 
 Network Engineer - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd  September 2025
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
-| COM611 - Computer Systems (independent study) | [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) |  Tuesday  |    n/a     |  n/a  |
 | COM615 - Network Management                   | [Dr ](https://learn.solent.ac.uk/course/...)[Neville Palmer](https://www.solent.ac.uk/staff-profiles/academic-profiles/neville-palmer/neville-palmer) |  Tuesday  | 9:00-12:00 | JM406 |
+| COM611 - Computer Systems (independent study) | [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) |  Tuesday  |    n/a     |  n/a  |
