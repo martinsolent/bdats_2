@@ -30,7 +30,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 ## Autumn 2025
 
 {: .note } 
-> This list has been compiled on TBC
+> Class times and room may change.
 
 ##### SOFTWARE ENGINEERING PATHWAY:
 1st Year (Level 4) Teaching Starts: Tuesday 23rd September 2025
