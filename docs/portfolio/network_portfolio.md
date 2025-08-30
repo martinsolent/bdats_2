@@ -17,7 +17,7 @@ The primary role of a network engineer is to lead in the planning, design, insta
 
 This [Google NotebookLM](https://notebooklm.google/) AI generated podcast explains how software engineering apprentices can prepare their portfolio and professional discussion for the second assessment element of the End-Point Assessment (EPA) in the Digital and Technology Solutions apprenticeship.
 
-It covers:
+It covers:b
 
 * Purpose of the portfolio – a curated set of six real-world evidence items demonstrating knowledge, skills, and behaviours (KSBs), mapped to the apprenticeship standard.
 
