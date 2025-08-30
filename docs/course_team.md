@@ -34,28 +34,6 @@ kalin.penev@solent.ac.uk
 
 ### Course Leaders:
 
-#### [Martin Reid](https://www.solent.ac.uk/staff-profiles/academic-profiles/martin-reid/martin-reid) - **Apprenticeship Programme Manager – Digital and Senior Lecturer** 
-
-Course Leader for:
-
-* Computing Foundation Year
-* BSc (Hons) Digital Design and Web Development
-* BSc (Hons) Digital and Technology Solutions (Apprenticeships),
-* MSc Digital Design
-
-martin.reid@solent.ac.uk
-
-#### [Dr. Drishty Sobnath](https://www.solent.ac.uk/staff-profiles/academic-profiles/drishty-sobnath/drishty-sobnath) **- Senior Lecturer in Computing - Data Science**
-
-Course Leader for:
-
-* BSc (Hons) Computing,
-* BSc (Hons) Software Engineering,
-* MSc Computer Engineering,
-* MSc Cyber Security Engineering
-
-drishty.sobnath@solent.ac.uk
-
 #### [Dr. Shakeel Ahmad](https://www.solent.ac.uk/staff-profiles/academic-profiles/shakeel-ahmad/shakeel-ahmad) - **Associate Professor in Computing**
 
 Course Leader for:
@@ -63,8 +41,32 @@ Course Leader for:
 * BSc (Hons) Computer Systems and Networks Engineering,
 * BSc (Hons) Cyber Security Management,
 * MSc Applied AI and Data Science
+* MSc Cyber Security
 
 shakeel.ahmad@solent.ac.uk
+
+
+
+#### [Martin Reid](https://www.solent.ac.uk/staff-profiles/academic-profiles/martin-reid/martin-reid) - **Apprenticeship Programme Manager – Digital and Senior Lecturer** 
+
+Course Leader for:
+
+* Computing Foundation Year
+* BSc (Hons) Digital Design and Web Development
+* BSc (Hons) Digital and Technology Solutions (Apprenticeships),
+* MSc User Experience (UX) Design
+
+martin.reid@solent.ac.uk
+
+#### [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
+
+Course Leader for:
+
+- BSc (Hons) Software Engineering
+- BSc (Hons) Computer Science
+- MSc Software Engineering
+
+taiwo.ayodele@solent.ac.uk
 
 ------
 
@@ -89,11 +91,6 @@ darren.cunningham@solent.ac.uk
 #### [Raza Hasan](https://www.solent.ac.uk/staff/academic/raza-hasan) **- Senior Lecturer Computing**
 
 raza.hasan@solent.ac.uk
-
-
-#### [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
-
-taiwo.ayodele@solent.ac.uk
 
 
 #### [Dr Daniel Olabanji](https://www.linkedin.com/in/daniel-olabanji-4b200411/) **- Lecturer in Software Development (Web)**
@@ -122,11 +119,6 @@ warren.earle@solent.ac.uk
 #### [Dr. Jarutas Andritsch](https://www.solent.ac.uk/staff-profiles/jarutas-andritsch) **- Lecturer in Computing**
 
 jarutas.andritsch@solent.ac.uk
-
-
-#### Dr Pengfei Xue **- Associate Lecturer in Computing**
-
-pengfei.xue@solent.ac.uk
 
 ------
 
