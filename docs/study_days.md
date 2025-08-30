@@ -18,12 +18,15 @@ The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1
 
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, **but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.**
 
+{: .note } 
+> **Cyber and Network pathway 3rd year your study day will be Tuesday in Semester 1 (Sept-Jan)**
 
-| Study Day | Year (Level)  |           Pathway           |
-| --------- | :-----------: | :-------------------------: |
-| Tuesday   |  1st Yr (L4)  |             ALL             |
-| Wednesday | 2nd Yr (L5)   |             ALL             |
-| Thursday  | 3rd Yr (L6)   |             ALL             |
+
+| Study Day | Year (Level) |                       Pathway                       |
+| --------- | :----------: | :-------------------------------------------------: |
+| Tuesday   | 1st Yr (L4)  | 1st yr Software Engineer and 3rd yr Cyber & Network |
+| Wednesday | 2nd Yr (L5)  |                  Software Engineer                  |
+| Thursday  | 3rd Yr (L6)  |                  Software Engineer                  |
 
 
 
