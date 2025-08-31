@@ -25,7 +25,7 @@ When you're asked to describe something you've done in your past work, we’re n
 
 We’re not expecting perfect answers or rehearsed scripts. It’s the assessor or interviewer’s job to guide the conversation and get the details they need. But if you understand the kind of information we’re looking for, it can help the discussion flow more naturally.
 
-One way to structure your responses is the STAR method. It’s not the only way to share your experiences, but it’s a useful tool to help you organise your thoughts and tell a story that highlights your strengths.
+The STAR method a useful tool to help you organise your thoughts and tell a story that highlights your strengths.
 
 ## STAR Breakdown
 
