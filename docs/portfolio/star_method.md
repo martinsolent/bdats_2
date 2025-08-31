@@ -2,6 +2,8 @@
 
 **DATS version 1.2 – EPA Assessment Support (31 August 2025)**
 
+![Discussion](../images/linkedin-sales-solutions-W3Jl3jREpDY-unsplash.jpg)
+
 For the **EPA Professional Discussion underpinned by portfolio assessment (AE2)**, you don’t have to use the STAR method, as long as your portfolio items are consistent. However, when you look online for advice on presentations, interviews, discussions, or preparing for a **Professional Discussion in an apprenticeship EPA**, the STAR method often comes up.
 
 It’s also a helpful approach in other parts of your apprenticeship and in the workplace. The guidance and support documents for this assessment include an example that follows the STAR method structure.
