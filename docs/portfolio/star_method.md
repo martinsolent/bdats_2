@@ -1,3 +1,13 @@
+---
+layout: default
+title: The STAR Method
+parent: Portfolio
+nav_order: 6
+---
+
+{: .no_toc }
+
+
 # The STAR Method
 
 ![Discussion](../images/linkedin-sales-solutions-W3Jl3jREpDY-unsplash.jpg)
