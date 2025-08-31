@@ -47,7 +47,7 @@ The STAR method a useful tool to help you organise your thoughts and tell a stor
 - Use real, recent examples that are relevant to the role or competency being assessed.
 - For **distinction-level** responses (e.g., in apprenticeships or interviews), highlight initiative, problem-solving, and measurable results.
 
-Frame your answers in relation to the [Leadership Principles](https://www.amazon.jobs/content/en-gb/-principles) And remember, not every story has to be a success. Failure is part of innovation. What matters is what you learned and how you grew.
+Frame your answers in relation to the [Leadership Principles]([https://www.amazon.jobs/content/en-gb/-principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)) And remember, not every story has to be a success. Failure is part of innovation. What matters is what you learned and how you grew.
 
 ---
 
