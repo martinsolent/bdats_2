@@ -49,7 +49,7 @@ The STAR method a useful tool to help you organise your thoughts and tell a stor
 
 Frame your answers in relation to the [Leadership Principles]([https://www.amazon.jobs/content/en-gb/-principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)) And remember, not every story has to be a success. Failure is part of innovation. What matters is what you learned and how you grew.
 
-[Download Summary Document](..info/STAR_methods_2025.pdf)
+[Download Summary Document](../info/STAR_methods_2025.pdf)
 
 ---
 
