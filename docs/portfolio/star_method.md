@@ -47,7 +47,7 @@ One way to structure your responses is the STAR method. It’s not the only way 
 - Use real, recent examples that are relevant to the role or competency being assessed.
 - For **distinction-level** responses (e.g., in apprenticeships or interviews), highlight initiative, problem-solving, and measurable results.
 
-Frame your answers in relation to the [Leadership Principles](https://www.amazon.jobs/content/en-gb/-principles. And remember, not every story has to be a success. Failure is part of innovation. What matters is what you learned and how you grew.
+Frame your answers in relation to the [Leadership Principles](https://www.amazon.jobs/content/en-gb/-principles) And remember, not every story has to be a success. Failure is part of innovation. What matters is what you learned and how you grew.
 
 ---
 
