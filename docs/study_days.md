@@ -68,12 +68,12 @@ Cyber Security - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
 
 | Module                      |                            Tutor                             | Study Day |    Time     | Room  |
 | --------------------------- | :----------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM615 - Network Management | Dr. Craig Gallen |  Tuesday  | 9:00-12:00  | JM406 |
+| COM615 - Network Management | [Dr Neville Palmer](https://www.solent.ac.uk/staff/academic/neville-palmer) & Dr. Craig Gallen |  Tuesday  | 9:00-12:00  | JM406 |
 | COM613 - CyberOps           | [Warren Earle](https://www.solent.ac.uk/staff-profiles/academic-profiles/warren-earle) |  Tuesday  | 14:00-17:00 | JM404 |
 
 Network Engineer - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd  September 2025
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
-| COM615 - Network Management                   | Dr. Craig Gallen |  Tuesday  | 9:00-12:00 | JM406 |
+| COM615 - Network Management                   | [Dr Neville Palmer](https://www.solent.ac.uk/staff/academic/neville-palmer) & Dr. Craig Gallen |  Tuesday  | 9:00-12:00 | JM406 |
 | COM611 - Computer Systems (independent study) | [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) |  Tuesday  |    n/a     |  n/a  |
