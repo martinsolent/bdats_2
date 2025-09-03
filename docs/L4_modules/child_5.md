@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Databases COM417
+title: Introduction to Databases COM430
 parent: L4 Modules
 nav_order: 6
 ---
@@ -8,7 +8,7 @@ nav_order: 6
 {: .no_toc }
 
 
-# Introduction to Databases COM417
+# Introduction to Databases COM430
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7632308c-6377-458a-b7c6-af0701559cbb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
