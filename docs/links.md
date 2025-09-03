@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Essential Links
-nav_order: 23
+nav_order: 100
 ---
 
 {: .no_toc }
