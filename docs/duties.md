@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Duties
-nav_order: 100
+nav_order: 13
 ---
 
 {: .no_toc }
