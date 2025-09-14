@@ -99,7 +99,7 @@ Study day 2021-22?
 
 **3rd Year (Level 6)** Thursdays
 
-
+[Find out more](https://martinsolent.github.io/bdats_2/)
 
 <!--- 
 ### Network Engineer
