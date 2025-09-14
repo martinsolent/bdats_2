@@ -16,6 +16,8 @@ nav_order: 5
 
 [Understanding Your Timetable](./info/Understanding%20Your%20Timetable%20-%202025.pdf)
 
+### East Park Terrace Campus
+
 ![Plan 3D](./images/east_park_3D.jpg)
 
 ### East Park Terrace Plan
