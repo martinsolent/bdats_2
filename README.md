@@ -2,7 +2,7 @@
 
 ## Solent University Southampton
 
-![](./images/cisco-labs-banner.jpg)
+![](/docs/images/cisco-labs-banner.jpg)
 
 **This site contains information for BSc (Hons) difficult and technology solutions degree apprentices at Solent University NEW STARTERS 2023 on the new [standard](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)**
 
@@ -22,7 +22,7 @@ We currently offer the digital and technology solutions professional pathway ali
 [BSc Digital Technology Solutions (Apprentice) Standard](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)
 
 
-### Martin Reid - Course Leader & Apprenticeship Programme Manager|
+#### Martin Reid - Course Leader & Apprenticeship Programme Manager|
 
 ![Martin Reid](/docs/images/martin-reid-1.jpg) 
 
@@ -78,14 +78,14 @@ Location East Park Terrace campus Spark Building in room TS517.
 <!--- * IT Consultant * Business Analyst --->
 
 
-## The apprenticeship pathway offered four:
+## The apprenticeship pathway currently offered:
 ### Software Engineer
 
-![Software Engineer](/images/trello_course_structure_images_2020_0010_se.png)
+![Software Engineer](docs/images/trello_course_structure_images_2020_0010_se.png)
 
 A software engineer needs to be able to design, develop, build and test high-quality software solutions. This role requires apprentices to apply engineering principles at all levels of the software development process. This includes requirement gathering, analysis and design, development and data requirements, while ensuring security robustness is built in. Software engineers typically work as part of a larger collaborative team and will have responsibility for significant elements of software projects.
 
-![](/info/DATS_SOFT_ENG.png)
+<!--- ![](/docs/info/DATS_SOFT_ENG.png)--->
 
 ## Study Days
 
