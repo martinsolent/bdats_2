@@ -19,13 +19,7 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 We currently offer the digital and technology solutions professional pathway aligned to the Institute for Apprenticeships standard.
 
-[BSc Digital Technology Solutions (Apprentice) Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/)
-
-[GATEWAY EPA GUIDANCE](gateway_epa.md)
-
-## Induction Week Presentation 2021-22
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+[BSc Digital Technology Solutions (Apprentice) Standard](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)
 
 
 ## Martin Reid - Course Leader & Apprenticeship Programme Manager|
@@ -36,8 +30,16 @@ martin.reid@solent.ac.uk
 
 Martin looks after the academic organisation of the apprenticeship courses in the computing subject group at Solent University.
 
-
 <!--
+## Induction Week Presentation 2021-22
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+
+
+
+
 
 ## Induction Day Friday 17th September 2021
 
@@ -61,7 +63,7 @@ Location East Park Terrace campus Spark Building in room TS517.
 				
 [libguides.solent.ac.uk/solentlibrary](https://libguides.solent.ac.uk/solentlibrary)	
 
--->			
+	
 
 ## Introduction to Computing  Apprenticeships at Solent University
 
@@ -75,14 +77,31 @@ Location East Park Terrace campus Spark Building in room TS517.
 * Cybersecurity Specialist
 <!--- * IT Consultant * Business Analyst --->
 
+
+## The apprenticeship pathway offered four:
 ### Software Engineer
 
-![Software Engineer](images/trello_course_structure_images_2020_0010_se.png)
+![Software Engineer](/images/trello_course_structure_images_2020_0010_se.png)
 
 A software engineer needs to be able to design, develop, build and test high-quality software solutions. This role requires apprentices to apply engineering principles at all levels of the software development process. This includes requirement gathering, analysis and design, development and data requirements, while ensuring security robustness is built in. Software engineers typically work as part of a larger collaborative team and will have responsibility for significant elements of software projects.
 
-![](info/DATS_SOFT_ENG.png)
+![](/info/DATS_SOFT_ENG.png)
 
+## Study Days
+
+The Academic year is delivered over 3 semesters with 2 modules per semester 
+
+Study day 2021-22?
+
+**1st Year (Level 4)** Tuesday
+
+**2nd Year (Level 5)** Wednesday
+
+**3rd Year (Level 6)** Thursdays
+
+
+
+<!--- 
 ### Network Engineer
 
 ![Network Engineer](images/trello_course_structure_images_2020_0009_network.png)
@@ -128,45 +147,5 @@ Business analysts are responsible for assessing the impact of change - capturing
 
 --->
 
-## Study Days
-
-he Academic year is delivered over 3 semesters with 2 modules per semester 
-
-[This spreadsheet shows the delivery of all pathways by semester](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=fb0J7L)
-
-[Solent University Academic calendar for 2021-22](info/academic-calendar-2021-22.pdf)
-
-What will be my university study day 2021-22?
-
-**1st Year (Level 4)**
-
-* Semester 1 (Sept-Jan) - Fridays
-* Semester 2 (Jan-May) - Tuesday
-* Semester 3 (May-Sept) - Tuesday
-
-**2nd Year (Level 5)**
-
-* Semester 1 (Sept-Jan) - Wednesday
-* Semester 2 (Jan-May) - Wednesday
-* Semester 3 (May-Sept) - Wednesday
-
-**3rd Year (Level 6)**
-
-* Semester 1 (Sept-Jan) - Cyber Security & Network Engineer: Tuesdays & other pathways: Thursdays
-* Semester 2 (Jan-May) - Thursdays
-* Semester 3 (May-Sept) - Various check timetable
 
 
-
-[Download the Module delivery diagram for all pathways](info/DATS_MAP_SEPT_JAN_START_v20-3-2022)
-
-The Academic year is delivered over 3 semesters with 2 modules per semester 
-
-[This spreadsheet shows the delivery of all pathways by semester](https://ssu-my.sharepoint.com/:x:/g/personal/martin_reid_solent_ac_uk/Eedlc3BnwzVDqgEjm50ngqcB_enMAwsiFWet4LEmFrgPgw?e=fb0J7L)
-
-### Module Descriptors
-[Download Level 4 (1st year) Module Descriptors](info/Level 4 Modules-20210525.zip)
-
-[Download Level 5 (2nd year) Module Descriptors](info/Level 5 Modules-20210525.zip)
-
-[Download Level 6 (3rd year) Module Descriptors](info/Level 6 Modules-20210525.zip)
