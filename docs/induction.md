@@ -18,9 +18,9 @@ nav_order: 5
 
 [East Park Terrace Campus Map](../info/east-park-terrace-campus-map.pdf)
 
-![Plan 3D](./images/east_park_3D.jpg
+![Plan 3D](/docs/images/east_park_3D.jpg)
 
-![EPT PLanMap](./images/EPT_PLAN.png
+![EPT PLanMap](/images/EPT_PLAN.png
 
 ## 
 
