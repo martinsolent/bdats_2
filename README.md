@@ -2,9 +2,9 @@
 
 ## Solent University Southampton
 
-![](images/cisco-labs-banner.jpg)
+![](../bdats_2/docs/images/cisco-labs-banner.jpg)
 
-**This site contains information for BSc (Hons) difficult and technology solutions degree apprentices at Solent University NEW STARTERS 2023 on the new [standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-in-revision?view=epast)**
+**This site contains information for BSc (Hons) difficult and technology solutions degree apprentices at Solent University NEW STARTERS 2023 on the new [standard](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)**
 
 As a Digital Technology Solutions degree apprentice, you will be guided by a curriculum that has been developed in association with BT, HP, IBM and GSM to develop the skills relevant to your specific job role. Depending on which route you and your employer choose, you will have the opportunity to learn valuable industry knowledge which will prepare you for accreditations from CISCO and the EC-Council.
 
