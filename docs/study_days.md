@@ -41,7 +41,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | Module                                       |     Tutor      | Study Day |    Time     | Room  |
 | -------------------------------------------- | :------------: | :-------: | :---------: | :---: |
 | COM412 - Introduction to Networks & Security | Michael Smith  |  Tuesday  | 9:00-12:00  | JM404 |
-| COM411 - Problem Solving through Programming | Kenton Wheeler |  Tuesday  | 13:00-17:00 | RM701 |
+| COM411 - Problem Solving through Programming | Kenton Wheeler |  Tuesday  | 14:00-17:00 | RM701 |
 
 2nd Year (Level 5)  inc. Direct RPL Entry Teaching Starts: Wednesday 24th September 2025
 
