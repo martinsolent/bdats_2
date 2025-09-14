@@ -2,7 +2,7 @@
 
 ## Solent University Southampton
 
-![](../bdats_2/docs/images/cisco-labs-banner.jpg)
+![](./images/cisco-labs-banner.jpg)
 
 **This site contains information for BSc (Hons) difficult and technology solutions degree apprentices at Solent University NEW STARTERS 2023 on the new [standard](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)**
 
@@ -22,9 +22,9 @@ We currently offer the digital and technology solutions professional pathway ali
 [BSc Digital Technology Solutions (Apprentice) Standard](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)
 
 
-## Martin Reid - Course Leader & Apprenticeship Programme Manager|
+### Martin Reid - Course Leader & Apprenticeship Programme Manager|
 
-![Martin Reid](images/martin-reid-1.jpg) 
+![Martin Reid](/docs/images/martin-reid-1.jpg) 
 
 martin.reid@solent.ac.uk
 
