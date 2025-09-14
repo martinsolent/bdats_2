@@ -14,7 +14,7 @@ nav_order: 5
 
 **Wednesday 17th September 2025 Times TBC**
 
-[Understanding Your Timetable](./info/Understanding Your Timetable - 2025.pdf)
+[Understanding Your Timetable](./info/Understanding%20Your%20Timetable%20-%202025.pdf)
 
 [East Park Terrace Campus Map](./info/east-park-terrace-campus-map.pdf)
 
