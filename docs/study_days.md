@@ -43,12 +43,12 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | COM412 - Introduction to Networks & Security | Michael Smith  |  Tuesday  | 9:00-12:00  | JM404 |
 | COM411 - Problem Solving through Programming | Kenton Wheeler |  Tuesday  | 14:00-17:00 | RM701 |
 
-2nd Year (Level 5)  inc. Direct RPL Entry Teaching Starts: Wednesday 24th September 2025
+2nd Year (Level 5)  inc. Direct RPL Entry Teaching Starts: Wednesday 24th September 2025 - **TIME AND ROOMS UPDATED 15/09/25**
 
 | Module                                         | Tutor                                   | Study Day |  Time        | Room    |
 | ---------------------------------------------- | :-------: | :----------: | :------:| :--------------------------------------------: |
-| COM519 - Advance Database Systems | Armen Petrosyan | Wednesday | 9:00-11:00 | JM404 |
-| COM534 - Oriented Design & Dev                 | [Dr. Nick Whitelegg](https://pure.solent.ac.uk/en/persons/nick-whitelegg/network-persons/) | Wednesday   | 13:00-16:00 | HC216 |
+| COM519 - Advance Database Systems | Armen Petrosyan | Wednesday | 11:00-13:00 | RM701 |
+| COM534 - Oriented Design & Dev                 | [Dr. Nick Whitelegg](https://pure.solent.ac.uk/en/persons/nick-whitelegg/network-persons/) | Wednesday   | 14:00-17:00 | JM304 |
 
 Software Engineering - 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
 
