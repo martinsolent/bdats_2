@@ -16,7 +16,7 @@ For the **EPA Professional Discussion underpinned by portfolio assessment (AE2)*
 
 It’s also a helpful approach in other parts of your apprenticeship and in the workplace. The guidance and support documents for this assessment include an example that follows the STAR method structure.
 
-When you're asked to describe something you've done in your past work, we’re not just looking for a quick answer—we want to hear the full story. A strong response gives insight into how you think, act, and solve problems. It should include:
+When you're asked to describe something you've done in your past work, we’re not just looking for a quick answer, we want to hear the full story. A strong response gives insight into how you think, act, and solve problems. It should include:
 
 - **Context** – What was happening, and what was your role?
 - **Task** – What were you trying to achieve?
