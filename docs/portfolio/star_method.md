@@ -59,6 +59,12 @@ Frame your answers in relation to the [Leadership Principles]([https://www.amazo
 
 ---
 
-**Source:**  
+**Sources:**  
 
 [AMAZON, 2025. Interview Loop - The STAR method [viewed 30 July 2025]. Available from:https://amazon.jobs/content/en/how-we-hire/interview-loop](https://amazon.jobs/content/en/how-we-hire/interview-loop)
+
+[INSIDE AMAZON, 2024. STAR Method - How to Ace Your Amazon Interview [viewed 15 September 2025]. Available from: https://www.youtube.com/watch?v=UQrTMxouDUY](https://www.youtube.com/watch?v=UQrTMxouDUY)
+
+[NATIONAL CAREERS SERVICE, 2024. The STAR method [viewed 15 September 2025]. Available from: https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method) 
+
+
