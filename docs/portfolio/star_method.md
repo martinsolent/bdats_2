@@ -41,6 +41,12 @@ The STAR method a useful tool to help you organise your thoughts and tell a stor
 - **R = Result**  
   What was the outcome? What happened because of your actions? Don’t be shy—share what you achieved and what you learned. If you have any numbers or specific results to back it up, even better.
 
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=73e29ca6-f706-4c6d-b381-b359016e81ef&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Star Method - DTS"></iframe>
+</div>
+
+
 ## Tips for Using STAR
 
 - Keep each section concise but detailed enough to show impact.
