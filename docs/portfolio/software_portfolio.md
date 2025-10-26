@@ -243,9 +243,10 @@ This structured approach will help you demonstrate your competence and readiness
 
 **Using KSB Theme Blocks in Your Portfolio Template**
 The portfolio template includes blocks outlining the assessment criteria and the Core and Pathway (Specialism) KSBs for each of the four required themes.
+
 These blocks should be copied and pasted at the end of the narrative for each of your six portfolio items.
 
-![Theme D](../images/SE_PORTFOLIO/D_3_BLOCK.png)
+![Theme D](../images/new_port_block_example.png)
 
 Image: Example of Theme (KSB) block
 
