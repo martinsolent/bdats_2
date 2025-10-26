@@ -20,4 +20,4 @@ Download the KSB mapping template for your pathway. Start adding your university
 You should also include possible work-based projects that could be part of your End Point Assessment (EPA) submission. You’ll need six strong pieces of portfolio evidence, so aim to collect more than six and then choose the best ones for your final EPA submission.
 
 
-**SOL Log-in required:** [Download Portfolio Template](https://learn.solent.ac.uk/course/view.php?id=42080&section=31#tabs-tree-start)
+**SOL Log-in required:** [KSB Portfolio Template](https://learn.solent.ac.uk/course/view.php?id=42080&section=31#tabs-tree-start)
