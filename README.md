@@ -87,6 +87,7 @@ A software engineer needs to be able to design, develop, build and test high-qua
 
 <!--- ![](/docs/info/DATS_SOFT_ENG.png)--->
 
+<!--- 
 ## Study Days
 
 The Academic year is delivered over 3 semesters with 2 modules per semester 
@@ -101,7 +102,7 @@ Study day 2021-22?
 
 [Find out more](https://martinsolent.github.io/bdats_2/)
 
-<!--- 
+
 ### Network Engineer
 
 ![Network Engineer](images/trello_course_structure_images_2020_0009_network.png)
@@ -146,6 +147,7 @@ Business analysts are responsible for assessing the impact of change - capturing
 ![](info/DATS_BUS_AN.png)
 
 --->
+
 
 
 
