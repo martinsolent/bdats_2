@@ -29,6 +29,8 @@ The project proposal needs to include a summary of the project plan, research re
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c01b9e8d-c01b-4167-9b04-b359015dff5d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Project Proposal AE 1.2"></iframe>
 </div>
 
+<br>
+
 **Network Pathway**
 
 
