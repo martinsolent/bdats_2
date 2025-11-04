@@ -41,7 +41,7 @@ The video emphasises framing the portfolio as a strategic story to support confi
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3c349cec-ffe3-4325-a00d-b345013447a9&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Network Portfolio AE2 Overview" ></iframe>
 
-[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/network_port/DATS_NETWORK_1-2_EPA-Portfolio_Support_2025_v2.pdf)
+[Download EPA Professional Discussion Portfolio 1.2 Overview](../info/epa_1-2_doc_2025/network_port/DATS_NET_1-2-Portfolio_Support/DATS_NETWORK_1-2_EPA-Portfolio_Support_2025_v2.pdf)
 
 Your portfolio should evidence your competence against the KSBs listed in the standard.
 It must be mapped to six distinct items, each showcasing different aspects of your role and learning.
