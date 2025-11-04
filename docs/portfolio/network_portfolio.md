@@ -429,4 +429,4 @@ Below are examples of Knowledge, Skills, and Behaviours (KSB) mapping blocks. Th
 
 ![](../images/network_AE2_Blocks/network_Blocks_3.png)
 
-![](../images/network_AE2_Blocks/network_Blocks_4.png)
+![Theme D](../images/new_port_block_example.png)
