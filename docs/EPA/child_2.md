@@ -20,3 +20,16 @@ Solent University, East Park Terrace, Southampton, SO14 0YN   **[End Point Ass
 The apprentice will scope out and provide a summary of what the project will cover and will submit this at the gateway. This should demonstrate that the work-based project report will provide sufficient opportunity for the apprentice to meet the **KSBs** mapped to this method. The summary is not formally assessed and will typically be no longer than **500 words**.
 
 The project proposal needs to include a summary of the project plan, research requirements, an overview of how the project will be planned to include timeframes and the date the work-based project report must be submitted to the independent assessor
+
+### Hork Based Project Proposal - EPA - AE1
+
+**Software Engineering Pathway**
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c01b9e8d-c01b-4167-9b04-b359015dff5d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Project Proposal AE 1.2"></iframe>
+</div>
+
+**Network Pathway**
+
+
+**Cyber Pathway**
