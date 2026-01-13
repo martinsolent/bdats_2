@@ -47,6 +47,9 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **Software Engineering** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
 
+{: .note } 
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Data Science class at 1pm
+
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
 | COM617 - Industrial Consulting Project  | Martin Reid                                   | Thursday  | 10:00-12:00 | JM412 |
@@ -54,12 +57,18 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **Data Analyst**- 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
 
+{: .note } 
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Data Science class at 1pm
+
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
 | COM617 - Industrial Consulting Project  | Martin Reid                                   | Thursday  | 10:00-12:00 | JM412 |
 | COM618 - Data Science                   | Taiwo Ayodele                                 | Thursday  | 13:00-16:00 | JM312 |
 
 **Cyber Security** - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
+
+{: .note } 
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Cloud Computing class at 11am
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
@@ -71,8 +80,8 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 **Network Engineer** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
 
-{: .warning } 
-> Class times and rooms may change.
+{: .note } 
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Cloud Computing class at 11am
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
