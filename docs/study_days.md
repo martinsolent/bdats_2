@@ -21,12 +21,12 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | Study Day | Year (Level) |                       Pathway                       |
 | --------- | :----------: | :-------------------------------------------------: |
 | Tuesday   | 1st Yr (L4)  | Software Engineer                                   |
-| Wednesday | 2nd Yr (L5)  |                  Software Engineer                  |
-| Thursday  | 3rd Yr (L6)  |                  Software Engineer / Cyber & Network                |
+| Wednesday | 2nd Yr (L5)  | Software Engineer                                   |
+| Thursday  | 3rd Yr (L6)  | Software Engineer / Data / Cyber & Network          |
 
 
 
-## Spreng 2026
+## Spring (Jan-May) 2026
 
 {: .note } 
 > Class times and rooms may change.
@@ -48,7 +48,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 **Software Engineering** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
 
 {: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Data Science class at 1pm
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. So on 22nd just come straight to the Data Science class at 1pm
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
@@ -58,7 +58,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 **Data Analyst**- 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
 
 {: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Data Science class at 1pm
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2.  So on 22nd just come straight to the Data Science class at 1pm
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
@@ -68,20 +68,17 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 **Cyber Security** - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
 
 {: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Cloud Computing class at 11am
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2.  So on 22nd just come straight to the Cloud Computing class at 11am
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
 | COM617 - Industrial Consulting Project        | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
 | COM614 - Cloud Computing                      | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
 
-
-
-
 **Network Engineer** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
 
 {: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. For now, just come straight to the Cloud Computing class at 11am
+> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2.  So on 22nd just come straight to the Cloud Computing class at 11am
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
