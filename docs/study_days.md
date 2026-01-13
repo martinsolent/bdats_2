@@ -18,62 +18,63 @@ The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1
 
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, **but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.**
 
-{: .note } 
-> **Cyber and Network pathway 3rd years, your study day will be Tuesday in Semester 1 (Sept-Jan)**
-
-
 | Study Day | Year (Level) |                       Pathway                       |
 | --------- | :----------: | :-------------------------------------------------: |
-| Tuesday   | 1st Yr (L4)  | 1st yr Software Engineer and 3rd yr Cyber & Network |
+| Tuesday   | 1st Yr (L4)  | Software Engineer                                   |
 | Wednesday | 2nd Yr (L5)  |                  Software Engineer                  |
-| Thursday  | 3rd Yr (L6)  |                  Software Engineer                  |
+| Thursday  | 3rd Yr (L6)  |                  Software Engineer / Cyber & Network                |
 
 
 
-## Autumn 2025
+## Spreng 2026
 
 {: .note } 
 > Class times and rooms may change.
 
-##### SOFTWARE ENGINEERING PATHWAY:
-1st Year (Level 4) Teaching Starts: Tuesday 23rd September 2025
+**Software Engineering**  - 1st Year (Level 4) Teaching Starts: Tuesday 20th January 2026
 
 | Module                                       |     Tutor      | Study Day |    Time     | Room  |
 | -------------------------------------------- | :------------: | :-------: | :---------: | :---: |
-| COM412 - Introduction to Networks & Security | Michael Smith  |  Tuesday  | 9:00-12:00  | JM404 |
-| COM411 - Problem Solving through Programming | Kenton Wheeler |  Tuesday  | 14:00-17:00 | RM701 |
+| COM430 - Introduction to Databases           | Kenton Wheeler    |  Tuesday  | 9:00-12:00  | JM312 |
+| COM422 - Software Testing                    | Darren Cunningham |  Tuesday  | 14:00-17:00 | RM135 |
 
-2nd Year (Level 5)  inc. Direct RPL Entry Teaching Starts: Wednesday 24th September 2025 - **TIME AND ROOMS UPDATED 15/09/25**
+2nd Year (Level 5) Teaching Starts: Wednesday 21st January 2026
 
 | Module                                         | Tutor                                   | Study Day |  Time        | Room    |
 | ---------------------------------------------- | :-------: | :----------: | :------:| :--------------------------------------------: |
-| COM519 - Advance Database Systems | Armen Petrosyan | Wednesday | 11:00-13:00 | RM701 |
-| COM534 - Oriented Design & Dev                 | [Dr. Nick Whitelegg](https://pure.solent.ac.uk/en/persons/nick-whitelegg/network-persons/) | Wednesday   | 14:00-17:00 | JM304 |
+| COM526 - Introduction to Artificial Intelligence | Darren Cunningham | Wednesday | 9:00-12:00  | HC209 |
+| COM527 - Mobile Application Development          | Nick Whitelegg    | Wednesday | 14:00-17:00 | JM312 |
 
-Software Engineering - 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
+**Software Engineering** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM619 - DevOps           | [Dr Daniel Olabanji](https://learn.solent.ac.uk/course/...) | Thursday  | 9:00-12:00  | HC208 |
-| COM624 - Machine Learning | [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) | Thursday  | 14:00-17:00 | JM312 |
+| COM617 - Industrial Consulting Project  | Martin Reid                                   | Thursday  | 10:00-12:00 | JM412 |
+| COM618 - Data Science                   | Taiwo Ayodele                                 | Thursday  | 13:00-16:00 | JM312 |
 
-Data Analyst- 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
+**Data Analyst**- 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
 
-| Module                                     |                            Tutor                             | Study Day |    Time     | Room  |
-| ------------------------------------------ | :----------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM621 - UX Strategies (independent study) | [Dr. Anthony Basiel](https://www.solent.ac.uk/staff/academic/dr-anthony-basiel) | Thursday  |     n/a     |  n/a  |
-| COM624 - Machine Learning                  | [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic)  | Thursday  | 14:00-17:00 | JM312 |
+| Module                    |                            Tutor                            | Study Day |    Time     | Room  |
+| ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
+| COM617 - Industrial Consulting Project  | Martin Reid                                   | Thursday  | 10:00-12:00 | JM412 |
+| COM618 - Data Science                   | Taiwo Ayodele                                 | Thursday  | 13:00-16:00 | JM312 |
 
-Cyber Security - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
-
-| Module                      |                            Tutor                             | Study Day |    Time     | Room  |
-| --------------------------- | :----------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM615 - Network Management | [Dr Neville Palmer](https://www.solent.ac.uk/staff/academic/neville-palmer) & Dr. Craig Gallen |  Tuesday  | 9:00-12:00  | JM406 |
-| COM613 - CyberOps           | [Warren Earle](https://www.solent.ac.uk/staff-profiles/academic-profiles/warren-earle) |  Tuesday  | 14:00-17:00 | JM404 |
-
-Network Engineer - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd  September 2025
+**Cyber Security** - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
 
 | Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
 | --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
-| COM615 - Network Management                   | [Dr Neville Palmer](https://www.solent.ac.uk/staff/academic/neville-palmer) & Dr. Craig Gallen |  Tuesday  | 9:00-12:00 | JM406 |
-| COM611 - Computer Systems (independent study) | [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) |  Tuesday  |    n/a     |  n/a  |
+| COM617 - Industrial Consulting Project        | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
+| COM614 - Cloud Computing                      | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
+
+
+
+
+**Network Engineer** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
+
+{: .warning } 
+> Class times and rooms may change.
+
+| Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
+| --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
+| COM617 - Industrial Consulting Project*       | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
+| COM614 - Cloud Computing                      | Craig Gallen                                                 |  Thursday | 11:00-13:00 | JM404 |
