@@ -14,6 +14,8 @@ The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1
 
 [Solent University Academic calendar for 2025-26](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2025-26.pdf){: .btn .btn-purple }
 
+[Solent University Academic calendar for 2026-27](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2026-27.pdf){: .btn .btn-blue }
+
 **What will be my university study day?**
 
 As a default we aim to have first years on Tuesdays, second years on Wednesdays and Thursdays for third years, **but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.**
