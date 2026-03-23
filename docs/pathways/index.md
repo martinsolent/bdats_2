@@ -9,7 +9,7 @@ has_children: true
 
 #  BDATS Pathways
 
-![BDATS Map](../images/new_BDATS_SE_2026.png)
+![BDATS Map](../images/new_BDATS_SE_2026.jpg)
 
 The Solent University BDATS Apprenticeship currently offers the **Software Engineer** pathway.
 
