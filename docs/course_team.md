@@ -1,126 +1,57 @@
 ---
 layout: default
-title: Course Team
+title: KSB Mapping & Portfolio Capture
 nav_order: 11
 ---
 
 {: .no_toc }
 
-# Computing Course Team
+# KSB Mapping & Portfolio Capture
 
-Our diverse team consists of experienced practitioners in a broad range of computing disciplines.  Each member of our team has unique expertise which adds to our strength and helps us deliver a greater learning experience.  Our team is based in JM506 currently comprises the following members:
-
-### Head of Department
+![]()
 
 
-#### [Sarah Radif](https://www.solent.ac.uk/staff/academic/sarah-radif) - **Head of Science & Engineering** 
+Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
 
-sarah.radif@solent.ac.uk
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d5477fb3-daeb-46fe-ae98-b45801620ff5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="KSB &amp; EPA Portfolio Capture"></iframe>
+</div>
 
-------
+Download overview Summary Document
 
-#### [Dr Marc Molinari](https://www.solent.ac.uk/staff/academic/marc-molinari) - Lead Computer Scientist
+Understanding the Two Key Activities
 
-marc.molinari@solent.ac.uk
+Throughout the apprenticeship, you will complete two distinct but related activities:
 
-------
+1. Mapping KSBs to module learning (University learning activities)
+This is about showing where Knowledge, Skills and Behaviours (KSBs) are covered in your academic modules.
+It is not graded.
+It is used by the university to check coverage and alignment with the apprenticeship standard.
 
-### **Associate Heads:**
+2. Collecting and curating work-based portfolio evidence (EPA requirement)
 
-#### [Dr. Kalin Penev](https://pure.solent.ac.uk/en/persons/kalin-penev) **Associate Professor, Systems Engineering & Associate Head of Research, Innovation & Education**
-kalin.penev@solent.ac.uk
+This is about gathering real work-based examples that demonstrate competence against the KSBs.
+It will be assessed and graded as part of the End-Point Assessment (EPA).
+Requires careful selection, reflection, and curation of evidence.
+Think of it as proof of competence in practice
 
-------
+As you approach the End-Point Assessment (EPA), you will need to select six of your strongest portfolio items. For each item, you will create a narrative documentation that clearly links the work to the relevant KSBs for the Professional Discussion (AE2).
+As part of the course validation process, we have mapped the delivery of or modules to the apprenticeship standard knowledge skills and behaviours (KSB) and we periodically refresh these as when delivery update. To help you with your mapping four you're on the job learning (university modules) you can access the mapping document here:
 
-### Course Leaders:
+Use this sheet to help you map your learning on your University Modules to KSBs: NEW DATS STANDARD 1.2 Mapping 2023.xlsx
 
-#### [Dr. Shakeel Ahmad](https://www.solent.ac.uk/staff-profiles/academic-profiles/shakeel-ahmad/shakeel-ahmad) - **Associate Professor in Computing**
+Download the on-programme and work-based EPA portfolio capture documents for your pathway and start adding potential work-based portfolio items. You should also map your off-the-job learning from your university modules throughout your apprenticeship.
 
-Course Leader for:
+When you go to EPA, you will need six strong pieces of portfolio evidence. The expectation is that you will have more than six, so you can choose the best ones to submit for the EPA assessment.
 
-* BSc (Hons) Computer Systems and Networks Engineering,
-* BSc (Hons) Cyber Security Management,
-* MSc Applied AI and Data Science
-* MSc Cyber Security
+DTS Standard ST0119 – Version 1.2 (2023) - Mapping document links for non-block 20 credit module delivery ONLY for apprentices starting before Sept 2027
 
-shakeel.ahmad@solent.ac.uk
+Module KSB Mapping & Portfolio Capture Document Downloads
 
-
-
-#### [Martin Reid](https://www.solent.ac.uk/staff-profiles/academic-profiles/martin-reid/martin-reid) - **Apprenticeship Programme Manager – Digital and Senior Lecturer** 
-
-Course Leader for:
-
-* Computing Foundation Year
-* BSc (Hons) Digital Design and Web Development
-* BSc (Hons) Digital and Technology Solutions (Apprenticeships),
-* MSc User Experience (UX) Design
-
-martin.reid@solent.ac.uk
-
-#### [Dr Taiwo Ayodele](https://www.solent.ac.uk/staff/academic) **- Senior Lecturer Computing**
-
-Course Leader for:
-
-- BSc (Hons) Software Engineering
-- BSc (Hons) Computer Science
-- MSc Software Engineering
-
-taiwo.ayodele@solent.ac.uk
-
-------
-
-### Teaching Staff (Computing):
-
-#### [Dr. Anthony Basiel](https://www.solent.ac.uk/staff/academic/dr-anthony-basiel) - **Lecturer Computing (UX)**
-
-anthony.basiel@solent.ac.uk
-
-#### [Dr. Kashif Talpur](https://www.solent.ac.uk/staff/academic/kashif-talpur) - **Lecturer Computing (AI & Data Science)**
-
-kashif.talpur@solent.ac.uk
-
-#### [Dr. Bode Amangele](https://www.solent.ac.uk/staff/academic/perekebode-amangele) **- Lecturer Computing (Cyber & Com Network)**
-
-bode.amangele@solent.ac.uk
-
-####  Darren Cunningham - **Lecturer in Computing**
-
-darren.cunningham@solent.ac.uk
-
-#### [Raza Hasan](https://www.solent.ac.uk/staff/academic/raza-hasan) **- Senior Lecturer Computing**
-
-raza.hasan@solent.ac.uk
+The downloaded documents contain three files:
+Skills matrix – this is where you map all your module learning to the KSBs.
+Portfolio capture document – this is where you record potential portfolio items throughout your apprenticeship in preparation for the EPA professional discussion assessment.
+KSBs document – this contains the KSBs for your pathway to help you with your mapping.
 
 
-#### [Dr Daniel Olabanji](https://www.linkedin.com/in/daniel-olabanji-4b200411/) **- Lecturer in Software Development (Web)**
-
-daniel.olabanji@solent.ac.uk
-
-#### Kenton Wheeler **- Associate Lecturer in Computing**
-
-kenton.wheeler@solent.ac.uk
-
-
-#### [Neville Palmer](https://www.solent.ac.uk/staff-profiles/academic-profiles/neville-palmer/neville-palmer) **- Senior Lecturer in Communications Eng**
-
-neville.palmer@solent.ac.uk
-
-#### [Dr. Nick Whitelegg](https://pure.solent.ac.uk/en/persons/nick-whitelegg/network-persons/) **- Senior Lecturer in Computing (Internet)**
-
-nick.whitelegg@solent.ac.uk
-
-
-#### [Warren Earle](https://www.solent.ac.uk/staff-profiles/academic-profiles/warren-earle) **- Senior Lecturer in Computer Networking**
-
-warren.earle@solent.ac.uk
-
-
-#### [Dr. Jarutas Andritsch](https://www.solent.ac.uk/staff-profiles/jarutas-andritsch) **- Lecturer in Computing**
-
-jarutas.andritsch@solent.ac.uk
-
-------
-
-[COURSE TEAM INTERNAL LINK](https://learn.solent.ac.uk/course/view.php?id=22663&section=1){: .btn .btn-purple } 
-
+Download Software Engineer on-programme and work-based EPA portfolio capture documents
