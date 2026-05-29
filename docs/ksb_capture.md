@@ -17,6 +17,7 @@ Throughout your apprenticeship, you will be continuously mapping your learning f
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d5477fb3-daeb-46fe-ae98-b45801620ff5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="KSB &amp; EPA Portfolio Capture"></iframe>
 </div>
 
+
 [Download overview Summary Document](images/ksb_cap/DTS_KSB_Mapping_Portfolio_capture_26_v2.docx)
 
 
@@ -24,7 +25,7 @@ Throughout your apprenticeship, you will be continuously mapping your learning f
 
 Throughout the apprenticeship, you will complete two distinct but related activities:
 
-1. Mapping KSBs to module learning (University learning activities)
+**1. Mapping KSBs to module learning (University learning activities)**
 
 ![](images/ksb_cap/Copilot_20260529_110941.png)
 
@@ -32,7 +33,7 @@ Throughout the apprenticeship, you will complete two distinct but related activi
 * It is not graded.
 * It is used by the university to check coverage and alignment with the apprenticeship standard.
 
-2. Collecting and curating work-based portfolio evidence (EPA requirement)
+**2. Collecting and curating work-based portfolio evidence (EPA requirement)**
 
 ![](images/ksb_cap/Copilot_20260529_110932.png)
 
