@@ -7,17 +7,29 @@ has_children: true
 
 {: .no_toc }
 
-# KSB Mapping
+#   Portfolio
 
-Throughout your apprenticeship, you will be continuously mapping your learning from on-programme modules and capturing potential evidence and documentation for your work-based portfolio. This process will use the provided template and will help you build a mental model of how your work aligns with the required Knowledge, Skills, and Behaviours (KSBs), all linked to your upskilling and learning activities.
-
-### KSB Mapping Template
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f75c3741-cf3d-4946-ab36-b13f015c6de8&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
-
-Download the KSB mapping template for your pathway. Start adding your university modules and assessments, and link them to the relevant Knowledge, Skills and Behaviours (KSBs).
-
-You should also include possible work-based projects that could be part of your End Point Assessment (EPA) submission. You’ll need six strong pieces of portfolio evidence, so aim to collect more than six and then choose the best ones for your final EPA submission.
+![](../images/alexander-grey-tn57JI3CewI-unsplash.jpg)
 
 
-**SOL Log-in required:** [KSB Portfolio Template](https://learn.solent.ac.uk/course/view.php?id=42080&section=31#tabs-tree-start)
+
+This section provides comprehensive guidance for apprentices undertaking the BSc Digital and Technology Solutions Professional under the ST0119 v1.2 (2023) apprenticeship standard. It outlines the expectations and structure of the Professional Discussion underpinned by a Portfolio (Assessment Element 2).
+
+Apprentices are required to compile a portfolio of six distinct, work-based evidence items, each mapped to specific Knowledge, Skills, and Behaviours (KSBs). The document details how to select, structure, and present these items using reflective writing and real-world examples, supported by visual artefacts and anonymised data.
+
+The guidance includes:
+
+* Thematic breakdown of portfolio evidence (Underlying Principles, Technical Solutions, Innovation & Response, Legal & Ethics).
+
+* Strategies for demonstrating competency, including use of first-person narrative, and alignment with assessment criteria.
+
+* Detailed KSB mapping tables and grading rubrics to support preparation for the professional discussion.
+
+
+**Links to Pathways:**
+
+* [Software Engineer](https://martinsolent.github.io/bdats_2/docs/portfolio/software_portfolio.html)
+* [Network Engineer](https://martinsolent.github.io/bdats_2/docs/portfolio/network_portfolio.html)
+* [Cyber](https://martinsolent.github.io/bdats_2/docs/portfolio/cyber_portfolio.html)
+
+
