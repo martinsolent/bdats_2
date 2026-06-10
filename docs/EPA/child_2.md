@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Work Based Project
+title: Work Based Project AE1
 parent: EPA
 nav_order: 3
 ---
 
 {: .no_toc }
 
-# BDATS - EPA Work Based Project
+# BDATS - EPA Work Based Project AE1
 
 ![](../images/ej-yao-D46mXLsQRJw-unsplash.jpg)
 
@@ -21,7 +21,7 @@ The apprentice will scope out and provide a summary of what the project will cov
 
 The project proposal needs to include a summary of the project plan, research requirements, an overview of how the project will be planned to include timeframes and the date the work-based project report must be submitted to the independent assessor
 
-### Hork Based Project Proposal - EPA - AE1
+### Work Based Project Proposal - EPA - AE1
 
 **Software Engineering Pathway**
 
