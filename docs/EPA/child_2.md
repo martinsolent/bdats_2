@@ -71,7 +71,7 @@ Downloads
 
 ### DTS EPA AE1 - Overview
 
-{: .warning }
+{: .important }
 
 > REMEMBER: You only need to complete & submit your Work-based Proposal in COM628. You will submit the 6,000-word report during the EPA period, in COM627 which takes place in the final three months of your apprenticeship.
 
