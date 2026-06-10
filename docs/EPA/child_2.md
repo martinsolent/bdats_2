@@ -46,7 +46,7 @@ Download Project Report with Presentation, Q&A - EPA 1 - AE1 Overview Document
 
 {: .note }
 
-> You only need to complete & submit your Work-based Proposal in COM628. You will submit the 6,000-word report during the EPA period, in COM627 which takes place in the final three months of your apprenticeship.
+> **You only need to complete & submit your Work-based Proposal in COM628. You will submit the 6,000-word report during the EPA period, in COM627 which takes place in the final three months of your apprenticeship.**
 
 The project may be undertaken pre-gateway, however, the Project Report must be completed after the apprentice has gone through the gateway and in the EPA period (3 months approx.)
 
@@ -61,3 +61,32 @@ The apprentice will scope out and provide a summary of what the project will cov
 
 <br>
 
+Downloads
+
+
+| Download, fill in & upload temple on the Assessment Page  | Use this example to help complete your Proposal Template |
+|-----------|-------------------------------------------------------------------------|
+| Project Proposal AE1 Template (Software) | Project Proposal AE1 Example (Software) |
+
+
+### DTS EPA AE1 - Overview
+
+{: .warning }
+
+> REMEMBER: You only need to complete & submit your Work-based Proposal in COM628. You will submit the 6,000-word report during the EPA period, in COM627 which takes place in the final three months of your apprenticeship.
+
+<br>
+
+**This assessment method has 2 components:**
+* Project with report
+* Presentation with questions and answers
+
+**The apprentice’s project can be based on any of the following:**
+
+* a specific problem
+* a recurring issue
+* an idea or opportunity
+
+##### Project Report Themes and KSBs
+
+This table outlines the four EPA themes that must be applied in the EPA assessment for the Level 6 Digital and Technology Solutions degree apprenticeship. These themes: **Underlying Principles, Technical Solutions, Innovation and Response, and Legal, Ethics & Landscape** are mapped to the Project Report and Presentation, and each includes a practical summary in the right column to applying relevant **Knowledge, Skills and Behaviours (KSBs). Theme A** focuses on strategic decision-making, stakeholder engagement, and project planning. Theme B covers the delivery and technical execution of digital solutions. **Theme C** highlights innovation, problem-solving, and proposing suitable digital approaches. **Theme D** ensures that legal, ethical, and secure practices are considered throughout the project. Together, these themes provide a structured framework for demonstrating competence across the apprenticeship standard.
