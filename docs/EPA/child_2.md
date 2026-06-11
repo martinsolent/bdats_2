@@ -372,8 +372,25 @@ Your Reporting aligns directly with the specified KSBs.
 | **Core – The Organisational Context (Theme A: Underlying Principles)** | K1 K2 | Identifies the role digital technology solutions play in gaining a competitive advantage (K1).<br>Explains principles of strategic decision making for acquiring/developing solutions (K2). | N/A |
 | **Core – Project Evaluation (Theme A: Underlying Principles)** | K17 K18 S13 B5 | Justifies methods of research and evaluation used to select solutions (K18).<br>Presents project overview effectively to stakeholders (K17, S13, B5). | Compares and contrasts chosen solution with alternatives from research (K18, S13). |
 | **Core – Project Planning and Resources (Theme A: Underlying Principles)** | K3 K4 K15 S2 S14 | Produces a project plan with risk estimation and mitigation (K3, S2).<br>Evaluates business case techniques (K4).<br>Applies cost/time estimation (K15).<br>Researches and evaluates innovative technologies (S14). | N/A |
-| **Core – Project Delivery (Theme B: Technical Solutions)** | K5 S5 S6 | Analyses the business problem underpinning the proposal (S1).<br>Manages project delivery (S6). | Justifies selection and use of standard processes and methods (K5, S5). |
+| **Core – Project Delivery (Theme B: Technical Solutions)** | K5 S5 S6 | Analyses the business problem underpinning the proposal (K5, S5).<br>Manages project delivery (S6). | Justifies selection and use of standard processes and methods (K5, S5). |
 | **Software Engineer – Technical Solutions (Theme B: Technical Solutions)** | K25 K26 K27 | Analyses factors affecting product quality (K25).<br>Selects and applies appropriate tools (K26).<br>Outlines approach to artefacts (K27). | Evaluates impact of quality control approaches (K25). |
 | **Core – Solution Proposal (Theme C: Innovation and Response)** | S1 | Analyses business problem to identify role of digital solutions (S1). | Justifies choice of digital technology solutions (S1). |
 | **Software Engineer – Innovation and Response (Theme C: Innovation and Response)** | S16 S17 S18 S19 S22 | Defines non-routine problem (S16).<br>Recommends appropriate solution (S17).<br>Applies analysis methods (S18).<br>Implements solution (S19).<br>Evaluates outcomes and lessons learned (S22). | Evaluates solution choice (S17).<br>Justifies analysis methods (S18).<br>Compares implementation with alternatives (S22). |
 | **Core Project Requirements (Theme D Legal, Ethics & Landscape)** | S3 B3 | Analyses relevant evidence to produce a proposal for a digital and technology-based project in line with legal, ethical and regulatory requirements whilst ensuring the protection of personal data, safety and security (S3, B3) |N/A |
+
+**Appendix C**
+
+**Project Report with Presentation, Questions & Answers Mapping Blocks**
+
+KSB mapping blocks are tools to help you align your reporting with the specific Knowledge, Skills, and Behaviours (KSBs) required by the assessment criteria. You don’t need to include them in your report, as you’ll ‘claim’ these in Appendix A – KSB Mapping to EPA Assessment. However, they will help you visualise the Themes, KSBs, and criteria, making sure your report clearly shows how it meets the relevant standards.
+
+
+![](../images/EPA_AE1_BLOCKS_1.png)
+
+![](../images/EPA_AE1_BLOCKS_2.png)
+
+![](../images/EPA_AE1_BLOCKS_3.png)
+
+![](../images/EPA_AE1_BLOCKS_4.png)
+
+![](../images/EPA_AE1_BLOCKS_5.png)
