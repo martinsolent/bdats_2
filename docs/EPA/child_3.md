@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Professional Discussion
+title: Professional Discussion AE2
 parent: EPA
 nav_order: 4
 ---
 
 {: .no_toc }
 
-# Professional Discussion underpinned by a Portfolio.
+# Professional Discussion underpinned by a Portfolio AE2
 
 ![](../images/christina-wocintechchat-com-eF7HN40WbAQ-unsplash.jpg)
 
