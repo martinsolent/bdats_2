@@ -10,11 +10,11 @@ nav_order: 10
 
 ![windows-v94mlgvsza4-unsplash.jpg](./images/windows-v94mlgvsza4-unsplash.jpg)
 
-The Academic year is delivered over 3 semesters with BDATS 2 modules &  HNC L4 1 module per semester 
-
-[Solent University Academic calendar for 2025-26](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2025-26.pdf){: .btn .btn-purple }
+The Academic year is delivered over 3 semesters with 2 modules studied each semester
 
 [Solent University Academic calendar for 2026-27](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2026-27.pdf){: .btn .btn-blue }
+
+
 
 **What will be my university study day?**
 
@@ -24,7 +24,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | --------- | :----------: | :-------------------------------------------------: |
 | Tuesday   | 1st Yr (L4)  | Software Engineer                                   |
 | Wednesday | 2nd Yr (L5)  | Software Engineer                                   |
-| Thursday  | 3rd Yr (L6)  | Software Engineer / Data / Cyber & Network          |
+| Thursday  | 3rd Yr (L6)  | Software Engineer         |
 
 
 
@@ -33,56 +33,34 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 {: .note } 
 > Class times and rooms may change.
 
-**Software Engineering**  - 1st Year (Level 4) Teaching Starts: Tuesday 20th January 2026
+**Software Engineering**  - 1st Year (Level 4) Teaching Starts: Tuesday 29th September 2027
 
 | Module                                       |     Tutor      | Study Day |    Time     | Room  |
 | -------------------------------------------- | :------------: | :-------: | :---------: | :---: |
-| COM430 - Introduction to Databases           | Kenton Wheeler    |  Tuesday  | 9:00-12:00  | JM312 |
-| COM422 - Software Testing                    | Darren Cunningham |  Tuesday  | 14:00-17:00 | RM135 |
+| COM412 Intro to Networks and Security        | TBC            |  Tuesday  | AM          | JM406 |
+| COM411 Problem Solving Through Programming   | TBC            |  Tuesday  | PM          |  TBC  |
 
-2nd Year (Level 5) Teaching Starts: Wednesday 21st January 2026
+
+2nd Year (Level 5) Teaching Starts: Wednesday 30th September 2027
 
 | Module                                         | Tutor                                   | Study Day |  Time        | Room    |
 | ---------------------------------------------- | :-------: | :----------: | :------:| :--------------------------------------------: |
-| COM526 - Introduction to Artificial Intelligence | Darren Cunningham | Wednesday | 9:00-12:00  | HC209 |
-| COM527 - Mobile Application Development          | Nick Whitelegg    | Wednesday | 14:00-17:00 | JM312 |
+| COM519 Advanced Database Systems | TBC | Wednesday | AM  | TBC |
+| COM534 Object Oriented Development       | Nick Whitelegg    | Wednesday | PM | JM306 |
 
-**Software Engineering** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
-
-{: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2. So on 22nd just come straight to the Data Science class at 1pm
+**Software Engineering** - 3rd Year (Level 6) Teaching Starts: Thursday 1st October 2026
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
-| ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM617 - Industrial Consulting Project  | Martin Reid                                   | Thursday  | 10:00-12:00 | JM412 |
-| COM618 - Data Science                   | Taiwo Ayodele                                 | Thursday  | 13:00-16:00 | JM312 |
+| ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: | 
+| COM619 -  DevOps          | Daniel Olabanji                                             | Thursday  | AM          | TBC  |
+| COM624 - Machine Learning | Taiwo Ayodele                                               | Thursday  | PM          | JM312  |
 
-**Data Analyst**- 3rd Year (Level 6) Teaching Starts: Thursday 25th September 2025
+
+**Software Engineering (EPA)** - EPA **ONLY** 3rd Year (Level 6) Teaching Starts: Thursday 1st October 2026
 
 {: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2.  So on 22nd just come straight to the Data Science class at 1pm
+> Online delivery on MS Teams.
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
-| ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: |
-| COM617 - Industrial Consulting Project  | Martin Reid                                   | Thursday  | 10:00-12:00 | JM412 |
-| COM618 - Data Science                   | Taiwo Ayodele                                 | Thursday  | 13:00-16:00 | JM312 |
-
-**Cyber Security** - 3rd Year (Level 6) Teaching Starts: Tuesday 23rd September 2025
-
-{: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2.  So on 22nd just come straight to the Cloud Computing class at 11am
-
-| Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
-| --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
-| COM617 - Industrial Consulting Project        | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
-| COM614 - Cloud Computing                      | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
-
-**Network Engineer** - 3rd Year (Level 6) Teaching Starts: Thursday 22nd January 2026
-
-{: .note } 
-> **Week 1 -** In the Industrial Consulting Project module, there is no physical class. You will need to watch the video lectures before Week 2.  So on 22nd just come straight to the Cloud Computing class at 11am
-
-| Module                                        |                            Tutor                             | Study Day |    Time    | Room  |
-| --------------------------------------------- | :----------------------------------------------------------: | :-------: | :--------: | :---: |
-| COM617 - Industrial Consulting Project*       | Craig Gallen                                                 |  Thursday | 9:00-11:00 | JM404 |
-| COM614 - Cloud Computing                      | Craig Gallen                                                 |  Thursday | 11:00-13:00 | JM404 |
+| ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: | 
+| COM627 - DTS    Gateway   | Martin Reid & Kenton wheeler                                | Thursday  | TBC       | ONLINE  |
