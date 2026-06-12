@@ -24,11 +24,11 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 | --------- | :----------: | :-------------------------------------------------: |
 | Tuesday   | 1st Yr (L4)  | Software Engineer                                   |
 | Wednesday | 2nd Yr (L5)  | Software Engineer                                   |
-| Thursday  | 3rd Yr (L6)  | Software Engineer         |
+| Thursday  | 3rd Yr (L6)  | Software Engineer                                   |
 
 
 
-## Spring (Jan-May) 2026
+## Autumn (Sept-Jan) 2026
 
 {: .note } 
 > Class times and rooms may change.
@@ -59,7 +59,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 **Software Engineering (EPA)** - EPA **ONLY** 3rd Year (Level 6) Teaching Starts: Thursday 1st October 2026
 
 {: .note } 
-> Online delivery on MS Teams.
+> Online delivery on MS Teams - EPA 3rd Years ONLY
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: | 
