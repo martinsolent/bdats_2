@@ -11,20 +11,30 @@ nav_order: 5
 
 ![](../images/michaela-st-lIdLyU_J6u4-unsplash.jpg)
 
-[EPA Plan ST0119 version: 1.2](https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree/?view=standard)
+[Link to DTS Standard: EPA Plan ST0119 version: 1.2](https://skillsengland.education.gov.uk/apprenticeships/st0119-v1-2)
 
 
-- [Introduction and overview](#introduction-and-overview)
-- [EPA summary](#epa-summary)
-- [EPA gateway](#epa-gateway)
-- [Project Report with presentation, questions and answers](#project-report-with-presentation-questions-and-answers)
-- [Professional Discussion underpinned by a portfolio](#professional-discussion-underpinned-by-a-portfolio)
-- [Grading](#grading)
-- [Overall EPA grading](#overall-epa-grading)
-- [Re-sits and re-takes](#re-sits-and-re-takes)
-- [Roles and responsibilities](#roles-and-responsibilities)
-- [KSB mapping table](#ksb-mapping-table)
-- [Mapping of KSBs to grade themes](#mapping-of-ksbs-to-grade-themes)
+- [End-Point Assessment Plan](#end-point-assessment-plan)
+    - [Introduction and overview](#introduction-and-overview)
+    - [EPA Summary](#epa-summary)
+    - [EPA Gateway](#epa-gateway)
+    - [Project Report with presentation, questions and answers](#project-report-with-presentation-questions-and-answers)
+    - [Rationale](#rationale)
+    - [Component 1: Project with a project report](#component-1-project-with-a-project-report)
+    - [Component 2: Presentation with questions](#component-2-presentation-with-questions)
+    - [Assessment location](#assessment-location)
+    - [Question and resource development](#question-and-resource-development)
+    - [Professional Discussion underpinned by a portfolio](#professional-discussion-underpinned-by-a-portfolio)
+    - [Rationale](#rationale-1)
+    - [Assessment location](#assessment-location-1)
+    - [Question and resource development](#question-and-resource-development-1)
+    - [Grading](#grading)
+    - [Overall EPA grading](#overall-epa-grading)
+    - [Re-sits and re-takes](#re-sits-and-re-takes)
+    - [Roles and responsibilities](#roles-and-responsibilities)
+    - [KSB Mapping Table](#ksb-mapping-table)
+    - [Mapping of KSBs to grade themes](#mapping-of-ksbs-to-grade-themes)
+    - [Professional discussion underpinned by a portfolio](#professional-discussion-underpinned-by-a-portfolio-1)
 
 ### Introduction and overview
 
