@@ -346,7 +346,7 @@ Remember, you will also be **mapping (tagging)** these within the main body of y
 | KSB # | Area | Theme                             | Behaviour |
 |------|------|----------------------------------|-----------|
 | B3   | Core | Theme D: Legal, Ethics & Landscape | Acts with integrity, ensuring ethical, legal, and regulatory compliance including data protection and security. |
-| B5   | Core | Theme A: Underlying Principles| nteracts professionally with people from technical and non-technical backgrounds. Presents data and conclusions in an evidently truthful, concise and appropriate manner. |
+| B5   | Core | Theme A: Underlying Principles| interacts professionally with people from technical and non-technical backgrounds. Presents data and conclusions in an evidently truthful, concise and appropriate manner. |
 
 
 **Appendix B**

@@ -31,11 +31,10 @@ The video below provides guidance for the apprentice on the first assessment ele
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f45b6d4e-096e-4dd6-8a4a-b46a00bef373&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Assessor - Project Proposal AE1"></iframe>
 </div>
 <br>
-<br>
-Work-based Project Proposal Template
-<br>
-Project Proposal Template Example
-<br>
+
+[Work-based Project Proposal Template](../info/proposal_EPA_AE1_Temp_SE.docx)
+
+[Project Proposal Template Example](../info/proposal_EPA_AE1_Temp_SE.docx)
 <br>
 
 #### Training Guidance Confirmation
