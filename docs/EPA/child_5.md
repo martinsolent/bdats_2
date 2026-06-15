@@ -37,7 +37,7 @@ The video below provides guidance for the apprentice on the first assessment ele
 [Project Proposal Template Example](../info/proposal_EPA_AE1_Temp_SE.docx)
 <br>
 
-#### Training Guidance Confirmation
+### Training Guidance Confirmation
 
 You will be sent a link to an online form to confirm you have watched the above videos and that you understand the process of signing off Apprentice EPA work-based Project Proposals.
 
