@@ -389,7 +389,7 @@ KSB mapping blocks are tools to help you align your reporting with the specific 
 
 ![](../images/EPA_AE1_BLOCKS_2.png)
 
-![](../images/EPA_AE1_BLOCKS_3.png)
+![](../images/SE_replace.png)
 
 ![](../images/EPA_AE1_BLOCKS_4.png)
 
