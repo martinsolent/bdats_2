@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Data Structures & Algorithms
-parent: Tech & Content Delivery
+parent: Content Delivery
 nav_order: 3
 ---
 
