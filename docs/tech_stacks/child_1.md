@@ -7,7 +7,7 @@ nav_order: 2
 
 {: .no_toc }
 
-# Tech Stacks - Databases COM417
+# Tech Stacks - Databases COM430
 
 ![](../images/COM417_Learning_Journey.jpg)
 
