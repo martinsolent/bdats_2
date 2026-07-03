@@ -7,7 +7,7 @@ nav_order: 3
 
 {: .no_toc }
 
-# Data Structures and Algorithms (DSA) COM431 
+# Data Structures and Algorithms (DSA) COM431 NEW
 
 Throughout Data Structures and Algorithms (DSA) module, you develop a fundamental understanding of how data is organised, stored and processed within software applications. The module begins with basic data structures such as arrays and lists, allowing you to explore how data can be stored efficiently and the trade-offs involved in different storage approaches. You are encouraged to think critically about selecting the most appropriate structure for a given problem rather than assuming a single solution will suit every situation. 
 
