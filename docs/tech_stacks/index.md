@@ -7,7 +7,7 @@ has_children: true
 
 {: .no_toc }
 
-# Computing Tech Stacks & Content Delivery
+# DTS Computing Content Delivery
 
 ![Lego Wall](../images/omar-flores-lQT_bOWtysE-unsplash.jpg)
 
