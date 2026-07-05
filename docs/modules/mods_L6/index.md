@@ -7,5 +7,5 @@ nav_order: 4
 
 {: .no_toc }
 
-# L6
+# Level 6 (3rd year) Modules
 

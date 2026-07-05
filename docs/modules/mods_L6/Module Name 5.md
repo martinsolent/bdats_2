@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 5
+title: Gateway COM627
 parent:  Modules L6
 nav_order: 5
 ---
 
 {: .no_toc }
 
-# L6
+# Gateway (Zero Credit Module EPA Prep) COM627
 

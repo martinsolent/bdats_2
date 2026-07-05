@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 4
+title: Data Science COM618
 parent:  Modules L6
 nav_order: 4
 ---
 
 {: .no_toc }
 
-# L6
+# Data Science COM618
 

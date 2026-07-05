@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 4
+title: COM422
 parent:  Modules L4
 nav_order: 4
 ---
 
 {: .no_toc }
 
-# L4
+# Software Testing and Reliability Engineering COM422
 

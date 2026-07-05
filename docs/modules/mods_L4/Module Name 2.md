@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 2
+title: COM412
 parent:  Modules L4
 nav_order: 2
 ---
 
 {: .no_toc }
 
-# L4
+# Intro to Networks and Security COM412
 

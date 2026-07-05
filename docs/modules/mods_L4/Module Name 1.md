@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 1
+title: COM411
 parent:  Modules L4
 nav_order: 1
 ---
 
 {: .no_toc }
 
-# L4
+# Problem Solving Through Programming COM411
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 6
+title: COM431
 parent:  Modules L4
 nav_order: 6
 ---
 
 {: .no_toc }
 
-# L4
+# Data Structures, Algorithms & Maths COM431
 

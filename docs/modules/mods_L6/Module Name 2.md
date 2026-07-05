@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 2
+title: DevOps COM619
 parent:  Modules L6
 nav_order: 2
 ---
 
 {: .no_toc }
 
-# L6
+# DevOps COM619
 

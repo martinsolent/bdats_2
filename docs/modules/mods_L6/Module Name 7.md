@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 6
+title: End Point Assessment COM628
 parent:  Modules L6
 nav_order: 6
 ---
 
 {: .no_toc }
 
-# L6
+# End Point Assessment COM628
 

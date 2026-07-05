@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 3
+title: COM526
 parent:  Modules L5
 nav_order: 3
 ---
 
 {: .no_toc }
 
-# L5
+# Introduction to AI COM526
 

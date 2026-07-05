@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 4
+title: COM527
 parent:  Modules L5
 nav_order: 4
 ---
 
 {: .no_toc }
 
-# L5
+# Mobile Application Development COM527
 

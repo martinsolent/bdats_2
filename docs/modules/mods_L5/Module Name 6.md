@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 6
+title: COM530
 parent:  Modules L5
 nav_order: 6
 ---
 
 {: .no_toc }
 
-# L5
+# Work Based Business Organisation COM530
 

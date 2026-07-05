@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module Name 5
+title: COM532
 parent:  Modules L5
 nav_order: 5
 ---
 
 {: .no_toc }
 
-# L5
+# Work Based IT Project Management COM532
 

@@ -7,5 +7,4 @@ nav_order: 3
 
 {: .no_toc }
 
-# L6
-
+# Industrial Consulting Project COM617
