@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Modules L5 (2nd Year)
+title: Module Name 1
 parent:  Modules
-nav_order: 2
+nav_order: 1
 ---
 
 {: .no_toc }
