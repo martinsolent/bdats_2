@@ -12,6 +12,8 @@ nav_order: 2
 
 The primary role of the Software Engineer is to undertake all requirements during the solution development life-cycle from gathering requirements to analysis, design, code, build, test, implementation and support. They may also be required to supervise the work of junior software developers and others who may be working on elements of the solution and work with product managers and UX designers in implementing solutions. They will apply software engineering principles to all stages of the solution life-cycle, from gathering requirements, undertaking analysis and design, development of code and data requirements whilst also ensuring security feature are addressed. As well as creating new code, they can support existing code by troubleshooting, reverse engineering and conducting root cause analysis. They typically work as part of a large collaborative team and will have responsibility for significant elements of software solutions.
 
+[Go to SE module delivery](https://martinsolent.github.io/bdats_2/docs/modules/)
+
 **Duty 16** Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.
 
 K21 K22 K23 K28
