@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Module Delivery
+title: Modules
 nav_order: 22
-has_children: true
 ---
 
 {: .no_toc }
@@ -14,3 +13,4 @@ has_children: true
 Photo by <a href="https://unsplash.com/@colorflores?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omar Flores</a> on <a href="https://unsplash.com/s/photos/wall-lego?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
+has_children: true
