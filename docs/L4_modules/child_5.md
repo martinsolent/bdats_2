@@ -11,7 +11,6 @@ nav_order: 6
 # Introduction to Databases COM430
 
 
-
 Databases are at the heart of most of the websites, apps and IT systems that we use on a daily basis, for example online e-commerce websites, online banking, booking systems, social media apps, even online gaming. Furthermore, virtually all businesses use databases to underpin their critical line of business systems like HR, Payroll and CRM.
 
 In this module, students are introduced to the skills and concepts required for querying, designing and implementing relational databases and developing database applications.
@@ -22,7 +21,7 @@ Students will also learn fundamental skills such as interpreting user requiremen
 
 A basic understanding of databases is important for all IT careers and will significantly enhance employability.
 
-What you will learn:
+**What you will learn:**
 
 
 By the end of this module, students will be able to:
