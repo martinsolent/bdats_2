@@ -28,7 +28,6 @@ Throughout the apprenticeship, you'll gain core technical knowledge that encompa
 
 * Software Engineer
 
-[Pathway Details](https://martinsolent.github.io/bdats/docs/pathways/){: .btn .btn-purple }
 
 ## Introduction to Computing  Apprenticeships at Solent University
 
