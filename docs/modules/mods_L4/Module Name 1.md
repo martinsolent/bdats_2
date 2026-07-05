@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM411
+title: Problem Solving Through Programming
 parent:  Modules L4
 nav_order: 1
 ---

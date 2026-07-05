@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM527
+title: Mobile Application Development
 parent:  Modules L5
 nav_order: 4
 ---

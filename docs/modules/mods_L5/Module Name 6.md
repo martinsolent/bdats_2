@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM530
+title: Work Based Business Organisation
 parent:  Modules L5
 nav_order: 6
 ---

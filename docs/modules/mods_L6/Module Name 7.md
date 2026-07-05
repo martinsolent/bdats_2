@@ -1,6 +1,6 @@
 ---
 layout: default
-title: End Point Assessment COM628
+title: End Point Assessment
 parent:  Modules L6
 nav_order: 6
 ---

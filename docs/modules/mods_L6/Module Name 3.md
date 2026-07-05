@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module Name 3
+title:  Industrial Consulting Project
 parent:  Modules L6
 nav_order: 3
 ---

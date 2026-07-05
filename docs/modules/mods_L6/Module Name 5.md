@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gateway COM627
+title: Gateway
 parent:  Modules L6
 nav_order: 5
 ---

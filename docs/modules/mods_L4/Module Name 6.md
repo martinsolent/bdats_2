@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM431
+title: Data Structures, Algorithms & Maths
 parent:  Modules L4
 nav_order: 6
 ---

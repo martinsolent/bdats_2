@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM423
+title: Systems Analysis & Design
 parent:  Modules L4
 nav_order: 5
 ---

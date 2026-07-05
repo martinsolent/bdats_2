@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM422
+title: Software Testing
 parent:  Modules L4
 nav_order: 4
 ---

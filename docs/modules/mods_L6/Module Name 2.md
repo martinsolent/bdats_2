@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DevOps COM619
+title: DevOps
 parent:  Modules L6
 nav_order: 2
 ---

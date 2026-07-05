@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM430
+title: Introduction to Databases
 parent:  Modules L4
 nav_order: 3
 ---

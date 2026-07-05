@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning COM624
+title: Machine Learning
 parent:  Modules L6
 nav_order: 1
 ---

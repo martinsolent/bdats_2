@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM526
+title: Introduction to AI
 parent:  Modules L5
 nav_order: 3
 ---

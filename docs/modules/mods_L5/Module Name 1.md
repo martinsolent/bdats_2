@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM519
+title: Advanced Database Systems
 parent:  Modules L5
 nav_order: 1
 ---

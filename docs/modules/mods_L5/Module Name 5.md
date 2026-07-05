@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COM532
+title: Work Based IT Project Management
 parent:  Modules L5
 nav_order: 5
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Science COM618
+title: Data Science
 parent:  Modules L6
 nav_order: 4
 ---
