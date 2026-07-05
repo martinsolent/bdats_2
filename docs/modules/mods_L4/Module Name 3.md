@@ -21,6 +21,8 @@ A basic understanding of databases is important for all IT careers and will sign
 
 **What you will learn:**
 
+![BB](/../bdats_2/docs/images/intro_DB_COM430.png)
+
 
 By the end of this module, students will be able to:
 

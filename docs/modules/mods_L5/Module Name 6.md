@@ -18,6 +18,9 @@ This module is intended to widen your perspective outside of your own role and i
 
 **Topics covered on this module:**
 
+![BB](/../bdats_2/docs/images/COM530.png)
+
+
 
 **After studying this module, you will:**
 
