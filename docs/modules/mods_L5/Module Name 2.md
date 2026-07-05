@@ -29,102 +29,137 @@ The module concludes with software testing using JUnit, where you learn how to d
 The OODD module develops your ability to move confidently through the entire software development lifecycle. By the end of the module, you should be able to analyse requirements, create UML models, design object-oriented systems, develop Kotlin applications, build user interfaces, work with databases, apply sound design principles and test software using professional software engineering practices. 
 
 OODD Module: Overview 
-<br>
-**1. Introduction to Kotlin**
-•	Introduction to Kotlin as a modern object-oriented programming language.
-•	Understanding the Java Virtual Machine (JVM) and cross-platform development.
-•	Using variables, data types, operators and control structures.
-•	Writing functions and creating simple Kotlin applications.
-•	Exploring Kotlin features such as type inference and null safety.
-<br>
-**2. Encapsulation and Inheritance**
-•	Understanding the principles of object-oriented programming.
-•	Using public and private access modifiers.
-•	Applying encapsulation to protect data and improve reliability.
-•	Creating class hierarchies using inheritance.
-•	Reusing code through superclass and subclass relationships. 
-<br>
-**3. Aggregation and Polymorphism**
-•	Exploring relationships between objects and classes.
-•	Understanding aggregation and object composition.
-•	Using polymorphism to support flexible software design.
-•	Designing systems where objects can behave differently through shared interfaces.
-•	Building more maintainable and reusable code structures. 
-<br>
-**4. Introduction to Analysis and Design: Domain Models and Use Cases**
-•	Understanding the purpose of software analysis and design.
-•	Introduction to UML (Unified Modelling Language).
-•	Creating domain models from problem statements.
-•	Identifying classes, attributes and relationships.
-•	Developing use case diagrams to represent user interactions. 
-<br>
-**5. Use Case Texts and Basic Git Merging**
-•	Producing detailed use case descriptions.
-•	Documenting system behaviour and user requirements.
-•	Understanding version control fundamentals.
-•	Introduction to Git workflows and collaboration.
-•	Resolving simple code merge conflicts. 
-<br>
-**6. Further Kotlin Language Features: Lambdas and Interfaces**
-•	Implementing interfaces in Kotlin.
-•	Understanding abstraction and contracts between classes.
-•	Using lambda expressions and functional programming techniques.
-•	Passing functions as parameters.
-•	Writing more concise and flexible code. 
-<br>
-**7. Introduction to GUI Applications with Compose Multiplatform**
-•	Building graphical user interfaces using Compose.
-•	Understanding composable functions.
-•	Creating layouts and interface components.
-•	Managing application state.
-•	Handling user interaction and events. 
-<br>
-**8. Further Compose**
-•	Using modifiers to customise user interfaces.
-•	Working with forms, lists and dynamic content.
-•	Managing state effectively within applications.
-•	Implementing lazy lists for efficient rendering.
-•	Building more advanced and responsive user interfaces.
-<br>
-**9. Sequence Diagrams**
-•	Understanding object interactions over time.
-•	Creating UML sequence diagrams.
-•	Modelling message passing between objects.
-•	Representing system behaviour dynamically.
-•	Supporting detailed software design and documentation. 
-<br>
-**10. Introduction to Database Development with Kotlin**
-•	Connecting Kotlin applications to databases.
-•	Storing and retrieving persistent data.
-•	Understanding database operations and queries.
-•	Managing application data beyond program execution.
-•	Integrating databases into software systems.
-<br>
-**11. Coupling, Cohesion and Design Patterns**
-•	Understanding software architecture principles.
-•	Applying low coupling and high cohesion.
-•	Evaluating software quality and maintainability.
-•	Exploring common design patterns.
-•	Designing systems that are easier to extend, test and reuse. 
-<br>
-**12. Testing with JUnit; Dates and Times**
-•	Understanding the importance of software testing.
-•	Creating automated unit tests using JUnit.
-•	Using assertions to verify software behaviour.
-•	Applying test setup and teardown procedures.
-•	Working with dates and times in Kotlin applications. 
 
+**1. Introduction to Kotlin**
+
+- Introduction to Kotlin as a modern object-oriented programming language.
+- Understanding the Java Virtual Machine (JVM) and cross-platform development.
+- Using variables, data types, operators and control structures.
+- Writing functions and creating simple Kotlin applications.
+- Exploring Kotlin features such as type inference and null safety.
+
+<br>
+
+**2. Encapsulation and Inheritance**
+
+- Understanding the principles of object-oriented programming.
+- Using public and private access modifiers.
+- Applying encapsulation to protect data and improve reliability.
+- Creating class hierarchies using inheritance.
+- Reusing code through superclass and subclass relationships.
+
+<br>
+
+**3. Aggregation and Polymorphism**
+
+- Exploring relationships between objects and classes.
+- Understanding aggregation and object composition.
+- Using polymorphism to support flexible software design.
+- Designing systems where objects can behave differently through shared interfaces.
+- Building more maintainable and reusable code structures.
+
+<br>
+
+**4. Introduction to Analysis and Design: Domain Models and Use Cases**
+
+- Understanding the purpose of software analysis and design.
+- Introduction to UML (Unified Modelling Language).
+- Creating domain models from problem statements.
+- Identifying classes, attributes and relationships.
+- Developing use case diagrams to represent user interactions.
+
+<br>
+
+**5. Use Case Texts and Basic Git Merging**
+
+- Producing detailed use case descriptions.
+- Documenting system behaviour and user requirements.
+- Understanding version control fundamentals.
+- Introduction to Git workflows and collaboration.
+- Resolving simple code merge conflicts.
+
+<br>
+
+**6. Further Kotlin Language Features: Lambdas and Interfaces**
+
+- Implementing interfaces in Kotlin.
+- Understanding abstraction and contracts between classes.
+- Using lambda expressions and functional programming techniques.
+- Passing functions as parameters.
+- Writing more concise and flexible code.
+
+<br>
+
+**7. Introduction to GUI Applications with Compose Multiplatform**
+
+- Building graphical user interfaces using Compose.
+- Understanding composable functions.
+- Creating layouts and interface components.
+- Managing application state.
+- Handling user interaction and events.
+
+<br>
+
+**8. Further Compose**
+
+- Using modifiers to customise user interfaces.
+- Working with forms, lists and dynamic content.
+- Managing state effectively within applications.
+- Implementing lazy lists for efficient rendering.
+- Building more advanced and responsive user interfaces.
+
+<br>
+
+**9. Sequence Diagrams**
+
+- Understanding object interactions over time.
+- Creating UML sequence diagrams.
+- Modelling message passing between objects.
+- Representing system behaviour dynamically.
+- Supporting detailed software design and documentation.
+
+<br>
+
+**10. Introduction to Database Development with Kotlin**
+
+- Connecting Kotlin applications to databases.
+- Storing and retrieving persistent data.
+- Understanding database operations and queries.
+- Managing application data beyond program execution.
+- Integrating databases into software systems.
+
+<br>
+
+**11. Coupling, Cohesion and Design Patterns**
+
+- Understanding software architecture principles.
+- Applying low coupling and high cohesion.
+- Evaluating software quality and maintainability.
+- Exploring common design patterns.
+- Designing systems that are easier to extend, test and reuse.
+
+<br>
+
+**12. Testing with JUnit; Dates and Times**
+
+- Understanding the importance of software testing.
+- Creating automated unit tests using JUnit.
+- Using assertions to verify software behaviour.
+- Applying test setup and teardown procedures.
+- Working with dates and times in Kotlin applications.
 
 
 **Across the 12 topics, you will develop skills in:**
 
-•	Object-oriented programming using Kotlin.
-•	Software analysis and UML modelling.
-•	Requirements gathering and system design.
-•	User interface development with Compose.
-•	Database integration and data management.
-•	Professional software engineering practices.
-•	Software architecture and design quality.
-•	Automated testing and quality assurance. 
+- Object-oriented programming using Kotlin.
+- Software analysis and UML modelling.
+- Requirements gathering and system design.
+- User interface development with Compose.
+- Database integration and data management.
+- Professional software engineering practices.
+- Software architecture and design quality.
+- Automated testing and quality assurance.
+
+
 <br>
 [Link to delivery notes:](https://lilt.hikar.org/?module=OODD)
