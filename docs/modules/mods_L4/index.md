@@ -9,6 +9,8 @@ nav_order: 1
 
 # Level 4 (2nd year) Modules
 
+![ Banner](/../bdats_2/docs/images/level_banner/L4_banner.png)
+
 The first year of a UK degree, also known as Level 4, is designed to help students settle into university study and build a strong foundation. The grades achieved in this year do not count towards the final degree classification. However, students must still pass and earn all 120 credits to progress.
 
 This year gives students the opportunity to get up to speed before moving into the second year, where grades do count towards the final degree outcome. There is often some overlap between Level 4 content and what students may have already studied at Level 3, such as at college.
