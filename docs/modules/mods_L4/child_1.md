@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Modules L4 (1st Year)
-parent: mods_L4
-grand_parent: Module Delivery
-nav_order: 2
+parent:  Module Delivery
+nav_order: 1
 ---
 
 {: .no_toc }
