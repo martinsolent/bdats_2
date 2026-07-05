@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tech Stacks - Databases COM417
+title: Introduction Databases
 parent: Tech & Content Delivery
 nav_order: 2
 ---
