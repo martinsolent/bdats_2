@@ -1,7 +1,7 @@
 ---
 layout: default
 title: English & Maths
-nav_order: 150
+nav_order: 100
 ---
 
 {: .no_toc }
