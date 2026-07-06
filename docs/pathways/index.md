@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pathways
+title: Pathways (Software)
 nav_order: 6
 has_children: true
 ---
