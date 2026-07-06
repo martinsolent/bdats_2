@@ -19,5 +19,5 @@ For apprenticeships, this overlap is particularly important. Due to funding requ
 
 RPL is assessed during the onboarding and interview stage. If prior learning is confirmed, some first-year modules may be discounted. In some cases, an apprentice may move straight past Level 4 and begin at second year, or Level 5. This is often referred to as direct entry.
 <br>
-![DTS 20 credit all levels](/docs/images/BDATS_20credit_L4.png)
+![DTS 20 credit all levels](/../bdats_2/docs/images/BDATS_20credit_L4.png)
 

@@ -17,4 +17,4 @@ At Level 6, apprentices will also be supported in preparing for their End Point 
 
 <br>
 
-![DTS 20 credit all levels](/docs/images/BDATS_20_credit_L6.png)
+![DTS 20 credit all levels](/../bdats_2/docs/images/BDATS_20_credit_L6.png)

@@ -17,4 +17,4 @@ At Level 5, apprentices will begin collecting potential work-based portfolio evi
 
 <br>
 
-![DTS 20 credit all levels](/docs/images/BDATS_20_credit_L5.png)
+![DTS 20 credit all levels](/../bdats_2/docs/images/BDATS_20_credit_L5.png)
