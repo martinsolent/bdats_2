@@ -7,21 +7,24 @@ nav_order: 150
 {: .no_toc }
 
 # Essential Information Links
- 
-[Complaints and appeals](https://students.solent.ac.uk/studying/complaints-and-appeals)
 
-[Equality and diversity policy
-](https://www.solent.ac.uk/about/our-policies-and-legal-information/our-policies/equality-diversity-policy)
-
-[Quality assurance policy](https://www.solent.ac.uk/about/our-policies-and-legal-information/our-policies/quality-assurance-policy)
-
-[British Values, Prevent & Safeguarding](https://martinsolent.github.io/comp_dashboard/docs/apprenticeships/child_11.html)
-
-[Safeguarding Policy](info/safeguarding-policy.pdf)
-
-[Student Hub - Safeguarding](https://students.solent.ac.uk/student-hub/safeguarding)
-
-[Disability support & Reasonable Adjustment](https://www.solent.ac.uk/studying-at-solent/student-support/disability-support)
 
 [All policies and legal information](https://www.solent.ac.uk/about/our-policies-and-legal-information)
 
+[British Values, Prevent & Safeguarding](https://martinsolent.github.io/bdats_2/docs/values/)
+
+[Complaints and appeals](https://students.solent.ac.uk/studying/complaints-and-appeals)
+
+[Disability support & Reasonable Adjustment](https://www.solentability-support)
+
+[Equality and diversity policy](https://ies-and-legal-information/our-policies/equality-diversity-policy)
+
+[Mental health and wellbeing](https://students-wellbeing/mental-health-support)
+
+[Prevent](https://students.solent.ac.uk/student-hub/your-prevent)
+
+[Quality assurance policy](https://www.solent.ac.uk/about/our-policies-and-legal-information/our-policy)
+
+[Safeguarding Policy](httpsuk/student-hub/your-wellbeing/safer-solent)
+
+[Student Hub](Studentstudents.solent.ac.uk/student-hub)
