@@ -24,7 +24,11 @@ You need to prepare and give a presentation to an independent assessor. Your pre
 ### AE2  - Professional discussion underpinned by a portfolio of evidence
 
 You will have a **professional discussion** with an independent assessor.**It will last 60 minutes.** **They will ask you at least 4 questions.** The questions will be about certain aspects of your occupation. **You need to compile a portfolio of evidence before the EPA gateway.** You can use it to help answer the questions.
+
 <br>
+
 <A fruit machine game showing how UK apprenticeship End-Point Assessment grades combine. Spin two reels of Fail, Pass, or Distinction and see the overall grade.
 <br>
-[](https://martinsolent.github.io/epa_fruit_machine/)
+
+
+[EPA fruit machine](https://martinsolent.github.io/epa_fruit_machine/)
