@@ -16,14 +16,23 @@ Employers please enquire through our apprenticeship team **apprenticeships@solen
 
 ## Entry Requirements
 
-You must have Level 2 GCSE (or equivalent) English and Mathematics at level C or above.
+You must have Level 2 GCSE (or equivalent) English and Mathematics grade 4 or above.
 
-If you do not have grade C in English and Maths you will be required to do Functional Skills in both these subjects before you are able to go to go to End Point Assessment (EPA) at the end of your Apprenticeship
+If you do not have grade 4 in English and Maths you will be required to do Functional Skills in both these subjects before you are able to go to go to End Point Assessment (EPA) at the end of your Apprenticeship
 
-**Recommended grades**
 
-A GCSE grade 9 - 4 (previously A * - C) or equivalent in English and a GCSE grade 9 - 4 (previously A * - C) or equivalent in mathematics.
-Individual employers will set the selection criteria, but this is likely to include three ‘A’ levels (including maths), although some employers will accept other relevant qualifications or experience.
+
+### Entry requirements for the degree
+
+**104-120 UCAS tariff points**
+
+A-levels in a relevant subject, or a BTEC Extended Diploma at DMM or BTEC Diploma at D*D*, a T-Level Merit, or equivalent, which comply with the minimum entry requirement of 104 UCAS points.
+
+Qualifications equivalent to the above may also be considered.
+
+A BTEC Subsidiary Diploma will be considered in conjunction with other qualifications.
+Direct entry to second year may be offered to holders of an HND or HNC in an appropriate subject.
+For further information about UK qualifications, please contact admissions.
 
 ## Uploading Documents
 
