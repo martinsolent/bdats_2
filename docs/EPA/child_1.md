@@ -27,7 +27,7 @@ You will have a **professional discussion** with an independent assessor.**It wi
 
 <br>
 
-<A fruit machine game showing how UK apprenticeship End-Point Assessment grades combine. Spin two reels of Fail, Pass, or Distinction and see the overall grade.
+### A fruit machine game showing how UK apprenticeship End-Point Assessment grades combine. Spin two reels of Fail, Pass, or Distinction and see the overall grade:
 <br>
 
 
