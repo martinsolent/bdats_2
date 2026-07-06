@@ -47,3 +47,5 @@ nav_order: 8
 ### *Modules with embedded CISCO Training
 
 COM412 - [CISCO CCNA 1](https://www.netacad.com/courses/networking/ccna-introduction-networks)
+
+![DTS 20 credit all levels](../images/BDATS_20_credit_ALL.png)

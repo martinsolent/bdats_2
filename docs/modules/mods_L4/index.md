@@ -18,3 +18,6 @@ This year gives students the opportunity to get up to speed before moving into t
 For apprenticeships, this overlap is particularly important. Due to funding requirements, we need to ensure that apprentices are developing new skills rather than repeating learning they already have. Because of this, there is the option to remove certain modules through a process called Recognition of Prior Learning, or RPL.
 
 RPL is assessed during the onboarding and interview stage. If prior learning is confirmed, some first-year modules may be discounted. In some cases, an apprentice may move straight past Level 4 and begin at second year, or Level 5. This is often referred to as direct entry.
+<br>
+![DTS 20 credit all levels](/docs/images/BDATS_20credit_L4.png)
+

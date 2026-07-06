@@ -15,4 +15,6 @@ The second year, or Level 5, builds on the knowledge gained in the first year an
 
 At Level 5, apprentices will begin collecting potential work-based portfolio evidence for their End Point Assessment, and they will receive ongoing support for this throughout both second and third year leading up to the assessment itself.
 
+<br>
 
+![DTS 20 credit all levels](/docs/images/BDATS_20_credit_L5.png)
