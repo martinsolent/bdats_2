@@ -6,25 +6,23 @@ nav_order: 5
 
 {: .no_toc } 
 
-# Computing and Digital Apprentice Induction
+# Digital Apprentice Induction
 
 ![Solent Spark Building](./images/spark-gallery-1.xe359e3c0.jpg)
 
-**Apprenticeship induction takes place on campus** a weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
+**Apprenticeship induction** takes place on campus a week before the start of term. The induction day gives apprentices the opportunity to meet their tutors, learn more about how the course will be delivered, and take a tour of the campus..
 
-**Wednesday 17th September 2025 Times TBC**
+### Tuesday 22nd September 2026 Time: 12:30-16:00 Room: JM413
 
-
+<!--
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=602e0202-f37c-41f3-b024-b35800869f0d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DTS SE Induction - Sept 2025"></iframe>
 </div>
 
 [Induction Slides 2025](./info/BDATS_INDUCTION_2025-26_v2.pptx)
 
+-->
 
-
-
-[Understanding Your Timetable](./info/Understanding%20Your%20Timetable%20-%202025.pdf)
 
 ### East Park Terrace Campus
 
@@ -35,6 +33,13 @@ nav_order: 5
 ![EPT PLanMap](./images/EPT_PLAN.png)
 
 [East Park Terrace Campus Map](./info/east-park-terrace-campus-map.pdf)
+
+#### Directions JM413:
+
+1. Take the lift outside the Deli and Student Union Office to 4th Floor Sir John Everett Millais building (JM) Building.
+1. Turn left out of the lift.
+1. Follow the corridor.
+1. JM413 will be on the right.
 
 
 ### Campus: East Park Terrace, Southampton SO14 0YN
