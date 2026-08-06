@@ -28,7 +28,7 @@ The video below provides guidance for the apprentice on the first assessment ele
 ### Project Proposal Sign Off
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
-	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f01aac6d-3c4a-4b11-8361-b44601295e8e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="COM628 AE1 Overview"></iframe>
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f45b6d4e-096e-4dd6-8a4a-b46a00bef373&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA Assessor - Project Proposal AE1"></iframe>
 </div>
 <br>
 
