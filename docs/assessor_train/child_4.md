@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessor AE1 Question Bank
+title: AE1 Question Bank
 parent: AE1 Assessor Training
 nav_order: 5
 ---
