@@ -17,7 +17,7 @@ This video explains the contents of the EPA assessor pack used for the Digital a
 
 <br>
 
-[Download Software Pathway AE1 Pack](/docs/SE_EPA_AE1_1-2_Assessor_Pack_v2.zipSE_EPA_AE1_1-2_Assessor_Pack_v2)
+[Download Software Pathway AE1 Pack](../SE_EPA_AE1_1-2_Assessor_Pack_v2.zip)
 
 Download Network Pathway AE1 Pack
 
