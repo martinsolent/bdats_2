@@ -1,8 +1,8 @@
 ---
 layout: default
-title: EPA Assessor Training 1.2
+title: Assessor Training
 parent: EPA
-nav_order: 6
+nav_order: 2
 ---
 
 {: .no_toc }

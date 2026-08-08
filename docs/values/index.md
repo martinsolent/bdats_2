@@ -1,7 +1,7 @@
 ---
 layout: default
 title: British Values
-nav_order: 17
+nav_order: 19
 has_children: true
 ---
 

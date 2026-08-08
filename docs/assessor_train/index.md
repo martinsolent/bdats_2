@@ -1,7 +1,7 @@
 ---
 layout: default
-title: EPA
-nav_order: 15
+title: Assessor Training
+nav_order: 16
 has_children: true
 ---
 
