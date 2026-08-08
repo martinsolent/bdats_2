@@ -15,7 +15,7 @@ This video explains the contents of the EPA assessor pack used for the Digital a
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=92b05a4b-e635-4c00-b15b-b4a000ece54e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="EPA AE1 - Assessor Pack"></iframe>
 </div>
 
-Download Software Pathway AE1 Pack
+[Download Software Pathway AE1 Pack](/docs/SE_EPA_AE1_1-2_Assessor_Pack_v2.zipSE_EPA_AE1_1-2_Assessor_Pack_v2)
 
 Download Network Pathway AE1 Pack
 
