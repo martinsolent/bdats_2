@@ -1,7 +1,7 @@
 ---
 layout: default
-title: EPA Assessor Pack
-parent: Assessor Training
+title: EPA AE1 Assessor Pack
+parent: AE1 Assessor Training
 nav_order: 3
 ---
 

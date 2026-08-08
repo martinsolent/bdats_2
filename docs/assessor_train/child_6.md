@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Grader Sheet
-parent: Assessor Training
+title: EPA AE1 - Grader Sheet
+parent: AE1 Assessor Training
 nav_order: 7
 ---
 
