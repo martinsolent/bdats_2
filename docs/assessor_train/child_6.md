@@ -11,6 +11,11 @@ nav_order: 7
 
 ## EPA AE1 Grader Overview
 
+{: .note } 
+> The mapping between report sections and KSBs is provided as a guide to support assessment and consistency of grading. It is not intended to be prescriptive. Apprentices may demonstrate KSB attainment in any part of their report and may evidence the same KSB multiple times through different aspects of their work. **Assessors should make holistic judgements based on the submission, recognising evidence wherever it appears and giving credit where the requirements of the KSB have been convincingly demonstrated.**
+
+<br>
+
 A short guide to using the EPA AE1 grading sheet, showing how apprentice evidence is assessed against the standard to determine apprenticeship and academic outcomes
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
