@@ -150,12 +150,12 @@ Your report will be supported by a template that includes guidance notes for all
 * List of Figures
 <br>
 * Introduction
-* Project Scope
-* Research and Findings
+* Research
 * Requirements   
 * Methods, Tools & Technology
 * Professional, Legal and Ethical issues
-* Project Plan and implementation
+* Project Management 
+* Implementation
 * Project Outcomes & Results
 * Conclusions and Recommendations
 * Reference list
