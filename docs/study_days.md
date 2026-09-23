@@ -37,7 +37,7 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 | Module                                       |     Tutor      | Study Day |    Time     | Room  |
 | -------------------------------------------- | :------------: | :-------: | :--------------: | :---: |
-| COM412 Intro to Networks and Security        | Daniel Olabanji|  Tuesday  | 9:00 am to 12:00 | JM406 |
+| COM412 Intro to Networks and Security        | Daniel Olabanji|  Tuesday  | 9:00 - 12:00 | JM406 |
 | COM411 Problem Solving Through Programming   | Kenton Wheeler |  Tuesday  | 13:00 - 16:00    | RM135 |
 
 
