@@ -36,24 +36,24 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 **Software Engineering**  - 1st Year (Level 4) Teaching Starts: Tuesday 29th September 2027
 
 | Module                                       |     Tutor      | Study Day |    Time     | Room  |
-| -------------------------------------------- | :------------: | :-------: | :---------: | :---: |
-| COM412 Intro to Networks and Security        | TBC            |  Tuesday  | AM          | JM406 |
-| COM411 Problem Solving Through Programming   | TBC            |  Tuesday  | PM          |  TBC  |
+| -------------------------------------------- | :------------: | :-------: | :--------------: | :---: |
+| COM412 Intro to Networks and Security        | Daniel Olabanji|  Tuesday  | 9:00 am to 12:00 | JM406 |
+| COM411 Problem Solving Through Programming   | Kenton Wheeler |  Tuesday  | 13:00 - 16:00    | RM135 |
 
 
 2nd Year (Level 5) Teaching Starts: Wednesday 30th September 2027
 
-| Module                                         | Tutor                                   | Study Day |  Time        | Room    |
-| ---------------------------------------------- | :-------: | :----------: | :------:| :--------------------------------------------: |
-| COM519 Advanced Database Systems | TBC | Wednesday | AM  | TBC |
-| COM534 Object Oriented Development       | Nick Whitelegg    | Wednesday | PM | JM306 |
+| Module                             | Tutor     | Study Day |  Time      | Room    |
+| ---------------------------------- | :---------------: | :-------: | :-------------:| :-----: |
+| COM519 Advanced Database Systems   | Armen Petrosyan   | Wednesday | 10:00 - 13:00  |  HC210  |
+| COM534 Object Oriented Development | Nick Whitelegg    | Wednesday | 14:00 - 17:00  | JM304   |
 
 **Software Engineering** - 3rd Year (Level 6) Teaching Starts: Thursday 1st October 2026
 
-| Module                    |                            Tutor                            | Study Day |    Time     | Room  |
-| ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: | 
-| COM619 -  DevOps          | Daniel Olabanji                                             | Thursday  | AM          | TBC  |
-| COM624 - Machine Learning | Taiwo Ayodele                                               | Thursday  | PM          | JM312  |
+| Module                    | Tutor            | Study Day |    Time      | Room  |
+| ------------------------- | :--------------: | :-------: | :----------: | :---: | 
+| COM619 -  DevOps          | Daniel Olabanji  | Thursday  | 9:00 - 11:00 | RM701 |
+| COM624 - Machine Learning | Taiwo Ayodele    | Thursday  | 14:00 - 17:00 | JM312 |
 
 
 **Software Engineering (EPA)** - EPA **ONLY** 3rd Year (Level 6) Teaching Starts: Thursday 1st October 2026
@@ -63,4 +63,4 @@ As a default we aim to have first years on Tuesdays, second years on Wednesdays 
 
 | Module                    |                            Tutor                            | Study Day |    Time     | Room  |
 | ------------------------- | :---------------------------------------------------------: | :-------: | :---------: | :---: | 
-| COM627 - DTS    Gateway   | Martin Reid & Kenton wheeler                                | Thursday  | TBC       | ONLINE  |
+| COM627 - DTS    Gateway   | Martin Reid & Kenton wheeler                                | Thursday  | 11:00 - 13:00        | ONLINE|
